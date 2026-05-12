@@ -1,0 +1,721 @@
+﻿MN_No,MA_No,Mapping_Quality,Pali_Name,Expected_Han,Found_Han,Status,Pali_Text,Han_Text
+1,106,TRUE_PAIR,mara,魔|波旬,,MISSING,nandī dukkhassa mūla nti iti viditvā bhavā jāti bhūtassa jarāmaraṇa nti,彼計一切即是神已 便不知一切
+5,87,SOFT,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ āyasmā sāriputto etadavoca,爾時 尊者舍梨子告諸比丘 諸賢 世有四種人 云何為四 或有一人內實有穢不自知 內有穢不知如真 或有一人內實有穢自知 內有穢知如真 或有一人內實無穢不自知 內無穢不知如真 或有一人內實無穢自知 內無穢知如真
+5,87,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,evaṃ vutte āyasmā mahāmoggallāno āyasmantaṃ sāriputtaṃ etadavoca,賢者 或有一人心生如是欲 諸居士往詣眾園時 令我與共會共集 共坐共論 莫令餘比丘諸居士往詣眾園時 與共會共集 共坐共論 賢者 或有餘比丘諸居士往詣眾園時 與共會共集 共坐共論 彼因餘比丘諸居士往詣眾園時 與共會共集 共坐共論故 心便生惡 若
+5,87,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,ko nu kho āvuso sāriputta hetu ko paccayo yenimesaṃ dvinnaṃ puggalānaṃ sāṅgaṇānaṃyeva sataṃ eko hīnapuriso akkhāyati eko,賢者 或有一人心生如是欲 令我為王者所識 及王大臣 梵志 居士 國中人民所知重 莫令餘比丘為王者所識 及王大臣 梵志 居士 國中人民所知重 賢者 或有餘比丘為王者所識 及王大臣 梵志 居士 國中人民所知重 彼因餘比丘為王者所識 及王大臣 梵
+5,87,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,ko panāvuso sāriputta hetu ko paccayo yenimesaṃ dvinnaṃ puggalānaṃ anaṅgaṇānaṃyeva sataṃ eko hīnapuriso akkhāyati eko se,賢者 或有一人心生如是欲 令我為四眾比丘 比丘尼 優婆塞 優婆私所敬重 莫令餘比丘為四眾比丘 比丘尼 優婆塞 優婆私所敬重 賢者 或有餘比丘為四眾比丘 比丘尼 優婆塞 優婆私所敬重 彼因餘比丘為四眾比丘 比丘尼 優婆塞 優婆私所敬重故 心便
+5,87,TRUE_PAIR,mara,魔|波旬,,MISSING,seyyathāpi āvuso kaṃsapāti ābhatā āpaṇā vā kammārakulā vā rajena ca malena ca pariyonaddhā,賢者 如是彼人若有諸智梵行者 不知彼生如是無量惡不善心欲者 如是彼非沙門沙門想 非智沙門智沙門想 非正智正智想 非正念正念想 非清淨清淨想 賢者 如是彼人若有諸智梵行者 知彼生如是無量惡不善心欲者 如是彼非沙門非沙門想 非智沙門非智沙門想 
+5,87,TRUE_PAIR,brahma,梵天|梵,,MISSING,lūkhacīvaradharo atha kho naṃ sabrahmacārī na ceva sakkaronti na garuṃ karonti na mānenti na pūjenti,經過店肆 近眾人行 彼眾見已 皆不欲食 無愛樂意 甚憎惡之 生不淨想 便作是說 即彼糞去 即彼糞去 彼持去已 住在一處便開示之 眾人見已 則皆欲食 意甚愛樂而不憎惡 則生淨想 彼若本不用食者 見已欲食 況復其本欲得食耶
+5,87,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,lūkhacīvaradharo atha kho naṃ sabrahmacārī na ceva sakkaronti na garuṃ karonti na mānenti na pūjenti,經過店肆 近眾人行 彼眾見已 皆不欲食 無愛樂意 甚憎惡之 生不淨想 便作是說 即彼糞去 即彼糞去 彼持去已 住在一處便開示之 眾人見已 則皆欲食 意甚愛樂而不憎惡 則生淨想 彼若本不用食者 見已欲食 況復其本欲得食耶
+5,87,TRUE_PAIR,brahma,梵天|梵,,MISSING,ca kiñcāpi so hoti gāmantavihārī nemantaniko gahapaticīvaradharo atha kho naṃ sabrahmacārī sakkaronti,尊者舍梨子告曰 賢者大目揵連 欲說喻者便可說之
+5,87,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,ca kiñcāpi so hoti gāmantavihārī nemantaniko gahapaticīvaradharo atha kho naṃ sabrahmacārī sakkaronti,尊者舍梨子告曰 賢者大目揵連 欲說喻者便可說之
+5,87,TRUE_PAIR,mara,魔|波旬,,MISSING,seyyathāpi āvuso kaṃsapāti ābhatā āpaṇā vā kammārakulā vā parisuddhā pariyodātā,得食 渴欲得飲 口及意也
+7,93,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭhevadhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi,梵志白曰 世尊 我已知 善逝 我已解 我今自歸佛 法及比丘眾 唯願世尊受我為優婆塞 從今日始 終身自歸 乃至命盡
+9,29,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,evamāvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ āyasmā sāriputto etadavoca,尊者舍梨子問曰 賢者大拘絺羅 頗有事因此事 比丘成就見 得正見 於法得不壞淨 入正法耶
+13,99,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃsu,爾時 諸比丘於中食後 少有所為 集坐講堂 於是眾多異學 中後仿佯往詣諸比丘所 共相問訊 却坐一面 語諸比丘 諸賢 沙門瞿曇施設知斷欲 施設知斷色 施設知斷覺 諸賢 我等亦施設
+13,99,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,atha kho tesaṃ bhikkhūnaṃ etadahosi atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ yaṃ nūna mayaṃ yena aññatitthiyānaṃ pa,於是 諸比丘聞彼眾多異學所說 不是亦不非 默然起去 並作是念 如此所說 我等當從世尊得知 便詣佛所 稽首作禮 却坐一面 謂與眾多異學所可共論 盡向佛說
+13,99,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,atha kho te bhikkhū sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā,復次 眾生因欲緣欲 以欲為本故 著鎧被袍 持矟弓箭 或執刀楯往奪他國 攻城破塢 共相格戰 打鼓吹角 高聲喚呼 或以
+13,99,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ idha mayaṃ bhante pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sā,王人所捉 種種考治 截手 截足或截手足 截耳 截鼻或截耳鼻 或臠臠割 拔鬚 拔髮或拔鬚髮 或著檻中衣裹火燒 或以沙壅草纏火𤋲 或內鐵驢腹中 或著鐵猪口中 或置鐵虎口中燒 或安銅釜中 或著鐵釜中煮 或段段截 或利叉
+13,99,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,tesaṃ no bhante amhākaṃ etadahosi atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ yaṃ nūna mayaṃ yena aññatitthiyānaṃ pari,刺 或鐵鉤鉤 或臥鐵床以沸油澆 或坐鐵臼以鐵杵擣 或龍蛇蜇 或以鞭鞭 或以杖撾 或以棒打 或生貫高標上 或梟其首 彼在其中 或死或怖 受極重苦 是謂現法苦陰 因欲緣欲 以欲為本
+14,100,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,tena kho pana samayena sambahulā nigaṇṭhā isigilipasse kāḷasilāyaṃ ubbhaṭṭhakā honti āsanapaṭikkhittā opakkamikā dukkhā ,摩訶男 是故當知欲一向無樂 無量苦患 多聞聖弟子不見如真者 彼為欲所覆 不得捨樂及無上息 摩訶男 如是彼多聞聖弟子因欲退轉 摩訶男 我知欲無樂 無量苦患 我知如真已 摩訶男 不為欲所覆 亦不為惡所纏 便得捨樂及無上息 摩訶男 是故我不因欲退
+14,100,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,ahaṃ kho āvuso nigaṇṭhā pahomi aniñjamāno kāyena abhāsamāno vācaṃ ekaṃ rattindivaṃ ekantasukhaṃ paṭisaṃvedī viharituṃ,摩訶男 我復問曰 諸尼揵 汝等信尊師無有疑耶 彼復答我 如是 瞿曇 我等信尊師無有疑惑 摩訶男 我復問曰 尼揵 若爾者 汝等尊師尼揵本重作惡不善之業 彼本作尼揵死 今生人間出家作尼揵 行不坐行 常立不坐 受如是苦 如汝等輩及弟子也 彼復語我
+14,100,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,ahaṃ kho āvuso nigaṇṭhā pahomi aniñjamāno kāyena abhāsamāno vācaṃ dve rattindivāni tīṇi rattindivāni,頻鞞娑羅王樂 沙門瞿曇不如也
+14,100,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,taṃ kiṃ maññathāvuso nigaṇṭhā evaṃ sante ko sukhavihāritaro rājā vā māgadho seniyo bimbisāro ahaṃ vā ti,靜默無言 因是七日七夜得歡喜快樂耶 尼揵答曰 不也 瞿曇 六五四三二 一日一夜得歡喜快樂耶 尼揵答曰 不也 瞿曇 復問曰 尼揵 我可得如意靜默無言 因是一日一夜得歡喜快樂耶 尼揵答曰 如是 瞿曇 二三四五六 七日七夜得歡喜快樂耶 尼揵答曰 
+15,89,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,āvuso ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṃ āyasmā mahāmoggallāno etadavoca,爾時 尊者大目揵連告諸比丘 諸賢 若有比丘請諸比丘 諸尊 語我 教我 訶我 莫難於我 所以者何 諸賢 或有一人戾語 成就戾語法 成就戾語法故 令諸梵行者不語彼 不教 不訶而難彼人 諸賢 何者戾語法 若有成就戾語法者 諸梵行者不語彼 不教 不
+18,115,TRUE_PAIR,kapilavatthu,迦維羅衛|迦毗羅衛,迦維羅衛,VARIANT,kapilavatthusmiṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena mahāvanaṃ tenupasaṅkami divāvihārāya,我聞如是 一時 佛遊釋羇瘦 在迦維羅衛
+18,115,TRUE_PAIR,brahma,梵天|梵,,MISSING,ca viññūnaṃ sabrahmacārīnaṃ pahoti cāyasmā mahākaccāno imassa bhagavatā saṃkhittena uddesassa,尊者大迦旃延告諸比丘 諸賢等共聽我所說 諸賢 緣眼及色 生眼識 三事共會 便有更觸 緣更觸便有所覺 若所覺便想 若所想便思 若所思便念 若所念便分別 比丘者因是念出家學道 思想修習 此中過去 未來 今現在法 不愛 不樂 不著 不住 是說苦邊
+18,115,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,ko nāmo ayaṃ bhante dhammapariyāyo ti tasmātiha tvaṃ ānanda imaṃ dhammapariyāyaṃ madhupiṇḍikapariyāyo tveva naṃ dhārehī ,通趣覺 趣於涅槃 若族姓子剃除鬚髮 著袈裟衣 至信 捨家 無家 學道者 當善受持此蜜丸喻
+22,200,TRUE_PAIR,mara,魔|波旬,,MISSING,so tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ,於是 阿梨吒比丘為世尊面訶責已 內懷憂慼 低頭默然 失辯無言 如有所伺
+22,200,TRUE_PAIR,mara,魔|波旬,,MISSING,aṅgapaccaṅgaṃ bhogehi paliveṭheyya atha kho so neva tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ,舡 亦無橋梁 或有人來 而於彼岸有事欲度 彼求度時 而作是念 今此山水甚深極廣 長流駛疾 多有所漂 其中無舡亦無橋梁而可度者 我於彼岸有事欲度 當以何方便 令我安隱至彼岸耶 復作是念 我今寧可於此岸邊收聚草木 縛作
+22,200,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃvādiṃ kho maṃ bhikkhave evamakkhāyiṃ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti,受 受已 不生憂慼 不煩勞 不啼哭 不椎胸 不發狂癡 汝等見所受所可受 不生憂慼 不煩勞 不啼哭 不椎胸 不發狂癡耶
+22,200,TRUE_PAIR,brahma,梵天|梵,,MISSING,yathā cāhaṃ na bhikkhave yathā cāhaṃ na vadāmi tathā maṃ te bhonto samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkha,世尊歎曰 善哉 善哉 汝等受如是身 所有身常住不變易 不磨滅法 汝等見受如是身所可
+24,9,TRUE_PAIR,brahma,梵天|梵,,MISSING,ekamantaṃ nisinne kho te bhikkhū bhagavā etadavoca ko nu kho bhikkhave jātibhūmiyaṃ jātibhūmakānaṃ bhikkhūnaṃ sabrahmacā,是時 生地諸比丘詣世尊所 稽首作禮 却坐一面
+24,9,TRUE_PAIR,brahma,梵天|梵,,MISSING,bhikkhūnaṃ kattā ovādako viññāpako sandassako samādapako samuttejako sampahaṃsako sabrahmacārīna nti,檀 結加趺坐
+24,9,TRUE_PAIR,brahma,梵天|梵,,MISSING,puṇṇo nāma bhante āyasmā mantāṇiputto jātibhūmiyaṃ jātibhūmakānaṃ bhikkhūnaṃ sabrahmacārīnaṃ evaṃ,時 尊者舍梨子問餘比丘 諸賢 何者是賢者滿慈子耶
+24,9,TRUE_PAIR,brahma,梵天|梵,,MISSING,viññāpako sandassako samādapako samuttejako sampahaṃsako sabrahmacārīna nti,時 尊者舍梨子知滿慈子色貌已 則善記念
+24,9,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,atha kho āyasmato sāriputtassa etadahosi lābhā āyasmato puṇṇassa mantāṇiputtassa suladdhalābhā,安陀林經行之處 尊者舍梨子亦過夜平旦 著衣持鉢 入舍衛國而行乞食 食訖中後 還舉衣鉢 澡洗手足 以尼師檀著於肩上 至安陀林經行之處
+24,9,TRUE_PAIR,brahma,梵天|梵,,MISSING,āyasmato puṇṇassa mantāṇiputtassa yassa viññū sabrahmacārī satthu sammukhā anumassa anumassa vaṇṇaṃ bhāsanti,時 尊者滿慈子到安陀林 於一樹下敷尼師檀 結加趺坐 尊者舍梨子亦至安陀林 離滿慈子不遠 於一樹下敷尼師檀 結加趺坐
+24,9,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,evaṃ vutte āyasmā sāriputto āyasmantaṃ puṇṇaṃ mantāṇiputtaṃ etadavoca konāmo āyasmā kathañca panāyasmantaṃ sabrahmacārī ,於是 尊者舍梨子問尊者滿慈子 賢者名何等 諸梵行人云何稱賢者耶
+24,9,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,puṇṇoti kho me āvuso nāmaṃ mantāṇiputtoti ca pana maṃ sabrahmacārī jānantī ti,尊者滿慈子答曰 賢者 我號滿也 我母名慈 故諸梵行人稱我為滿慈子
+24,9,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,mayaṃ āyasmantaṃ sāriputtaṃ labhāma dassanāya labhāma payirūpāsanāyā ti,尊者滿慈子歎曰 我今與世尊弟子共論而不知 第二尊共論而不知 法將共論而不知 轉法輪復轉弟子共論而不知 若我知尊者舍梨子者 不能答一句 況復爾所深論 善哉 善哉 尊者舍梨子 為如來弟子 所作智辯聰明決定 安隱無畏 成就調御 逮大辯才 得甘露幢
+25,178,TRUE_PAIR,mara,魔|波旬,,MISSING,paññāya cassa disvā āsavā parikkhīṇā honti ayaṃ vuccati bhikkhave bhikkhu andhamakāsi māraṃ apadaṃ vadhitvā māracakkhuṃ ,佛說如是 彼諸比丘聞佛所說 歡喜奉行
+27,146,TRUE_PAIR,brahma,梵天|梵,,MISSING,tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divādivassa,爾時 卑盧異學平旦則從舍衛國出 往詣佛所 稽首作禮 却坐一面 佛為彼說法 勸發渴仰 成就歡喜 無量方便為彼說法 勸發渴仰 成就歡喜已 默然而住 卑盧異學 佛為說法 勸發渴仰 成就歡喜已 即從
+27,146,TRUE_PAIR,savatthi,舍衛|舍衛國,舍衛|舍衛國,MATCH,tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divādivassa,爾時 卑盧異學平旦則從舍衛國出 往詣佛所 稽首作禮 却坐一面 佛為彼說法 勸發渴仰 成就歡喜 無量方便為彼說法 勸發渴仰 成就歡喜已 默然而住 卑盧異學 佛為說法 勸發渴仰 成就歡喜已 即從
+27,146,TRUE_PAIR,brahma,梵天|梵,,MISSING,addasā kho jāṇussoṇi brāhmaṇo pilotikaṃ paribbājakaṃ dūratova āgacchantaṃ disvāna pilotikaṃ paribbājakaṃ etadavoca,坐起 稽首佛足 繞三匝而去
+27,146,TRUE_PAIR,brahma,梵天|梵,,MISSING,puna caparaṃ brāhmaṇa bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ,伸低仰 儀容庠序 善著僧伽梨及諸衣鉢 行住坐臥 眠
+27,146,TRUE_PAIR,brahma,梵天|梵,,MISSING,idampi vuccati brāhmaṇa pe suppaṭipanno bhagavato sāvakasaṅgho ti,塚間 彼已在無事處 或至樹下空安靜處 敷尼師檀 結
+27,146,TRUE_PAIR,brahma,梵天|梵,,MISSING,puna caparaṃ brāhmaṇa bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti,加趺坐 正身正願 返念不向 斷除貪伺 心無有諍 見他財物諸生活具 不起貪伺 欲令我得 彼於貪伺淨除其心
+27,146,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,ettāvatā kho brāhmaṇa ariyasāvako niṭṭhaṃ gato hoti sammāsambuddho bhagavā svākkhāto bhagavatā dhammo suppaṭipanno bhaga,彼離喜欲 捨無求遊 正念正智而身覺樂 謂聖所說聖所捨 念 樂住室 逮第三禪成就遊 梵志 是謂如來所屈 如來所行 如來所服 然彼不以此為訖 世尊 如來 無所著 等正覺 世尊所說法善 如來弟子聖眾善趣 彼樂滅 苦滅 喜 憂本已滅 不苦不樂 捨念
+27,146,TRUE_PAIR,brahma,梵天|梵,,MISSING,ettāvatā kho brāhmaṇa hatthipadopamo vitthārena paripūro hotī ti,彼已得如是定心 清淨無穢 無煩柔軟 善住得不動心 趣向漏盡智通作證 彼知此苦如真 知此苦
+27,146,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,evaṃ vutte jāṇussoṇi brāhmaṇo bhagavantaṃ etadavoca abhikkantaṃ bho gotama abhikkantaṃ bho gotama,習 知此苦滅 知此苦滅道如真 知此漏如真 知此漏習 知此漏滅 知此漏滅道如真 彼如是知 如是見 欲漏心解脫 有漏 無明漏心解脫 解脫已 便知解脫 生已盡 梵行已立 所作已辦 不更受有 知如真 梵志 是謂如來所屈 如來所行 如來所服 彼以此為
+31,185,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,pe nimmānaratī devā pe paranimmitavasavattī devā pe brahmakāyikā devā saddamanussāvesuṃ lābhā,尊者金毘羅白曰 世尊 我作是念 我有善利 有大功德 謂我與如是梵行共行 世尊 我常向彼梵行行慈身業 見與不見 等無有異 行慈口業 行慈意業 見與不見 等無有異 世尊 我作是念 我今寧可自捨己心 隨彼諸賢心 我便自捨己心 隨彼諸賢心 我未曾有
+31,185,TRUE_PAIR,brahma,梵天|梵,,MISSING,itiha te āyasmanto tena khaṇena tena layena tena muhuttena yāvabrahmalokā viditā ahesuṃ evametaṃ dīgha evametaṃ dīgha,世尊歎曰 善哉 善哉 阿那律陀 捨此住止 過此度此 頗更有餘得人上之法 而有差降安樂住止耶
+31,185,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,sadevako cepi dīgha loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā ete tayo,從地神聞聲 虛空天 他化樂天 須臾聲徹至于梵天 大仙人 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅
+31,185,TRUE_PAIR,mara,魔|波旬,,MISSING,sadevako cepi dīgha loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā ete tayo,從地神聞聲 虛空天 他化樂天 須臾聲徹至于梵天 大仙人 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅
+31,185,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,kulaputte pasannacittā anussareyya sadevakassapāssa lokassa samārakassa sabrahmakassa,世尊告曰 如是 如是 長鬼天 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 長鬼天 地神聞汝聲已 便放高大音聲 大仙人 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 從地神聞聲 虛空天 四天王天三
+31,185,TRUE_PAIR,brahma,梵天|梵,,MISSING,kulaputte pasannacittā anussareyya sadevakassapāssa lokassa samārakassa sabrahmakassa,世尊告曰 如是 如是 長鬼天 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 長鬼天 地神聞汝聲已 便放高大音聲 大仙人 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 從地神聞聲 虛空天 四天王天三
+31,185,TRUE_PAIR,mara,魔|波旬,,MISSING,kulaputte pasannacittā anussareyya sadevakassapāssa lokassa samārakassa sabrahmakassa,世尊告曰 如是 如是 長鬼天 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 長鬼天 地神聞汝聲已 便放高大音聲 大仙人 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 從地神聞聲 虛空天 四天王天三
+31,185,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāya,哆天 化樂天 他化樂天 須臾聲徹至于梵天 大仙人 諸跋耆人得大善利 謂現有世尊及三族姓子 尊者阿那律陀 難提 金毘羅 長鬼天 若彼三族家 此三族姓子剃除鬚髮 著袈裟衣 至信 捨家 無家 學道 彼三族家憶此三族姓子所因 所行者 彼亦長夜得大善
+32,184,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,tenupasaṅkami upasaṅkamitvā āyasmantaṃ mahākassapaṃ etadavoca āyāmāvuso kassapa yenāyasmā sāriputto,夜平旦 往詣尊者舍梨子所 賢者離越哆 今可共彼諸尊往詣尊者舍梨子所
+32,184,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,tenupasaṅkamissāma dhammassavanāyā ti evamāvuso ti kho āyasmā mahākassapo āyasmato mahāmoggallānassa paccassosi,尊者舍梨子遙見彼諸尊來已 尊者舍梨子因彼諸尊故說 善來 賢者阿難 善來 阿難 善來 阿難 世尊侍者解世尊意 常為世尊之所稱譽 及諸智梵行人 我今問賢者阿難 此牛角娑羅林甚可愛樂 夜有明月 諸娑羅樹皆敷妙香 猶若天花 賢者阿難 何等比丘起發牛
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,idhāvuso sāriputta bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena sahassaṃ lokānaṃ voloketi,千 意所惟觀 明見深達 彼所說法簡要捷疾 與正相應 欲斷諸結 尊者舍梨子 如是比丘起發牛角娑羅林
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,seyyathāpi āvuso sāriputta cakkhumā puriso uparipāsādavaragato sahassaṃ nemimaṇḍalānaṃ volokeyya,尊者舍梨子復問曰 賢者離越哆 賢者阿難比丘已說隨所知 我今復問賢者離越哆 此牛角娑羅林甚可愛樂 夜有明月 諸娑羅樹皆敷妙香 猶若天花 賢者離越
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,evameva kho āvuso sāriputta bhikkhu dibbena cakkhunā visuddhena atikkantamānusakena sahassaṃ lokānaṃ voloketi,哆 何等比丘起發牛角娑羅林
+32,184,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,evaṃ vutte āyasmā sāriputto āyasmantaṃ mahākassapaṃ etadavoca byākataṃ kho āvuso kassapa āyasmatā anuruddhena yathāsakaṃ,尊者離越哆答曰 尊者舍梨子 若有比丘樂於燕坐 內行
+32,184,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,seyyathāpi āvuso moggallāna rañño vā rājamahāmattassa vā nānārattānaṃ dussānaṃ dussakaraṇḍako pūro assa,尊者舍梨子復問曰 賢者迦旃延 賢者阿那律陀比丘已說隨所知 我今復問賢者迦旃延 此牛角娑羅林甚可愛樂 夜有明月 諸娑羅樹皆敷妙香 猶若天花 賢者迦旃延 何等比丘起發牛角娑羅林
+32,184,SOFT,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yathā taṃ kassapova sammā byākaramāno byākareyya kassapo hi sāriputta attanā ca āraññiko āraññikattassa ca vaṇṇavādī att,尊者大迦葉答曰 賢者舍梨子 若有比丘自無事稱說無事 自有少欲稱說少欲 自有知足稱說知足 自樂在遠離獨住稱說樂在遠離獨住 自修行精勤稱說修行精勤 自立正念正智稱說立正念正智 自得定稱說得定 自有智慧稱說智慧 自諸漏已盡稱說諸漏已盡 自勸發渴仰
+32,184,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,evaṃ vutte ahaṃ bhante āyasmantaṃ mahāmoggallānaṃ etadavocaṃ byākataṃ kho āvuso moggallāna āyasmatā mahākassapena yathās,人 我今問賢者阿難 此牛角娑羅林甚可愛樂 夜有明月 諸娑羅樹皆敷妙香 猶若天華 賢者阿難 何等比丘起發牛角娑羅林 賢者阿難即答我曰 尊者舍梨子 若有比丘廣學多聞 守持不忘 積聚博聞 所謂法者 初妙 中妙 竟亦妙 有義有文 具足清淨 顯現梵行
+32,184,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,tattha dāni mayaṃ āyasmantaṃ mahāmoggallānaṃ pucchāma pe kathaṃrūpena āvuso moggallāna bhikkhunā gosiṅgasālavanaṃ sobhey,世尊歎曰 善哉 善哉 舍梨子 實如阿難比丘所說 所以者何 阿難比丘成就多聞
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,evaṃ vutte bhante āyasmā mahāmoggallāno maṃ etadavoca idhāvuso sāriputta dve bhikkhū abhidhammakathaṃ kathenti,尊者舍梨子白曰 世尊 賢者阿難如是說已 我復問曰 賢者離越哆 賢者阿難比丘已說隨所知 我今復問賢者離越哆 此牛角
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,sādhu sādhu sāriputta yathā taṃ moggallānova sammā byākaramāno byākareyya moggallāno hi sāriputta dhammakathiko ti,世尊歎曰 善哉 善哉 舍梨子 如離越哆比丘所說 所以者何 離越哆比丘常樂坐禪
+32,184,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,seyyathāpi āvuso moggallāna rañño vā rājamahāmattassa vā nānārattānaṃ dussānaṃ dussakaraṇḍako pūro assa,微少方便須臾盡見 尊者舍梨子 如是比丘起發牛角娑羅林
+32,184,SOFT,moggallana,目犍連|目乾連,,MISSING,sādhu sādhu moggallāna yathā taṃ sāriputtova sammā byākaramāno byākareyya,智慧 自諸漏已盡稱說諸漏已盡 自勸發渴仰成就歡喜稱說勸發渴仰成就歡喜 賢者舍梨子 如是比丘起發牛角娑羅林
+32,184,SOFT,moggallana,目犍連|目乾連,,MISSING,sāriputto hi moggallāna cittaṃ vasaṃ vatteti no ca sāriputto cittassa vasena vattati,智慧 自諸漏已盡稱說諸漏已盡 自勸發渴仰成就歡喜稱說勸發渴仰成就歡喜 賢者舍梨子 如是比丘起發牛角娑羅林
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,sabbesaṃ vo sāriputta subhāsitaṃ pariyāyena api ca mamapi suṇātha yathārūpena bhikkhunā gosiṅgasālavanaṃ sobheyya,於是 尊者大目揵連即從坐起 偏袒著衣 叉手向佛 白曰 世尊 我及諸尊如是說已 便白尊者舍梨子曰 尊者舍梨子 我及諸尊已各自說隨其所知 我今問尊者舍梨子 此牛角娑羅林甚可愛樂 夜有明月 諸娑羅樹皆敷妙香 猶若天華 尊者舍梨子 何等比丘起發牛角
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,idha sāriputta bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati,於是 尊者舍梨子即從坐起 偏袒著衣 叉手向佛 白曰 世尊 我及諸賢如是說已 告曰 賢者目揵連 我及諸賢已各自說隨其所知 賢者目揵連 我等寧可共彼諸賢往詣佛所 向論此事 於中知誰最為善說 世尊 我等誰為善說耶
+32,184,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,evarūpena kho sāriputta bhikkhunā gosiṅgasālavanaṃ sobheyyā ti,佛說如是 彼諸比丘聞佛所說 歡喜奉行
+38,201,SOFT,mara,魔|波旬,,MISSING,taṇhāpaccayā upādānaṃ upādānapaccayā bhavo bhavapaccayā jāti jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā s,等大苦陰生 緣生有老死 此說緣生有老死 於汝等意云何
+38,201,SOFT,mara,魔|波旬,,MISSING,evametassa kevalassa dukkhakkhandhassa samudayo hoti jātipaccayā jarāmaraṇanti iti kho panetaṃ vuttaṃ jātipaccayā nu kho,等大苦陰生 緣生有老死 此說緣生有老死 於汝等意云何
+38,201,SOFT,mara,魔|波旬,,MISSING,jātipaccayā bhante jarāmaraṇaṃ evaṃ no ettha hoti jātipaccayā jarāmaraṇa nti,等大苦陰生 緣生有老死 此說緣生有老死 於汝等意云何
+38,201,TRUE_PAIR,mara,魔|波旬,,MISSING,yā vedanāsu nandī tadupādānaṃ tassupādānapaccayā bhavo bhavapaccayā jāti jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadoman,世尊歎曰 善哉 善哉 比丘 汝等如是說 所以者何 我亦如是說 無明滅則行滅 行滅則識滅 識滅則名色滅 名色滅則六處滅 六處滅則更樂滅 更樂滅則覺滅 覺滅則愛滅 愛滅則受滅 受滅則有滅 有滅則生滅 生滅則老死滅 愁慼 啼哭 憂苦 懊惱可得滅 
+38,201,TRUE_PAIR,mara,魔|波旬,,MISSING,yā vedanāsu nandī tadupādānaṃ tassupādānapaccayā bhavo bhavapaccayā jāti jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadoman,世尊歎曰 善哉 善哉 若汝等如是知 如是見 汝等頗故殺父母 害
+38,201,TRUE_PAIR,mara,魔|波旬,,MISSING,so bījagāmabhūtagāmasamārambhā paṭivirato hoti ekabhattiko hoti rattūparato virato vikālabhojanā,比丘答曰 如是 世尊
+38,201,TRUE_PAIR,mara,魔|波旬,,MISSING,tassa nandīnirodhā upādānanirodho upādānanirodhā bhavanirodho bhavanirodhā jātinirodho jātinirodhā jarāmaraṇaṃ sokaparid,比丘答曰 如是 世尊 具足愛盡解脫也
+39,182,TRUE_PAIR,brahma,梵天|梵,,MISSING,sataṃ evaṃpaṭiññānaṃ sataṃ ye dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca te dhamme samādāya vattissāma,若汝等作是念 我身 口 意 命行清淨 我所作已辦 不復更學 已成德義 無復上作 比丘 我為汝說 莫令求沙門義失沙門義 若欲求上學者 比丘身 口 意命行清淨 當復作何等 比丘當學守護諸根 常念閉塞 念欲明達 守護念心而得成就 恒欲起意 若眼見
+39,182,TRUE_PAIR,brahma,梵天|梵,,MISSING,katame ca bhikkhave dhammā samaṇakaraṇā ca brāhmaṇakaraṇā ca,靖處 山巖石室 露地穰𧂐 或至林中 或在塚間 彼已在無事處 或至樹下空安靖處 敷尼師壇 結
+43,211,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,ekamantaṃ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṃ sāriputtaṃ etadavoca duppañño duppañño ti āvuso vuccati,尊者舍黎子語曰 賢者拘絺羅 欲有所問 聽我問耶
+43,211,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,sādhāvuso ti kho āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṃ abhinanditvā anumoditvā āyasmantaṃ sāriputtaṃ uttari,尊者舍黎子聞已 歎曰 善哉 善哉 賢者拘絺羅 尊者舍黎子歎已 歡喜奉行
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,ekamantaṃ nisinno kho visākho upāsako dhammadinnaṃ bhikkhuniṃ etadavoca sakkāyo sakkāyo ti ayye vuccati,法樂比丘尼答曰 毘舍佉 欲問便問 我聞已當思
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,katamo nu kho ayye sakkāyo vutto bhagavatā ti pañca kho ime āvuso visākha upādānakkhandhā sakkāyo vutto bhagavatā seyyat,毗舍佉優婆夷便問曰 賢聖 自身 說自身 云何為自身耶
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,ime kho āvuso visākha pañcupādānakkhandhā sakkāyo vutto bhagavatā ti,復問曰 賢聖 云何為自身見耶
+44,210,SOFT,sakka,帝釋|天帝釋,,MISSING,dhammadinnaṃ bhikkhuniṃ uttariṃ pañhaṃ apucchi sakkāyasamudayo sakkāyasamudayo ti ayye vuccati,法樂比丘尼答曰 不多聞愚癡凡夫不見善知識 不知聖法 不御聖法
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,katamo nu kho ayye sakkāyasamudayo vutto bhagavatā ti yāyaṃ āvuso visākha taṇhā ponobbhavikā nandīrāgasahagatā tatratatr,彼見色是神 見神有色 見神中有色 見色中有神也 見覺 想 行 識是神 見神有識 見神中有識 見識中有神也 是謂自身見也
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,bhavataṇhā vibhavataṇhā ayaṃ kho āvuso visākha sakkāyasamudayo vutto bhagavatā ti,復問曰 賢聖 云何無身見耶
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkāyanirodho sakkāyanirodho ti ayye vuccati katamo nu kho ayye sakkāyanirodho vutto bhagavatā ti,法樂比丘尼答曰 多聞聖弟子見善知識 知聖法 善御聖法 彼不見色是神 不見神有色 不見神中有色 不見色中有神也 不見覺 想 行 識是神 不見神有識 不見神中有識 不見識中有神也 是謂無身見也
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,yo kho āvuso visākha tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo ayaṃ kho āvuso visākha sakkāya,復問曰 賢聖 云何滅自身耶
+44,210,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,evaṃ kho āvuso visākha sakkāyadiṭṭhi na hotī ti katamo panāyye ariyo aṭṭhaṅgiko maggo ti,復問曰 賢聖 云何八支聖道耶
+44,210,TRUE_PAIR,brahma,梵天|梵,,MISSING,nibbānogadhañhi āvuso visākha brahmacariyaṃ nibbānaparāyanaṃ nibbānapariyosānaṃ,法樂比丘尼告曰 君欲問無窮事 然君問事不能得窮我邊也 涅槃者 無對也 涅槃者 以無
+45,174,TRUE_PAIR,brahma,梵天|梵,,MISSING,santi bhikkhave eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino natthi kāmesu doso ti,彼樹神而作是念 以何等故 彼邊傍種子村神 村百穀藥木親親朋友樹神 於種子見當來有何恐怖 有何災患 而來慰勞我言 樹神勿怖 樹神勿怖 樹神 此
+45,174,TRUE_PAIR,mara,魔|波旬,,MISSING,te kāmesu pātabyataṃ āpajjitvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjanti,恐怖 見此災患故 而來慰勞我言 樹神勿怖 樹神勿怖
+45,174,TRUE_PAIR,brahma,梵天|梵,,MISSING,te tattha dukkhā tibbā kharā kaṭukā vedanā vedayanti te evamāhaṃsu idaṃ kho te bhonto samaṇabrāhmaṇā kāmesu anāgatabhaya,此種子或為鹿食 或孔雀食 或風吹去 或村火燒 或野火燒 或敗壞不成種子 如是 樹神 汝得安隱 若此種子非為鹿食 非孔雀食 非風吹去 非村火燒 非野火燒 亦非敗壞不成種子 此種子不缺不穿 亦不剖坼 不為風 雨 日所中傷 得大雨漬 便速生也 我
+46,175,TRUE_PAIR,brahma,梵天|梵,,MISSING,puthusamaṇabrāhmaṇaparappavāde abhivihacca bhāsate ca tapate ca virocate cā ti,佛說如是 彼諸比丘聞佛所說 歡喜奉行
+49,78,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,evaṃ vutte ahaṃ bhikkhave bakaṃ brahmānaṃ etadavocaṃ avijjāgato vata bho bako brahmā avijjāgato,時 魔波旬在彼眾中 於是 魔波旬語世尊曰 比丘 莫違此梵天所說 莫逆此梵天所說 比丘 若汝違此梵天所說 逆此梵天所說者 是為比丘猶如有人吉祥事來 而排却之 比丘所說亦復如是 是故 比丘 我語汝莫違此梵天所說 莫逆此梵天所說 比丘 若汝違此梵
+49,78,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,vata bho bako brahmā yatra hi nāma aniccaṃyeva samānaṃ niccanti vakkhati addhuvaṃyeva samānaṃ dhuvanti,大仙人 若有沙門 梵志 憎惡地 毀呰地者 彼身壞命終 必生餘下賤妓樂神中 如是水 火 風 神 天 生主 憎惡梵天 毀呰梵天者 彼身壞命終 必生餘下賤妓樂神中 大仙人 若有沙門 梵志 愛樂地 稱歎地者 彼身壞命終 必生最上尊梵天中 如是水 火
+49,78,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,ahesuṃ kho bhikkhu tayā pubbe samaṇabrāhmaṇā lokasmiṃ yāvatakaṃ tuyhaṃ kasiṇaṃ āyu tāvatakaṃ tesaṃ tapokammameva ahosi,於是 梵天白世尊曰 大仙人 昔有沙門 梵志 壽命極長 存住極久 大仙人 汝壽至短 不
+49,78,TRUE_PAIR,brahma,梵天|梵,,MISSING,sace āpaṃ tejaṃ vāyaṃ bhūte deve pajāpatiṃ brahmaṃ ajjhosissasi opasāyiko me bhavissasi vatthusāyiko yathākāmakaraṇīyo b,識悉我 如日自在 明照諸方 是為千世界 於千世界中 汝得自在耶 知彼彼處無有晝夜 大仙人曾
+49,78,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,sace āpaṃ tejaṃ vāyaṃ bhūte deve pajāpatiṃ brahmaṃ ajjhosissāmi opasāyiko te bhavissāmi vatthusāyiko,世尊告曰 梵天 如日自在 明照諸方 是為千世界 於千世界中 我得自在 亦知彼彼處無有晝夜 梵天 我曾更歷彼 我數經歷彼 梵天 有三種天 光天 淨光天 遍淨光天 梵天 若彼三種天有知有見者 我亦有彼知見 梵天 若彼三種天無知無見者 我亦自有知
+49,78,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,mahiddhiko bako brahmā evaṃ mahānubhāvo bako brahmā evaṃ mahesakkho bako brahmā ti,於是 梵天白世尊曰 大仙人 何由得彼三種天有知有見者 汝亦有彼知見 若彼三種天無知無見者 汝亦自有知見 若彼三種天及眷屬有知有見者 汝亦有彼知見 若彼三種天及眷屬無知無見者 汝亦自有知見 若我有知有見者 汝亦有此知見 若我無知無見者 汝亦自
+49,78,SOFT,brahma,梵天|梵,梵天|梵,MATCH,yathākathaṃ pana me tvaṃ mārisa gatiñca pajānāsi jutiñca pajānāsi evaṃ mahiddhiko bako brahmā evaṃ mahānubhāvo bako brah,淨有淨想 淨是我 淨是我所 我是淨所 彼計淨是我已 便不知淨 梵天 若有沙門 梵志 地則知地 地非是我 地非我所 我非地所 彼不計地是我已 彼便知地 如是水 火 風 神 天 生主 梵天 無煩 無熱 淨則知淨 淨非是我 淨非我所 我非淨所 彼
+49,78,SOFT,brahma,梵天|梵,梵天|梵,MATCH,evaṃ kho te ahaṃ brahme gatiñca pajānāmi jutiñca pajānāmi evaṃ mahiddhiko bako brahmā evaṃ mahānubhāvo bako brahmā evaṃ ,淨有淨想 淨是我 淨是我所 我是淨所 彼計淨是我已 便不知淨 梵天 若有沙門 梵志 地則知地 地非是我 地非我所 我非地所 彼不計地是我已 彼便知地 如是水 火 風 神 天 生主 梵天 無煩 無熱 淨則知淨 淨非是我 淨非我所 我非淨所 彼
+49,78,TRUE_PAIR,brahma,梵天|梵,,MISSING,pe deve kho ahaṃ brahme pe pajāpatiṃ kho ahaṃ brahme pe brahmaṃ kho ahaṃ brahme pe ābhassare kho,於是 世尊告曰 魔波旬 汝不為我求義故說 非為饒益故 非為樂故 非為安隱故 莫得訓誨教呵弟子 莫為弟子說法 莫著弟子 莫為著弟子故 身壞命終 生餘下賤妓樂神中 行無為 於現世受安樂 所以者何 大仙人 汝唐自煩勞 魔波旬 汝作是念 此沙門瞿曇
+50,131,TRUE_PAIR,mara,魔|波旬,魔|波旬,MATCH,disvāna māraṃ pāpimantaṃ etadavoca nikkhama pāpima nikkhama pāpima mā tathāgataṃ vihesesi mā tathāgatasāvakaṃ,尊者大目犍連即從定寤 語魔王曰 汝波旬出 汝波旬出 莫觸嬈如來 亦莫觸嬈如來弟子 莫於長夜無義無饒益 必生惡處 受無量苦
+50,131,TRUE_PAIR,mara,魔|波旬,魔|波旬,MATCH,atha kho mārassa pāpimato etadahosi ajānameva kho maṃ ayaṃ samaṇo apassaṃ evamāha nikkhama pāpima nikkhama pāpima,尊者大目揵連復語魔王 我復知汝意 汝作是念 此沙門不知不見而作是說 汝波旬出 汝波旬出
+50,131,TRUE_PAIR,mara,魔|波旬,,MISSING,atha kho āyasmā mahāmoggallāno māraṃ pāpimantaṃ etadavoca evampi kho tāhaṃ pāpima jānāmi mā tvaṃ maññittho na maṃ jānātī,出 在尊者大目犍連前立
+50,131,TRUE_PAIR,mara,魔|波旬,魔|波旬,MATCH,atha kho pāpima dūsissa mārassa etadahosi imesaṃ kho ahaṃ bhikkhūnaṃ sīlavantānaṃ kalyāṇadhammānaṃ neva jānāmi āgatiṃ vā,波旬 覺礫拘荀大如來 無所著 等正覺弟子用傷其頭 裂壞其衣 破其應器已 往詣覺礫拘荀大如來 無所著 等正覺所 爾時 覺礫拘荀大如來 無所著 等正覺無量百千眷屬圍遶而為說法 覺礫拘荀大如來 無所著 等正覺遙見弟子頭傷 衣裂 鉢破而來 見已 告
+50,131,TRUE_PAIR,brahma,梵天|梵,,MISSING,yaṃnūnāhaṃ brāhmaṇagahapatike anvāviseyyaṃ etha tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsatha rosetha vih,嘖數 所以者何 或罵打破責數時 儻能起惡心 令我得其便 比丘 汝等當以心與慈俱 遍滿一方成就遊 如是二三四方 四維上下 普周一切 心與慈俱 無結無怨 無恚無諍 極廣甚大 無量善修 遍滿一切世間成就遊 如是悲 喜心與捨俱 無結無怨 無恚無諍 
+50,131,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho te pāpima dūsī māro brāhmaṇagahapatike anvāvisi etha tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsat,波旬 彼時惡魔復作是念 我以此事求精進沙門便 而不能得 我寧可教勅梵志 居士 汝等共來奉敬 供養 禮事精進沙門 或以奉敬 供養 禮事精進沙門 儻能起惡心 令我得其便 波旬 彼梵志 居士為惡魔所教勅已 即共奉敬 供養 禮事精進沙門 以衣敷地而
+50,131,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho te pāpima brāhmaṇagahapatikā anvāvisiṭṭhā dūsinā mārena bhikkhū sīlavante kalyāṇadhamme akkosanti,波旬 覺礫拘荀大如來 無所著 等正覺弟子得奉敬 供養 禮事已 往詣覺礫拘荀大如來 無所著 等正覺所 是時 覺礫拘荀大如來 無所著 等正覺無量百千眷屬圍遶而為說法 覺礫拘荀大如來 無所著 等正覺遙見弟子得奉敬 供養 禮事而來 見已 告諸比丘 
+50,131,TRUE_PAIR,mara,魔|波旬,,MISSING,ye kho pana pāpima tena samayena manussā kālaṅkaronti yebhuyyena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ ni,若見比丘來 還顧有慚愧 若毘闍延殿 見比丘問義
+50,131,TRUE_PAIR,brahma,梵天|梵,,MISSING,brāhmaṇagahapatikā dūsinā mārena etha tumhe bhikkhū sīlavante kalyāṇadhamme akkosatha paribhāsatha,比丘即為答 問者如其義
+50,131,TRUE_PAIR,mara,魔|波旬,,MISSING,ye kho pana pāpima tena samayena manussā kālaṅkaronti yebhuyyena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajj,是謂千世界 於千世界中 無有勝此殿 如毘闍延哆
+50,131,TRUE_PAIR,brahma,梵天|梵,,MISSING,brāhmaṇagahapatikā dūsinā mārena etha tumhe bhikkhū sīlavante kalyāṇadhamme sakkarotha garuṃ,毘闍延殿內 釋得自在遊 毘闍延大殿 足指能
+50,131,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,brāhmaṇagahapatikā dūsinā mārena etha tumhe bhikkhū sīlavante kalyāṇadhamme sakkarotha garuṃ,毘闍延殿內 釋得自在遊 毘闍延大殿 足指能
+50,131,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,karotha mānetha pūjetha appeva nāma tumhehi sakkariyamānānaṃ garukariyamānānaṃ māniyamānānaṃ,震動
+50,131,TRUE_PAIR,mara,魔|波旬,,MISSING,atha kho pāpima dūsī māro aññataraṃ kumārakaṃ anvāvisitvā sakkharaṃ gahetvā āyasmato vidhurassa sīse pahāramadāsi sīsaṃ ,若干無量千 及百諸那術 至三十三天 慧眼者說法
+52,217,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,dassanakāmā hi mayaṃ taṃ āyasmantaṃ ānanda nti eso gahapati āyasmā ānando vesāliyaṃ viharati beluvagāmake ti,諸上尊比丘答曰 居士 尊者阿難今在鞞舍離獼猴江邊高樓臺觀 若欲見者 可往至彼
+52,217,TRUE_PAIR,vesali,毘舍離|毗舍離,,MISSING,dassanakāmā hi mayaṃ taṃ āyasmantaṃ ānanda nti eso gahapati āyasmā ānando vesāliyaṃ viharati beluvagāmake ti,諸上尊比丘答曰 居士 尊者阿難今在鞞舍離獼猴江邊高樓臺觀 若欲見者 可往至彼
+52,217,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ekamantaṃ nisinno kho dasamo gahapati aṭṭhakanāgaro āyasmantaṃ ānandaṃ etadavoca atthi nu kho,爾時 第十居士八城即從坐起 首諸上尊比丘足 繞三匝而去 往詣尊者阿難所 稽首禮足 却坐一面 白曰 尊者阿難 欲有所問 聽我問耶
+52,217,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,bhante ānanda tena bhagavatā jānatā passatā arahatā sammāsambuddhena ekadhammo akkhāto yattha,尊者阿難告曰 居士 欲問便問 我聞已當思
+52,217,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,imehi nāma bhante aññatitthiyā ācariyassa ācariyadhanaṃ pariyesissanti kimaṅgaṃ panāhaṃ āyasmato ānandassa pūjaṃ na kari,復次 居士 多聞聖弟子心與慈俱 遍滿一方成就遊 如是二三四方 四維上下 普周一切 心與慈俱 無結無怨 無恚無諍 極廣甚大 無量善修 遍滿一切世間成就遊 如是悲 喜心與捨俱 無結無怨 無恚無諍 極廣甚大 無量善修 遍滿一切世間成就遊 彼依此處
+52,217,TRUE_PAIR,vesali,毘舍離|毗舍離,,MISSING,atha kho dasamo gahapati aṭṭhakanāgaro pāṭaliputtakañca vesālikañca bhikkhusaṅghaṃ sannipātetvā,復次 居士 多聞聖弟子度一切色想 乃至非有想非無想處成就遊 彼於此處 觀法如法 彼於此處 觀法如法 住彼得漏盡者 或有是處 若住彼 不得漏盡者 或因此法 欲法 愛法 樂法 靖法 愛樂歡喜 斷五下分結盡 化生於彼而般涅槃 得不退法 終不還此 
+52,217,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,dussayugena acchādesi āyasmantañca ānandaṃ ticīvarena acchādesi āyasmato ca ānandassa pañcasatavihāraṃ kārāpesīti,於是 第十居士八城即於夜中 施設極妙淨美豐饒食噉含消 施設食已 平旦敷座 請鷄園眾及鞞舍離眾皆集一處 自行澡水 則以極妙淨美豐饒食噉含消 手自斟酌 令得飽滿 食訖收器 行澡水竟 持五百種物買屋別施尊者阿難 尊者阿難受已 施與招提僧
+54,203,TRUE_PAIR,mara,魔|波旬,,MISSING,garaheyyuṃ pāṇātipātapaccayā kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā pāṇātipātapaccayā,居士 多聞聖弟子亦復作是思惟 欲如火坑 世尊說欲如火坑 樂少苦多 多有災患 當遠離之 若有此捨離欲 離惡不善之法 謂此一切世間飲食永盡無餘 當修習彼 居士 猶去村不遠 有大毒蛇 至惡苦毒 黑色可畏 若有人來 不愚不癡 亦不顛倒 自住本心 自
+54,203,TRUE_PAIR,mara,魔|波旬,,MISSING,garaheyyuṃ adinnādānapaccayā kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā adinnādānapaccayā,居士 猶去村不遠 有大果樹 此樹常多有好美果 若有人來 飢餓羸乏 欲得食果 彼作是念 此樹常多有好美果 我飢羸乏 欲得食果 然此樹下無自落果可得飽食及持歸去 我能
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,tena kho pana samayena nigaṇṭho nāṭaputto nāḷandāyaṃ paṭivasati mahatiyā nigaṇṭhaparisāya saddhiṃ,爾時 長苦行尼揵中後彷佯 往詣佛所 共相問訊 却坐一面 於是 世尊問曰 苦行尼揵
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,tena kho pana samayena nigaṇṭho nāṭaputto nāḷandāyaṃ paṭivasati mahatiyā nigaṇṭhaparisāya saddhiṃ,爾時 長苦行尼揵中後彷佯 往詣佛所 共相問訊 却坐一面 於是 世尊問曰 苦行尼揵
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,atha kho dīghatapassī nigaṇṭho nāḷandāyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena,親子施設幾行 令不行惡業 不作惡業
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,na kho āvuso gotama āciṇṇaṃ nigaṇṭhassa nāṭaputtassa kammaṃ kamma nti paññapetuṃ daṇḍaṃ daṇḍa nti,於行 令不行惡業 不作惡業 但為我等施設於罰 令不行惡業 不作惡業
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,kho āvuso gotama āciṇṇaṃ nigaṇṭhassa nāṭaputtassa paññapetu nti,世尊又復問曰 苦行尼揵親子施設幾罰 令不行惡業 不作惡業
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,itiha bhagavā dīghatapassiṃ nigaṇṭhaṃ imasmiṃ kathāvatthusmiṃ yāvatatiyakaṃ patiṭṭhāpesi,世尊又復問曰 苦行 汝說身罰為最重耶
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,tena kho pana samayena nigaṇṭho nāṭaputto mahatiyā gihiparisāya saddhiṃ nisinno hoti bālakiniyā parisāya upālipamukhāya,座起 繞世尊三匝而退還去 往詣尼揵親子所
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,atha kho dīghatapassī nigaṇṭho yāvatako ahosi bhagavatā saddhiṃ kathāsallāpo taṃ sabbaṃ nigaṇṭhassa nāṭaputtassa ārocesi,尼揵親子告曰 苦行 若共沙門瞿曇有所論者 盡為我說 我或能知彼之所論
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,evaṃ vutte nigaṇṭho nāṭaputto dīghatapassiṃ nigaṇṭhaṃ etadavoca sādhu sādhu tapassi,於是 長苦行尼揵共世尊有所論者盡向彼說 尼揵親子聞便歎曰 善哉 苦行 謂汝於師行弟子法 所作智辯聰明決定 安隱無畏成就調御 逮大辯才 得甘露幢 於甘露界自作證成就遊 所以者何 謂汝向沙門瞿曇施設身罰為最重 令不行惡業 不作惡業 口罰不然 意
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,evaṃ vutte upāli gahapati nigaṇṭhaṃ nāṭaputtaṃ etadavoca sādhu sādhu bhante dīghatapassī,髦裘 抖擻去塵 我亦如是 能至再三審定沙門瞿曇如此事已 隨所牽挽 猶如
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,evaṃ vutte upāli gahapati nigaṇṭhaṃ nāṭaputtaṃ etadavoca sādhu sādhu bhante dīghatapassī,髦裘 抖擻去塵 我亦如是 能至再三審定沙門瞿曇如此事已 隨所牽挽 猶如
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,evaṃ vutte dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca na kho metaṃ bhante ruccati yaṃ upāli gahapati samaṇassa,世尊問曰 居士 於意云何 若有尼揵來 好喜於布施 樂行於布施 無戲 樂不戲 為極清淨 極行呪也 若彼行來時 多殺大小蟲 云何 居士 尼揵親子於此殺生施設報耶
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,evaṃ vutte dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca na kho metaṃ bhante ruccati yaṃ upāli gahapati samaṇassa,世尊問曰 居士 於意云何 若有尼揵來 好喜於布施 樂行於布施 無戲 樂不戲 為極清淨 極行呪也 若彼行來時 多殺大小蟲 云何 居士 尼揵親子於此殺生施設報耶
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,aṭṭhānaṃ kho etaṃ tapassi anavakāso yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagaccheyya,彼無湯時 便欲飲冷水 不得冷水 彼便命終 居士 尼揵親子云何
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,ṭhānañca kho etaṃ vijjati yaṃ samaṇo gotamo upālissa gahapatissa sāvakattaṃ upagaccheyya,可說彼尼揵所生耶
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,dutiyampi kho dīghatapassī pe tatiyampi kho dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca na kho metaṃ bhante ruc,削割 作一肉聚 作一肉積 居士 於意云何 彼人寧能於此那難陀內一切眾生 於一日中斫剉斬截 剝裂削割 作一肉聚 作一肉積耶
+56,133,TRUE_PAIR,upali,優波離|優婆離,優婆離,VARIANT,yaṃ upāli gahapati samaṇassa gotamassa vādaṃ āropeyya samaṇo hi bhante gotamo māyāvī āvaṭṭaniṃ māyaṃ jānāti yāya aññatit,優婆離居士答曰 不也 所以者何 此那難陀內極大富樂 多有人民 是故彼人於此那難陀
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,aṭṭhānaṃ kho etaṃ tapassi anavakāso yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagaccheyya,內一切眾生 必不能得於一日中斫剉斬截 剝裂削割 作一肉聚 作一肉積 瞿曇 彼人唐大煩勞
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,ṭhānañca kho etaṃ vijjati yaṃ samaṇo gotamo upālissa gahapatissa sāvakattaṃ upagaccheyya,居士 於意云何 若有沙門 梵志來 有大如意足 有大威德 有大福祐 有大威神 心得自在 彼作是說 我以發一瞋念 令此一切那難陀
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,ekamantaṃ nisinno kho upāli gahapati bhagavantaṃ etadavoca āgamā nu khvidha bhante dīghatapassī nigaṇṭho ti,世尊問曰 居士 汝頗曾聞大澤無事 靜寂無事 空野無事 無事即無事耶
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,atha kho bhagavā yāvatako ahosi dīghatapassinā nigaṇṭhena saddhiṃ kathāsallāpo taṃ sabbaṃ upālissa gahapatissa ārocesi,寂靜無事 空野無事 無事即無事 世尊 我已知 善逝 我已解 我今自歸於佛 法及比丘眾 唯願世尊受我為優婆塞 從今日始 終身自歸 乃至命盡
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,evaṃ vutte upāli gahapati bhagavantaṃ etadavoca sādhu sādhu bhante tapassī,世尊告曰 居士 汝默然行 勿得宣言 如是勝人默然為善
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,taṃ kiṃ maññasi gahapati ayaṃ nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā ti,於是 尼揵親子與大尼揵眾五百人俱 往詣優婆離居士家 守門人遙見尼揵親子與大尼揵眾五百人俱來 而作是說 尊者 優婆離居士今受佛化 化作弟子 則不聽諸尼揵入門 唯聽世尊四眾弟子 比丘 比丘尼 優婆塞 優婆私入 若欲得食者 便可住此 當出食與
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,evaṃ bhante ayaṃ nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā ti,尼揵親子語曰 守門人 我不用食 但欲得見優婆離居士
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,so evaṃ vadeyya ahaṃ yāvatikā imissā nāḷandāya pāṇā te ekena khaṇena ekena muhuttena ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ k,彼守門人即入白曰 居士 當知尼揵親子與大尼揵眾五百人俱住在門外 作如是語 我欲得見優婆離居士
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,taṃ kiṃ maññasi gahapati pahoti nu kho so puriso yāvatikā imissā nāḷandāya pāṇā te ekena khaṇena ekena muhuttena ekaṃ ma,優婆離居士告守門人 汝至中門 敷設床座 訖還白我
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,yāvatikā imissā nāḷandāya pāṇā te ekena khaṇena ekena muhuttena ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kātuṃ,優婆離居士將守門人往至中門 若有床座 極高廣大 極淨好敷 謂優婆離居士本
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,kiñhi sobhati eko chavo puriso ti taṃ kiṃ maññasi gahapati idha āgaccheyya samaṇo vā brāhmaṇo vā iddhimā cetovasippatto,抱尼揵親子所令坐者 優婆離居士自處其上 結加趺坐 告守門人 汝出往至尼揵親子所 作如是語 尊人 優婆離居士言 尊人欲入者 自可隨意
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,so evaṃ vadeyya ahaṃ imaṃ nāḷandaṃ ekena manopadosena bhasmaṃ karissāmī ti,彼守門人受教即出 至尼揵親子所 作如是語 尊人 優婆離居士言 尊人欲入者 自可隨意 於是 尼揵親子與大尼揵眾五百人俱入至中門
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,taṃ kiṃ maññasi gahapati pahoti nu kho so samaṇo vā brāhmaṇo vā iddhimā cetovasippatto imaṃ nāḷandaṃ ekena manopadosena ,優婆離居士遙見尼揵親子與大尼揵眾五百人俱入 而作是語 尊人 有座 欲坐隨意
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,taṃ kiṃ maññasi gahapati pahoti nu kho so samaṇo vā brāhmaṇo vā iddhimā cetovasippatto imaṃ nāḷandaṃ ekena manopadosena ,優婆離居士遙見尼揵親子與大尼揵眾五百人俱入 而作是語 尊人 有座 欲坐隨意
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,dasapi bhante nāḷandā vīsampi nāḷandā tiṃsampi nāḷandā cattārīsampi nāḷandā paññāsampi nāḷandā pahoti,尼揵親子語曰 居士 汝應爾耶 自上高座 結加趺坐 與人共語 如出家者學道無異
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,so samaṇo vā brāhmaṇo vā iddhimā cetovasippatto ekena manopadosena bhasmaṃ kātuṃ kiñhi sobhati ekā chavā nāḷandā ti,優婆離居士語曰 尊人 我自有物 欲與便與 不與便不與 此座我有 是故我言 有座 欲坐隨意
+56,133,TRUE_PAIR,nalanda,那爛陀,,MISSING,so samaṇo vā brāhmaṇo vā iddhimā cetovasippatto ekena manopadosena bhasmaṃ kātuṃ kiñhi sobhati ekā chavā nāḷandā ti,優婆離居士語曰 尊人 我自有物 欲與便與 不與便不與 此座我有 是故我言 有座 欲坐隨意
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,atha kho nigaṇṭho nāṭaputto mahatiyā nigaṇṭhaparisāya saddhiṃ yena majjhimā dvārasālā tenupasaṅkami,尼揵親子語曰 居士 舉那難陀知優婆離居士是尼揵弟子 今者竟為誰弟子耶
+56,133,TRUE_PAIR,upali,優波離|優婆離,優婆離,VARIANT,atha kho upāli gahapati yaṃ sudaṃ pubbe yato passati nigaṇṭhaṃ nāṭaputtaṃ dūratova āgacchantaṃ,於是 優婆離居士即從座起 右膝著地 若方有佛 叉手向彼 語曰 尊人 聽我所說
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,atha kho upāli gahapati yaṃ sudaṃ pubbe yato passati nigaṇṭhaṃ nāṭaputtaṃ dūratova āgacchantaṃ,於是 優婆離居士即從座起 右膝著地 若方有佛 叉手向彼 語曰 尊人 聽我所說
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,tattha sāmaṃ nisīditvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca saṃvijjanti kho bhante āsanāni sace ākaṅkhasi nisīdā ti,安隱無有垢 佛弟子婆離
+56,133,TRUE_PAIR,upali,優波離|優婆離,,MISSING,evaṃ vutte nigaṇṭho nāṭaputto upāliṃ gahapatiṃ etadavoca ummattosi tvaṃ gahapati dattosi tvaṃ gahapati,大聖修習已 得德說自在 善念妙正觀 不高亦不下
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,sabbe cepi bhante brāhmaṇā pe vessā pe suddā imāya āvaṭṭaniyā āvaṭṭeyyuṃ sabbesānampissa suddānaṃ,無畏常專精 佛弟子婆離
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāyāti,勇猛極清淨 佛弟子婆離
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,bhūtapubbaṃ bhante aññatarassa brāhmaṇassa jiṇṇassa vuḍḍhassa mahallakassa daharā māṇavikā pajāpatī ahosi gabbhinī upavi,御者無有恚 佛弟子婆離
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho bhante sā māṇavikā taṃ brāhmaṇaṃ etadavoca gaccha tvaṃ brāhmaṇa āpaṇā makkaṭacchāpakaṃ kiṇitvā ānehi yo me kumā,斷望無上善 善調無比御 上常歡喜 無疑有光明
+56,133,TRUE_PAIR,mara,魔|波旬,,MISSING,atha kho bhante sā māṇavikā taṃ brāhmaṇaṃ etadavoca gaccha tvaṃ brāhmaṇa āpaṇā makkaṭacchāpakaṃ kiṇitvā ānehi yo me kumā,斷望無上善 善調無比御 上常歡喜 無疑有光明
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ vutte so brāhmaṇo taṃ māṇavikaṃ etadavoca āgamehi tāva bhoti yāva vijāyati,斷慢無上覺 佛弟子婆離
+56,133,TRUE_PAIR,mara,魔|波旬,,MISSING,kumārakassa kīḷāpanako bhavissatī ti,與等 名稱已逮正 佛弟子婆離
+56,133,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ vutte bhante sā māṇavikā taṃ brāhmaṇaṃ etadavoca gaccha tvaṃ brāhmaṇa imaṃ makkaṭacchāpakaṃ,此是百歎佛 本未曾思惟 優婆離所說 諸天來至彼
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,paṇāmetvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca tena hi bhante suṇohi yassāhaṃ sāvako ti,尼揵親子問曰 居士 汝以何意稱歎沙門瞿曇耶
+56,133,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,atha kho nigaṇṭhassa nāṭaputtassa bhagavato sakkāraṃ asahamānassa tattheva uṇhaṃ lohitaṃ mukhato uggacchīti,優婆離經第十七
+56,133,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,atha kho nigaṇṭhassa nāṭaputtassa bhagavato sakkāraṃ asahamānassa tattheva uṇhaṃ lohitaṃ mukhato uggacchīti,優婆離經第十七
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,atha kho bhagavā parittaṃ udakāvasesaṃ udakādhāne ṭhapetvā āyasmantaṃ rāhulaṃ āmantesi passasi no tvaṃ rāhula imaṃ parit,佛告羅云 我說彼道少 亦復如是 謂知已妄言 不羞不悔 無慚無愧 羅云 彼亦無惡不作 是故 羅云 當作是學 不得戲笑妄言
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,evaṃ parittakaṃ kho rāhula tesaṃ sāmaññaṃ yesaṃ natthi sampajānamusāvāde lajjā ti,世尊復取此少水器 盡瀉棄已 問曰 羅云 汝復見我取少水器 盡瀉棄耶
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,atha kho bhagavā parittaṃ udakāvasesaṃ chaḍḍetvā āyasmantaṃ rāhulaṃ āmantesi passasi no tvaṃ rāhula parittaṃ udakāvasesa,世尊復取此空水器 覆著地已 問曰 羅云 汝復見我取空水器 覆著地耶
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,evaṃ chaḍḍitaṃ kho rāhula tesaṃ sāmaññaṃ yesaṃ natthi sampajānamusāvāde lajjā ti,世尊復取此覆水器 發令仰已 問曰 羅云 汝復見我取覆水器 發令仰耶
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,atha kho bhagavā taṃ udakādhānaṃ nikkujjitvā āyasmantaṃ rāhulaṃ āmantesi passasi no tvaṃ rāhula imaṃ udakādhānaṃ nikkujj,佛告羅云 我說彼道仰 亦復如是 謂知已妄言 不羞不悔
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,evaṃ nikkujjitaṃ kho rāhula tesaṃ sāmaññaṃ yesaṃ natthi sampajānamusāvāde lajjā ti,不慚不愧 羅云 彼亦無惡不作 是故 羅云 當作是學 不得戲笑妄言
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,atha kho bhagavā taṃ udakādhānaṃ ukkujjitvā āyasmantaṃ rāhulaṃ āmantesi passasi no tvaṃ rāhula imaṃ udakādhānaṃ rittaṃ t,羅云 猶如王有大象入陣鬪時 用前脚 後脚 尾 項 額 耳 牙 一切皆用 唯護於鼻 象師見已 便作是念 此王大象猶故惜命 所以者何 此王大象入陣鬪時 用前脚 後脚 尾 髂 脊 脇 項 額 耳 牙 一切皆用 唯護於鼻 羅云 若王大象入陣鬪時 用
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,,MISSING,evaṃ rittaṃ tucchaṃ kho rāhula tesaṃ sāmaññaṃ yesaṃ natthi sampajānamusāvāde lajjāti,於是 世尊即說頌曰 人犯一法 謂妄言是 不畏後世 無惡不作
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,,MISSING,seyyathāpi rāhula rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro saṅgāmagato purimehipi pādehi kammaṃ karoti,寧噉鐵丸 其熱如火 不以犯戒 受世信施
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,apariccattaṃ kho rañño nāgassa jīvita nti yato kho rāhula rañño nāgo īsādanto urūḷhavā abhijāto saṅgāmāvacaro saṅgāmagat,如是 羅云 若汝將作身業 即觀彼身業 我將作身業 彼身業為淨 為不淨 為自為 為他 羅云 若觀時則知 我將作身業 彼身業
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,natthi dāni kiñci rañño nāgassa akaraṇīya nti evameva kho rāhula yassa kassaci sampajānamusāvāde natthi lajjā nāhaṃ tass,不淨 或自為 或為他 不善與苦果受於苦報 羅云 汝當詣善知識 梵行人所 彼已作身業 至心發露 應悔過說 慎莫覆藏 更善
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,tasmātiha te rāhula hassāpi na musā bhaṇissāmī ti evañhi te rāhula sikkhitabbaṃ taṃ kiṃ maññasi rāhula kimatthiyo ādāso ,淨 或自為 或為他 善與樂果受於樂報 羅云 汝當晝夜歡喜 住正念正智 口業亦復如是
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,paccavekkhaṇattho bhante ti evameva kho rāhula paccavekkhitvā paccavekkhitvā kāyena kammaṃ kattabbaṃ paccavekkhitvā pacc,不淨 或自為 或為他 不善與苦果受於苦報 羅云 汝當捨彼過去意業 羅云 若觀時則知 因過去行故 已生意業已過去 滅盡 變易 彼意業
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,yadeva tvaṃ rāhula kāyena kammaṃ kattukāmo ahosi tadeva te kāyakammaṃ paccavekkhitabbaṃ yaṃ nu,不淨 或自為 或為他 不善與苦果受於苦報 羅云 汝當捨彼未來意業 羅云 若觀時則知 因未來行故 當生意業 彼意業
+61,14,TRUE_PAIR,brahma,梵天|梵,,MISSING,yepi hi keci rāhula anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā kāyakammaṃ parisodhessanti,善不善法 汝應常觀
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,,MISSING,yepi hi keci rāhula anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā kāyakammaṃ parisodhessanti,善不善法 汝應常觀
+61,14,TRUE_PAIR,rahula,羅云|羅睺羅,羅云,VARIANT,vacīkammaṃ parisodhessāmi paccavekkhitvā paccavekkhitvā manokammaṃ parisodhessāmī ti evañhi te rāhula sikkhitabba nti,方方豐樂 安隱無怖 羅云至彼 莫為害他
+63,221,TRUE_PAIR,mara,魔|波旬,,MISSING,mayā abyākataṃ hoti tathāgato paraṃ maraṇā ti mayā abyākataṃ na hoti tathāgato paraṃ maraṇā ti,於是 世尊面訶鬘童子已 告諸比丘 若有愚癡人作如是念 若世尊不為我一向說世有常者 我不從世尊學梵行 彼愚癡人竟不得知 於其中間而命終也 如是 世無有常 世有底 世無底 命即是身 為命異身異 如來終 如來不終 如來終不終 如來亦非終亦非不終耶
+63,221,TRUE_PAIR,mara,魔|波旬,,MISSING,mayā abyākataṃ hoti ca na ca hoti tathāgato paraṃ maraṇā ti mayā abyākataṃ neva hoti na na hoti,猶如有人身被毒箭 因毒箭故 受極重苦 彼比方耶 未可拔箭 我應先知彼弓為柘 為桑 為槻 為角耶 未可拔箭 我應先知弓
+63,221,TRUE_PAIR,mara,魔|波旬,,MISSING,tathāgato paraṃ maraṇā ti mayā abyākataṃ kasmā cetaṃ mālukyaputta mayā abyākataṃ,扎 飄𪁢毛 為鵰鷲毛 為鵾鷄毛 為鶴毛耶 未可拔箭 我應先知箭𨮹
+63,221,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,na hetaṃ mālukyaputta atthasaṃhitaṃ na ādibrahmacariyakaṃ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāy,若有愚癡人作如是念 若世尊不為我一向說世有常者 我不從世尊學梵行 彼愚癡人竟不得知 於其中間而命終也 如是 世無有常 世有底 世無底 命即是身 為命異身異 如來終 如來不終 如來終不終 如來亦非終亦非不終耶 若有愚癡人作如是念 若世尊不為我
+63,221,SOFT,brahma,梵天|梵,梵,VARIANT,etañhi mālukyaputta atthasaṃhitaṃ etaṃ ādibrahmacariyakaṃ nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya ni,世有常 我不一向說此 以何等故 我不一向說此 此非義相應 非法相應 非梵行本 不趣智 不趣覺 不趣涅槃 是故我不一向說此 如是 世無常 世有底 世無底 命即是身 為命異身異 如來終 如來不終 如來終不終 如來亦非終亦非不終 我不一向說此 以
+64,205,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkāyadiṭṭhiṃ kho ahaṃ bhante bhagavatā orambhāgiyaṃ saṃyojanaṃ desitaṃ dhāremi vicikicchaṃ kho,五下分結 我受持之
+64,205,TRUE_PAIR,mara,魔|波旬,,MISSING,teneva dhammarāgena tāya dhammanandiyā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti,力人
+64,205,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,puna caparaṃ ānanda bhikkhu vitakkavicārānaṃ vūpasamā pe dutiyaṃ jhānaṃ upasampajja viharati tatiyaṃ jhānaṃ catutthaṃ jh,椑栰 乘之而度 彼便岸邊收聚草木 縛作椑栰 乘之而度 安隱至彼 如是 阿難 若有比丘攀緣厭離 依於厭離 住於厭離 止息身惡故 心入離 定故 離欲 離惡不善之法 有覺 有觀 離生喜 樂 得初禪成就遊 彼依此處 觀覺興衰 彼依此處 觀覺興衰已 
+64,205,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,puna caparaṃ ānanda bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā,云何昇進得止息處 彼覺 觀已息 內靖 一心 無覺 無觀 定生喜 樂 得第二禪成就遊 彼依此處 觀覺興衰 彼依此處 觀覺興衰已 住彼必得漏盡 設住彼不得漏盡者 必當昇進得止息處 云何昇進得止息處 彼離於喜欲 捨無求遊
+64,205,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,puna caparaṃ ānanda bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma anantaṃ viññāṇa nti viññāṇañcāyatanaṃ upasampajja vih,云何昇進得止息處 彼度一切色想 滅有礙想 不念若干想 無量空 是無
+64,205,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,puna caparaṃ ānanda bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma natthi kiñcī ti ākiñcaññāyatanaṃ upasampajja viharati,猶去村不遠 有大芭蕉 若人持斧破芭蕉樹 此世已 便不恐怖 因不恐怖已 便般涅槃 生已盡 梵行已立 所作已辦 不更受有 知如真
+64,205,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ettha kho panesāhaṃ ānanda indriyavemattataṃ vadāmī ti,佛說如是 尊者阿難及諸比丘 聞佛所說 歡喜奉行
+65,194,TRUE_PAIR,savatthi,舍衛|舍衛國,舍衛|舍衛國,MATCH,samayopi kho te bhaddāli appaṭividdho ahosi sambahulā kho bhikkhu sāvatthiyaṃ vassaṃ upagatā tepi maṃ jānissanti,法 跋陀和利 汝於爾時不知如此耶 跋陀和利 汝於爾時不知眾多優婆塞 優婆夷居舍衛國 彼知我 見我 有比丘名跋陀和利 世尊弟子 不學具戒及世尊境界諸微妙法 跋陀和利 汝於爾時不知如此耶 跋陀和利 汝於爾時不知眾
+65,194,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,samayopi kho te bhaddāli appaṭividdho ahosi sambahulā kho bhikkhuniyo sāvatthiyaṃ vassaṃ upagatā tāpi maṃ jānissanti,尊者跋陀和利答曰 不也
+65,194,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,samayopi kho te bhaddāli appaṭividdho ahosi sambahulā kho upāsakā sāvatthiyaṃ paṭivasanti,身證者 設非身證有見到者 設非見到有信解脫 設非信解脫有
+65,194,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,samayopi kho te bhaddāli appaṭividdho ahosi sambahulā kho upāsikā sāvatthiyaṃ paṭivasanti,世尊告曰 跋陀和利 汝於爾時非如空屋耶
+65,194,TRUE_PAIR,brahma,梵天|梵,,MISSING,samayopi kho te bhaddāli appaṭividdho ahosi sambahulā kho nānātitthiyā samaṇabrāhmaṇā sāvatthiyaṃ,伺
+65,194,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,samayopi kho te bhaddāli appaṭividdho ahosi sambahulā kho nānātitthiyā samaṇabrāhmaṇā sāvatthiyaṃ,伺
+65,194,SOFT,brahma,梵天|梵,,MISSING,so satthārāpi upavadito anuviccapi viññūhi sabrahmacārīhi upavadito devatāhipi upavadito attanāpi,覺憶宿命智通作證 彼有行有相貌 憶本無量昔所經歷 謂一生 二生 百生 千生 成劫 敗劫 無量成敗劫 彼眾生名某 彼昔更歷 我曾生彼 如是姓 如是字 如是生 如是飲食 如是受苦樂 如是長壽 如是久住 如是壽訖 此死生彼 彼死生此 我生在此 如
+68,77,TRUE_PAIR,mara,魔|波旬,,MISSING,api ca khomhi otiṇṇo jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi,皆相愛戀 悲泣啼哭 不欲令汝出家學道 汝等故能剃除鬚髮 著袈裟衣 至信 捨家 無家 學道 阿那律陀 汝等不畏王而行學道 亦不畏賊 不畏負債 不畏恐怖 不畏貧窮不得活故而行學道 但厭生 老 病 死 啼哭 憂苦 或復欲得大苦聚邊 阿那律陀 汝等
+68,77,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,evampi kho anuruddhā upāsikāya phāsuvihāro hoti iti kho anuruddhā tathāgato na janakuhanatthaṃ na janalapanatthaṃ na lāb,阿那律陀 復次 優婆塞聞某優婆塞於某村命終 彼為佛所記 三結已盡 婬怒癡薄 得一往來天上人間 一往來已而得苦際 或自見彼優婆塞 或復從他數數聞之
+69,26,TRUE_PAIR,brahma,梵天|梵,,MISSING,āraññikenāvuso bhikkhunā saṅghagatena saṅghe viharantena sabrahmacārīsu sagāravena bhavitabbaṃ sappatissena,無事比丘行於無事 當學敬重而隨順觀 諸賢 若無事比丘行於無事 多不敬重 不隨順觀者 則致比丘訶數詰責 此賢無事 何為行無事 所以者何 此賢無事 行於無事 多不敬重 不隨順觀 若至眾中 亦致比丘訶數詰責 是故 諸賢 無事比丘行於無事 當學敬重
+69,26,TRUE_PAIR,brahma,梵天|梵,,MISSING,sace āvuso āraññiko bhikkhu saṅghagato saṅghe viharanto sabrahmacārīsu agāravo hoti appatisso tassa bhavanti vattāro,諸賢 無事比丘行於無事 當學不調笑而不躁擾 諸賢 若無事比丘行於無事 多行調笑而躁擾者 則致比丘訶數詰責 此賢無事 何為行無事 所以者何 此賢無事 行於無事 多行調笑及於躁擾 若至眾中 亦致比丘訶數詰責 是故 諸賢 無事比丘行於無事 當學不
+69,26,TRUE_PAIR,brahma,梵天|梵,,MISSING,tasmā āraññikena bhikkhunā saṅghagatena saṅghe viharantena sabrahmacārīsu sagāravena bhavitabbaṃ sappatissena,諸賢 無事比丘行於無事 當學不畜生論 諸賢 若無事比丘行於無事 多畜生論者 則致比丘訶數詰責 此賢無事 何為行無事 所以者何 此賢無事 行於無事 多畜生論 若至眾中 亦致比丘訶數詰責 是故 諸賢 無事比丘行於無事 當學不畜生論
+69,26,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,sāriputta bhikkhunā ime dhammā samādāya vattitabbā udāhu gāmantavihārināpī ti,如是二尊更相稱說 讚歎善哉 聞所說已 從座起去
+69,26,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,āraññikenāpi kho āvuso moggallāna bhikkhunā ime dhammā samādāya vattitabbā pageva gāmantavihārinā ti,及說息解脫 漏盡通亦然
+75,153,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho māgaṇḍiyo paribbājako jaṅghāvihāraṃ anucaṅkamamāno anuvicaramāno yena bhāradvājagottassa brāhmaṇassa agyāgāraṃ ,訖 中後還舉衣鉢 澡洗手足 以尼師檀著於肩上 往詣一林 至晝行處 爾時 世尊入於彼林 至一樹下 敷尼師檀 結
+75,153,TRUE_PAIR,brahma,梵天|梵,,MISSING,bahū hi tassa bhoto gotamassa khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi abhippasannā vinītā ,鬚閑提異學語曰 婆羅婆 我今不可見見 不可聞聞 謂我見沙門瞿曇臥處 所以者何 彼沙門瞿曇壞敗地 壞敗地者 無可用也
+75,153,TRUE_PAIR,brahma,梵天|梵,,MISSING,appossukko bhavaṃ bhāradvājo vuttova naṃ vadeyyā ti assosi kho bhagavā dibbāya sotadhātuyā visuddhāya atikkantamānusikāy,鬚閑提語曰 婆羅婆 若欲說者 則隨汝意 我無所違 婆羅婆 若見沙門瞿曇者 我亦說此義 所以者何 彼沙門瞿曇敗壞地 敗壞地者 無可用也
+75,153,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena bhāradvājagottassa brāhmaṇassa agyāgāraṃ,爾時 世尊在晝行處 以淨天耳出過於人 聞婆羅婆梵志與鬚閑提異學共論此事 世尊聞已 則於晡時從
+75,153,SOFT,brahma,梵天|梵,梵,VARIANT,atha kho bhāradvājagotto brāhmaṇo yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavatā saddhiṃ sammodi,燕坐起 往詣婆羅婆梵志第一靜室 於草座上敷尼師檀 結加趺坐 婆羅婆梵志遙見世尊在樹林間 端
+75,153,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ vutte bhāradvājagotto brāhmaṇo saṃviggo lomahaṭṭhajāto bhagavantaṃ etadavoca etadeva kho pana mayaṃ bhoto gotamassa,世尊問曰 婆羅婆 與鬚閑提異學共論此草坐處耶
+75,153,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha ca pana bhavaṃ gotamo anakkhātaṃyeva akkhāsī ti ayañca hi bhagavato bhāradvājagottena brāhmaṇena saddhiṃ antarākath,婆羅婆梵志答世尊曰 如是 瞿曇
+75,153,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,brāhmaṇassa agyāgāraṃ yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavatā saddhiṃ sammodi,世尊與婆羅婆梵志共論此事 鬚閑提異學於後彷徉 往詣婆羅婆第一靜室 世尊遙見鬚閑提異學來已 而作是說 鬚閑提 不調御眼根 不密守護而不修者 必受苦報 彼於沙門瞿曇善自調御 善密守護而善修者 必得樂報 鬚閑提 汝因此故 說沙門瞿曇敗壞地 敗壞地
+75,153,TRUE_PAIR,mara,魔|波旬,,MISSING,evañhi no sutte ocaratī ti kāyo kho māgaṇḍiya phoṭṭhabbārāmo phoṭṭhabbarato pe mano kho māgaṇḍiya dhammārāmo dhammarato ,後昇善處 得生天上 具足行五欲功德 鬚閑提 此天及天子寧當捨天五欲功德 樂人間欲 歡喜念耶
+75,153,TRUE_PAIR,mara,魔|波旬,,MISSING,maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya devānaṃ tāvatiṃsānaṃ sahabyataṃ,摩澡浴 強忍 破壞 磨滅 離散之法 然見神受神 緣受則有 緣有則生 緣生則老死 緣老死則愁慼啼哭 憂苦懊惱 如是此生純大苦陰
+77,207,TRUE_PAIR,brahma,梵天|梵,,MISSING,purimāni bhante divasāni purimatarāni nānātitthiyānaṃ samaṇabrāhmaṇānaṃ kutūhalasālāyaṃ sannisinnānaṃ,異學箭毛答曰 瞿曇 且置此論 此論非妙 沙門瞿曇欲聞此論 後聞不難
+77,207,TRUE_PAIR,magadha,摩竭|摩竭陀,,MISSING,sannipatitānaṃ ayamantarākathā udapādi lābhā vata bho aṅgamagadhānaṃ suladdhalābhā vata bho aṅgamagadhānaṃ,世尊如是再三問曰 優陀夷 向論何等 以何事故共集坐此
+77,207,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,tatrime samaṇabrāhmaṇā saṅghino gaṇino gaṇācariyā ñātā yasassino titthakarā sādhusammatā bahujanassa rājagahaṃ vassāvāsa,異學箭毛亦再三答曰 瞿曇 且置此論 此論非妙 沙門瞿曇欲聞此論 後聞不難 沙門瞿曇若至再三 其欲聞者 今當說之 瞿曇 我等與拘薩羅國眾多梵志 悉共集坐拘薩羅學堂 說如是論
+77,207,TRUE_PAIR,rajagaha,王舍城|羅閱城,,MISSING,tatrime samaṇabrāhmaṇā saṅghino gaṇino gaṇācariyā ñātā yasassino titthakarā sādhusammatā bahujanassa rājagahaṃ vassāvāsa,異學箭毛亦再三答曰 瞿曇 且置此論 此論非妙 沙門瞿曇欲聞此論 後聞不難 沙門瞿曇若至再三 其欲聞者 今當說之 瞿曇 我等與拘薩羅國眾多梵志 悉共集坐拘薩羅學堂 說如是論
+77,207,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,ayampi kho pūraṇo kassapo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa sopi rājaga,鴦伽摩竭陀國人有大善利 鴦伽摩竭陀國人得大善利 如此大福田眾在王舍城共受夏坐 謂
+77,207,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkatvā garuṃ katvā upanissāya viharanti,阿夷哆雞舍劍婆利
+77,207,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,garuṃ kareyyuṃ māneyyuṃ pūjeyyuṃ sakkatvā garuṃ katvā upanissāya vihareyyuṃ,瞿曇 昔時不蘭迦葉數在弟子眾舉手大喚 汝等可住 無有人來問汝等事 人問我事 汝等不能斷此事 我能斷此事 而弟子於其中間更論餘事 不待師說事訖 瞿曇 我等復作是念 如是此不蘭迦葉不為弟子所恭敬 尊重 供養 奉事 為弟子法罵所罵 眾多弟子難師 
+77,207,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,iti kho udāyi na mamaṃ sāvakā imehi pañcahi dhammehi sakkaronti garuṃ karonti mānenti pūjenti sakkatvā garuṃ katvā upani,瞿曇 我等復作是念 如是此阿夷哆雞舍劍婆利不為弟子所恭敬 尊重 供養 奉事 為弟子法罵所罵 眾多弟子難師 此不可 此不相應 此不等說已 便捨而去
+77,207,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,netaṃ ṭhānaṃ vijjati ayaṃ kho udāyi tatiyo dhammo yena mamaṃ sāvakā sakkaronti garuṃ karonti mānenti pūjenti sakkatvā ga,世尊告曰 優陀夷 我不以此五法 令諸弟子恭敬 尊重 供養 奉事我 常隨不離 優陀夷 我所持衣 隨聖
+77,207,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,ayaṃ kho udāyi pañcamo dhammo yena mama sāvakā sakkaronti garuṃ karonti mānenti pūjenti sakkatvā garuṃ katvā upanissāya ,於是 異學箭毛即從坐起 偏袒著衣 叉手向佛 白曰 瞿曇 甚奇 甚特 善說妙事 潤澤我體 猶如甘露 瞿曇 猶如大雨 此地高下 普得潤澤 如是 沙門瞿曇為我等善說妙事 潤澤我體 猶如甘露 世尊 我已解 善逝 我已知 世尊 我
+77,207,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,ime kho udāyi pañca dhammā yehi mamaṃ sāvakā sakkaronti garuṃ karonti mānenti pūjenti sakkatvā garuṃ katvā upanissāya vi,今自歸於佛 法及比丘眾 唯願世尊受我為優婆塞 從今日始 終身自歸 乃至命盡
+81,63,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,atha kho āyasmato ānandassa etadahosi ko nu kho hetu ko paccayo bhagavato sitassa pātukammāya,彼時 世尊告曰 阿難 此處所中 迦葉如來 無所著 等正覺在此處坐 為弟子說法
+81,63,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,vegaḷiṅge kho ānanda gāmanigame ghaṭikāro nāma kumbhakāro kassapassa bhagavato arahato sammāsambuddhassa upaṭṭhāko ahosi,鞞婆陵耆 極大豐樂 多有人民 阿難 鞞婆陵耆村邑之中有梵志大長者 名曰無恚 極大富樂 資財無量 畜牧產業不可稱計 封戶食邑種種具足 阿難 梵志大長者無恚有子 名優多羅摩納 為父母所舉 受生清淨 乃至七世父母不絕種族 生生無惡 博聞總持 誦過
+81,63,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,vegaḷiṅge kho ānanda gāmanigame ghaṭikāro nāma kumbhakāro kassapassa bhagavato arahato sammāsambuddhassa upaṭṭhāko ahosi,鞞婆陵耆 極大豐樂 多有人民 阿難 鞞婆陵耆村邑之中有梵志大長者 名曰無恚 極大富樂 資財無量 畜牧產業不可稱計 封戶食邑種種具足 阿難 梵志大長者無恚有子 名優多羅摩納 為父母所舉 受生清淨 乃至七世父母不絕種族 生生無惡 博聞總持 誦過
+81,63,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,bhikkhū bhagini kassapassa bhagavato arahato sammāsambuddhassa kuṭi ovassatī ti,時得宜 善教善訶 彼於綺語淨除其心
+81,63,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,bhikkhū tāta kassapassa kira bhagavato arahato sammāsambuddhassa kuṭi ovassatī ti,大王 難提波羅陶師離酒 斷酒 彼於飲酒淨除其心 大王 難提波羅陶師離高廣大床 斷高廣大床 彼於高廣大床淨除其心 大王 難提波羅陶師離華鬘 瓔珞 塗香 脂粉 斷華鬘 瓔珞 塗香 脂粉 彼於華鬘 瓔珞 塗香 脂粉淨除其心 大王 難提波羅陶師離歌
+81,63,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,atha kho ānanda kikī kāsirājā ghaṭikārassa kumbhakārassa pañcamattāni taṇḍulavāhasatāni pāhesi paṇḍupuṭakassa sālino tad,難提波羅陶師於後還家 見挽壞故陶屋 白父母曰 誰挽壞我故陶屋耶 父母答曰 賢子 今日迦葉如來 無所著 等正覺瞻侍比丘挽壞故陶屋 作束持去 用覆迦葉如來 無所著 等正覺屋 難提波羅陶師聞已 便作是念 我有善利 有大功德 迦葉如來 無所著 等正
+81,63,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,atha kho te ānanda rājapurisā ghaṭikāraṃ kumbhakāraṃ upasaṅkamitvā etadavocuṃ imāni kho bhante,加趺坐 息心靜默 至于七日 於十五日中而得歡樂 其家父母於七日中亦得歡樂
+81,63,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,siyā kho pana te ānanda evamassa añño nūna tena samayena jotipālo māṇavo ahosī ti,佛告阿難 於意云何 爾時童子優多羅者 汝謂異人耶 莫作斯念 當知即是我也 阿難 我於爾時為自饒益 亦饒益他 饒益多人 愍傷世間 為天 為人求義及饒益 求安隱快樂 爾時說法不至究竟 不究竟白淨 不究竟梵行 不究竟梵行訖 爾時不離生老病死 啼哭
+81,63,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,na kho panetaṃ ānanda evaṃ daṭṭhabbaṃ ahaṃ tena samayena jotipālo māṇavo ahosi nti,鞞婆
+82,132,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,assosuṃ kho thullakoṭṭhikā brāhmaṇagahapatikā samaṇo khalu bho gotamo sakyaputto sakyakulā,爾時 鍮蘆吒梵志 居士聞 沙門瞿曇釋種子捨釋宗族 出家學道 遊拘樓瘦 與大比丘眾俱 來至此鍮蘆吒 住鍮蘆吒村北尸攝惒園中 彼沙門瞿曇有大名稱 周聞十方 沙門瞿曇如來 無所著 等正覺 明行成為 善逝 世間解 無上士 道法御 天人師 號佛 眾祐
+82,132,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho thullakoṭṭhikā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṃsu upasaṅkamitvā appekacce,彼時 賴吒惒羅居士子故坐不起 於是 賴吒惒羅居士子 鍮蘆吒梵志 居士去後不久 即從坐起 偏袒著衣 叉手向佛 白曰 世尊 如我知佛所說法者 若我在家 為鎖所
+82,132,TRUE_PAIR,brahma,梵天|梵,,MISSING,ājānāmi nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ,於是 賴吒惒羅居士子善知識 同伴 同時即共往詣賴吒惒羅居士子所 而作是語 賴吒惒羅 汝至柔軟 身體極好 常坐臥好床 汝今不知苦耶 賴吒惒羅 汝可速起 行欲布施 快修福業 所以者何 賴吒惒羅 世尊境界甚難甚難 出家學道亦復甚難 彼時 賴吒惒羅
+82,132,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkā tāta raṭṭhapāla bhoge ca bhuñjituṃ puññāni ca kātuṃ,尊者賴吒惒羅母語曰 居士子 汝有所說 我當聽之
+82,132,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,etadavocuṃ kīdisā nāma tā ayyaputta accharāyo yāsaṃ tvaṃ hetu brahmacariyaṃ carasī ti,彼時 尊者賴吒惒羅其本婦等即各以先所著瓔珞嚴飾其身 尊者賴吒惒羅本在家時極所愛念 以此瓔珞嚴飾身已 往詣尊者賴吒惒羅所 各抱一足而作是說 不審賢郎有何天女勝於我者 而令賢郎捨我為彼修梵行耶
+82,132,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,na kho mayaṃ bhaginī accharānaṃ hetu brahmacariyaṃ carāmā ti,尊者賴吒惒羅語本婦曰 諸妹 當知我不為天女故修於梵行 所為修梵行者 彼義已得 佛教所作 今已成辦
+82,132,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkā ca tāvatakeneva balamattena abhivijinituṃ abhivijina mahārājā ti kinti naṃ kareyyāsī ti,王者得天下 整御隨其力 海內無厭足 復求於海外
+82,132,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkā ca tāvatakeneva balamattena abhivijinituṃ abhivijina mahārājā ti kinti naṃ kareyyāsī ti,少智習効他 愚多作惡行 趣胎至後世 數數受生死
+85,204,SOFT,mara,魔|波旬,魔,VARIANT,so kho ahaṃ rājakumāra oḷārikaṃ āhāraṃ āhāretvā balaṃ gahetvā vivicceva kāmehi pe paṭhamaṃ jhānaṃ upasampajja vihāsiṃ,於是 世尊復告彼曰 五比丘 有五欲功德可愛 可樂 可意所念 善欲相應 云何為五 眼知色 耳知聲 鼻知香 舌知味 身知觸 五比丘 愚癡凡夫而不多聞 不見善友 不知聖法 不御聖法 彼觸染貪著 憍慠受入 不見災患 不見出要 而取用之 當知彼隨弊魔
+85,204,SOFT,mara,魔|波旬,魔,VARIANT,ayaṃ kho me rājakumāra rattiyā paṭhame yāme paṭhamā vijjā adhigatā avijjā vihatā vijjā uppannā,羂所羂 不脫魔羂
+87,216,TRUE_PAIR,brahma,梵天|梵,,MISSING,bhūtapubbaṃ brāhmaṇa imissāyeva sāvatthiyā aññatarissā itthiyā pitā kālamakāsi bhātā kālamakāsi,頷頭而去
+87,216,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,bhūtapubbaṃ brāhmaṇa imissāyeva sāvatthiyā aññatarissā itthiyā pitā kālamakāsi bhātā kālamakāsi,頷頭而去
+87,216,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,bhūtapubbaṃ brāhmaṇa imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi bhātā kālamakāsi,那利鴦伽梵志聞佛所說 善受持誦 即從坐起 繞三匝而去 還至拘薩羅王波斯匿所 白曰
+87,216,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,bhūtapubbaṃ brāhmaṇa imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi bhātā kālamakāsi,那利鴦伽梵志聞佛所說 善受持誦 即從坐起 繞三匝而去 還至拘薩羅王波斯匿所 白曰
+87,216,TRUE_PAIR,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,taṃ kiṃ maññasi mahārāja piyā te kāsikosalā ti evaṃ mallike piyā me kāsikosalā,末利復問 若加尸及拘薩羅國變易異者 王當云何
+87,216,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,kāsikosalānaṃ mallike ānubhāvena kāsikacandanaṃ paccanubhoma mālāgandhavilepanaṃ dhāremā ti,末利問王 於意云何 為愛我耶
+87,216,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,taṃ kiṃ maññasi mahārāja kāsikosalānaṃ te vipariṇāmaññathābhāvā uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā ti,王復答曰 我實愛汝
+87,216,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,kāsikosalānañhi mallike vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṃ kiṃ pana me na uppajjissanti sokaparidevadukk,末利復問 若我一旦變易異者 王當云何
+88,214,TRUE_PAIR,savatthi,舍衛|舍衛國,舍衛|舍衛國,MATCH,atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiyaṃ piṇḍāya pāvisi,爾時 尊者阿難住舍衛國 於東園鹿子母堂為小事故 彼時尊者阿難將一比丘從舍衛出 往至東園鹿子母堂 所為事訖 將彼比丘還 往至勝林給孤獨園
+88,214,TRUE_PAIR,savatthi,舍衛|舍衛國,舍衛|舍衛國,MATCH,sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena pubbārāmo migāramātupāsādo tenupasaṅkami divāvihārāya,爾時 拘薩羅王波斯匿乘一奔陀利象 與尸利阿荼大臣俱出舍衛國 尊者阿難遙見拘薩羅王波斯匿來已 問伴比丘 彼是拘薩羅王波斯匿耶
+88,214,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,tena kho pana samayena rājā pasenadi kosalo ekapuṇḍarīkaṃ nāgaṃ abhiruhitvā sāvatthiyā niyyāti divā divassa,答曰 是也
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,addasā kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ dūratova āgacchantaṃ,尊者阿難便下道避至一樹下
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,tenupasaṅkama upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vandāhi rājā bhante,尊者阿難答曰 大王 我從東園鹿子母堂來 欲至勝林給孤獨園
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,pasenadi kosalo āyasmato ānandassa pāde sirasā vandatī ti,拘薩羅王波斯匿語曰 阿難 若於勝林無急事者 可共往至
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evañca vadehi sace kira bhante āyasmato ānandassa na kiñci accāyikaṃ karaṇīyaṃ āgametu kira bhante āyasmā ānando muhutta,阿夷羅婆提河 為慈愍故 尊者阿難為拘薩羅王波斯匿默然而受
+88,214,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,evaṃ devā ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmanta,於是 拘薩羅王波斯匿令尊者阿難在前 共至阿夷羅婆提河 到已下乘 取彼象
+88,214,SOFT,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,evaṃ devā ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmanta,於是 拘薩羅王波斯匿令尊者阿難在前 共至阿夷羅婆提河 到已下乘 取彼象
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evañca vadeti sace kira bhante āyasmato ānandassa na kiñci accāyikaṃ karaṇīyaṃ āgametu kira bhante,薦 四疊敷地 請尊者阿難 阿難 可坐此座
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi,尊者阿難亦再三語 止 止 大王 但心靖足 我自有尼師
+88,214,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,ānandassa na kiñci accāyikaṃ karaṇīyaṃ sādhu bhante āyasmā ānando yena aciravatiyā nadiyā tīraṃ,檀 我今當坐 於是 尊者阿難敷尼師檀 結跏趺坐
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ aṭṭhāsi,尊者阿難答曰 大王 如來不行如是身行 謂此身行為沙門 梵志聰明智慧及餘世間所憎惡也
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ekamantaṃ ṭhito kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca idha bhante āyasmā ānando hatthatthare nisīdatū ti,拘薩羅王波斯匿聞已 歎曰 善哉 善哉 阿難 我所不及 若聰明智慧及餘世間者 而阿難及之 阿難 若有不善相悉而毀呰稱譽者 我等不見彼真實也 阿難 若有善相悉而毀呰稱譽者 我見彼真實也 阿難 如來頗行如是身行 謂此身行為沙門 梵志聰明智慧及餘世
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,nisajja kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca kiṃ nu kho bhante ānanda so bhagavā,尊者阿難答曰 大王 謂身行有罪
+88,214,TRUE_PAIR,brahma,梵天|梵,,MISSING,tathārūpaṃ kāyasamācāraṃ samācareyya yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehī ti,拘薩羅王波斯匿問曰 阿難 云何為身行耶
+88,214,TRUE_PAIR,brahma,梵天|梵,,MISSING,na kho mahārāja so bhagavā tathārūpaṃ kāyasamācāraṃ samācareyya yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūh,尊者阿難答曰 大王 謂行身行 智者所憎惡
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,kiṃ pana bhante ānanda so bhagavā tathārūpaṃ vacīsamācāraṃ pe manosamācāraṃ samācareyya yvāssa manosamācāro opārambho sa,拘薩羅王波斯匿問曰 阿難 云何智者所憎惡耶
+88,214,TRUE_PAIR,brahma,梵天|梵,,MISSING,kiṃ pana bhante ānanda so bhagavā tathārūpaṃ vacīsamācāraṃ pe manosamācāraṃ samācareyya yvāssa manosamācāro opārambho sa,拘薩羅王波斯匿問曰 阿難 云何智者所憎惡耶
+88,214,SOFT,brahma,梵天|梵,,MISSING,na kho mahārāja so bhagavā tathārūpaṃ manosamācāraṃ samācareyya yvāssa manosamācāro opārambho samaṇehi brāhmaṇehi viññūh,尊者阿難答曰 大王 謂行身行 自害 害彼 俱害 滅智慧 惡相助 不得涅槃 不趣智 不趣覺 不趣涅槃 彼可行法不知如真 不可行法亦不知如真 可行法不知如真 不可行法亦不知如真已 可受法不知如真 不可受法亦不知如真 可受法不知如真 不可受法亦不
+88,214,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,avaṇṇaṃ vā bhāsanti mayaṃ taṃ sārato paccāgacchāma katamo pana bhante ānanda kāyasamācāro opārambho samaṇehi brāhmaṇehi ,尊者阿難答曰 大王 謂行身行 自害 害彼 俱害 滅智慧 惡相助 不得涅槃 不趣智 不趣覺 不趣涅槃 彼可行法不知如真 不可行法亦不知如真 可行法不知如真 不可行法亦不知如真已 可受法不知如真 不可受法亦不知如真 可受法不知如真 不可受法亦不
+88,214,SOFT,brahma,梵天|梵,,MISSING,avaṇṇaṃ vā bhāsanti mayaṃ taṃ sārato paccāgacchāma katamo pana bhante ānanda kāyasamācāro opārambho samaṇehi brāhmaṇehi ,尊者阿難答曰 大王 謂行身行 自害 害彼 俱害 滅智慧 惡相助 不得涅槃 不趣智 不趣覺 不趣涅槃 彼可行法不知如真 不可行法亦不知如真 可行法不知如真 不可行法亦不知如真已 可受法不知如真 不可受法亦不知如真 可受法不知如真 不可受法亦不
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,kiṃ pana bhante ānanda so bhagavā sabbesaṃyeva kusalānaṃ dhammānaṃ upasampadaṃ vaṇṇetī ti,拘薩羅王波斯匿問曰 阿難 如來何故終不行此法耶
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,iminā ca mayaṃ bhante āyasmato ānandassa subhāsitena attamanābhiraddhā,拘薩羅王波斯匿問曰 阿難 如來頗行如是身行 謂此身行不為沙門 梵志聰明智慧及餘世間所憎惡耶
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evaṃ attamanābhiraddhā ca mayaṃ bhante āyasmato ānandassa subhāsitena,尊者阿難答曰 大王 謂善身行也
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,sace bhante āyasmato ānandassa hatthiratanaṃ kappeyya hatthiratanampi mayaṃ āyasmato ānandassa dadeyyāma,尊者阿難答曰 大王 謂行身行 不自害 不害彼 不俱害 覺慧 不惡相助 得涅槃 趣智趣覺 趣至涅槃 彼可行法知如真 不可行法亦知如真 可行法知如真 不可行法亦知如真已 可受法知如真 不可受法亦知如真 可受法知如真 不可受法亦知如真已 可斷法知
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,sace bhante āyasmato ānandassa assaratanaṃ kappeyya assaratanampi mayaṃ āyasmato ānandassa dadeyyāma,順御 善語 妙語 善順語 是故如來必行此法
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,sace bhante āyasmato ānandassa gāmavaraṃ kappeyya gāmavarampi mayaṃ āyasmato ānandassa dadeyyāma,拘薩羅王波斯匿歎曰 善哉 善哉 阿難 如來可行法必行 所以者何 以如來 無所著 正盡覺故 阿難 汝彼師弟子 學道欲得無上安隱涅槃 汝尚行此法 況復如來不行此法耶 阿難善說 我今歡喜 阿難快說 我極歡喜 若村輸
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,api ca bhante mayampetaṃ jānāma netaṃ āyasmato ānandassa kappatī ti,租阿難法應受者 我村輸租為法布施 阿難 若象 馬 牛 羊阿難法應受者 我象 馬 牛 羊為法布施 阿難 若婦女及童女阿難法應受者 我婦女及童女為法布施 阿難 若生色寶阿難法應受者 我生色寶為法布施 阿難 如此之事阿難皆不應受 我拘薩羅家有一衣
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,yaṃ panāyasmato ānandassa purāṇaṃ ticīvaraṃ taṃ sabrahmacārīhi saṃvibhajissati,拘薩羅王波斯匿白曰 如是 阿難 若有三衣 當與比丘 比丘尼 漸學舍羅 舍羅
+88,214,TRUE_PAIR,brahma,梵天|梵,,MISSING,yaṃ panāyasmato ānandassa purāṇaṃ ticīvaraṃ taṃ sabrahmacārīhi saṃvibhajissati,拘薩羅王波斯匿白曰 如是 阿難 若有三衣 當與比丘 比丘尼 漸學舍羅 舍羅
+88,214,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,atha kho rājā pasenadi kosalo āyasmantaṃ ānandaṃ etadavoca handa ca dāni mayaṃ bhante ānanda gacchāma bahukiccā mayaṃ ba,於是 拘薩羅王波斯匿知尊者阿難默然受已 鞞訶提衣為法布施尊者阿難 即從座起 繞三匝而去
+88,214,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,atha kho rājā pasenadi kosalo āyasmato ānandassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṃ ānandaṃ abhivād,於是 拘薩羅王波斯匿知尊者阿難默然受已 鞞訶提衣為法布施尊者阿難 即從座起 繞三匝而去
+88,214,TRUE_PAIR,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,atha kho bhagavā bhikkhū āmantesi lābhā bhikkhave rañño pasenadissa kosalassa suladdhalābhā,於是 尊者阿難與拘薩羅王波斯匿所共論者 盡向佛說 叉手白曰 我如是說 不誣謗世尊耶 真說如法 說法次法 不於如法有過失耶
+88,214,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,bhikkhave rañño pasenadissa kosalassa yaṃ rājā pasenadi kosalo labhati ānandaṃ dassanāya labhati payirupāsanāyā ti,佛說如是 尊者阿難及諸比丘 聞佛所說 歡喜奉行
+88,214,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,bhikkhave rañño pasenadissa kosalassa yaṃ rājā pasenadi kosalo labhati ānandaṃ dassanāya labhati payirupāsanāyā ti,佛說如是 尊者阿難及諸比丘 聞佛所說 歡喜奉行
+89,213,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,evaṃ devā ti kho dīgho kārāyano rañño pasenadissa kosalassa paṭissutvā bhadrāni bhadrāni yānāni,長作答曰 天王 我聞世尊遊釋中 在釋家都邑 名彌婁離
+89,213,TRUE_PAIR,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,yojāpetvā rañño pasenadissa kosalassa paṭivedesi yuttāni kho te deva bhadrāni bhadrāni yānāni yassadāni kālaṃ maññasī ti,拘薩羅王波斯匿復問曰 長作 釋家都邑名彌婁離 去此幾許
+89,213,TRUE_PAIR,brahma,梵天|梵,,MISSING,puna caparāhaṃ bhante passāmi idhekacce brāhmaṇapaṇḍite pe gahapatipaṇḍite pe samaṇapaṇḍite nipuṇe kataparappavāde vālav,諳識諸經 制伏強敵 談論覺了 名德流布 一切世間無不聞知 所遊至處壞諸見宗 輙自立論 而作是說 我等往至沙門瞿曇所 問如是如是事 若能答者 當難詰彼 若不能答 亦難詰已 捨之而去 彼聞世尊遊某村邑 往至佛所 尚不敢問於世尊事 況復欲難詰耶 
+89,213,SOFT,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,atha kho bhagavā acirapakkantassa rañño pasenadissa kosalassa bhikkhū āmantesi eso bhikkhave rājā pasenadi kosalo dhamma,於是 世尊將尊者阿難往至講堂比丘眾前 敷座而坐 告曰 比丘 今拘薩羅王波斯匿在我前說此法莊嚴經已 即從座起 稽首我足 繞三匝而去 比丘 汝等當受持此法莊嚴經 善誦善習 所以者何 比丘 此法莊嚴經 如義如法 為梵行本 趣智趣覺 趣至涅槃 若族
+89,213,TRUE_PAIR,brahma,梵天|梵,,MISSING,atthasaṃhitāni bhikkhave dhammacetiyāni ādibrahmacariyakānī ti,佛說如是 彼諸比丘聞佛所說 歡喜奉行
+90,212,TRUE_PAIR,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,atha kho somā ca bhaginī sakulā ca bhaginī rājānaṃ pasenadiṃ kosalaṃ bhattābhihāre upasaṅkamitvā,拘薩羅王波斯匿告御者曰 汝可嚴駕 我今欲往見沙門瞿曇 御者受教 即便嚴駕
+90,212,SOFT,brahma,梵天|梵,梵,VARIANT,brāhmaṇo vā yo sabbaññū sabbadassāvī aparisesaṃ ñāṇadassanaṃ paṭijānissati netaṃ ṭhānaṃ vijjatī ti,拘薩羅王波斯匿便問曰 瞿曇 我聞沙門瞿曇作如是說 本無 當不有 今現亦無 若有餘沙門 梵志一切知 一切見者 瞿曇 憶如是說耶
+90,212,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,sañjayo mahārāja brāhmaṇo ākāsagotto ti,迴顧告鞞留羅大將曰 前日王共大眾坐 誰最前說沙門瞿曇作如是說 本無 當不有 今現亦無 若有餘沙門 梵志一切知 一切見者
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,sañjayaṃ brāhmaṇaṃ ākāsagottaṃ āmantehi rājā taṃ bhante pasenadi kosalo āmantetī ti,拘薩羅王波斯匿聞已 告一人曰 汝往至想年少吉祥子所 作如是語 拘薩羅王波斯匿呼汝
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ devā ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yena sañjayo brāhmaṇo ākāsagotto,彼人受教 即往想年少吉祥子所 作如是語 年少 拘薩羅王波斯匿呼汝
+90,212,TRUE_PAIR,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,evaṃ devā ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yena sañjayo brāhmaṇo ākāsagotto,彼人受教 即往想年少吉祥子所 作如是語 年少 拘薩羅王波斯匿呼汝
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,tenupasaṅkami upasaṅkamitvā sañjayaṃ brāhmaṇaṃ ākāsagottaṃ etadavoca rājā taṃ bhante pasenadi kosalo āmantetī ti,彼人去後 於是 拘薩羅王波斯匿白世尊曰 沙門瞿曇 頗有異說異受 沙門瞿曇憶所說耶
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ kho ahaṃ mahārāja abhijānāmi vācaṃ bhāsitā natthi so samaṇo vā brāhmaṇo vā yo sakideva sabbaṃ ñassati sabbaṃ dakkhi,拘薩羅王波斯匿聞已 歎曰 沙門瞿曇所說如師 沙門瞿曇所說如善師 欲更有所問 聽我問耶
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,heturūpaṃ bhante bhagavā āha saheturūpaṃ bhante bhagavā āha natthi so samaṇo vā brāhmaṇo vā yo sakideva sabbaṃ ñassati s,拘薩羅王波斯匿聞已 歎曰 沙門瞿曇所說如師 沙門瞿曇所說如善師
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,cattārome bhante vaṇṇā khattiyā brāhmaṇā vessā suddā imesaṃ nu kho bhante catunnaṃ vaṇṇānaṃ siyā viseso siyā nānākaraṇa ,拘薩羅王波斯匿白曰 瞿曇 我不但問於現世義 亦復欲問於後世義 聽我問耶
+90,212,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,atha kho āyasmato ānandassa etadahosi ayaṃ kho viṭaṭūbho senāpati rañño pasenadissa kosalassa putto ahaṃ bhagavato putto,是時 尊者阿難在世尊後 執拂侍佛 於是 尊者阿難作是念 此鞞留羅大將是拘薩羅王波斯匿子 我是世尊子 今正是時 子子共論
+90,212,SOFT,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,atha kho āyasmato ānandassa etadahosi ayaṃ kho viṭaṭūbho senāpati rañño pasenadissa kosalassa putto ahaṃ bhagavato putto,是時 尊者阿難在世尊後 執拂侍佛 於是 尊者阿難作是念 此鞞留羅大將是拘薩羅王波斯匿子 我是世尊子 今正是時 子子共論
+90,212,TRUE_PAIR,kosala,拘薩羅|拘薩,拘薩羅|拘薩,MATCH,yāvatā bho rañño pasenadissa kosalassa vijitaṃ yattha ca rājā pasenadi kosalo issariyādhipaccaṃ rajjaṃ kāreti,鞞留羅大將答曰 沙門 若拘薩羅王波斯匿所有境界 教令所及 拘薩羅王波斯匿福勝 梵行勝故 得自在退去 遣去也
+90,212,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,na tattha pahoti rājā pasenadi kosalo samaṇaṃ vā brāhmaṇaṃ vā puññavantaṃ vā apuññavantaṃ vā,鞞留羅大將答曰 沙門 若非拘薩羅王波斯匿境界 教令所不及 拘薩羅王波斯匿福勝 梵行勝故 不得自在退彼 遣彼也
+90,212,TRUE_PAIR,brahma,梵天|梵,,MISSING,brahmacariyavantaṃ vā abrahmacariyavantaṃ vā tamhā ṭhānā cāvetuṃ vā pabbājetuṃ vā ti,尊者阿難復問曰 大將 頗聞有三十三天耶
+90,212,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ānando nāma mahārājā ti ānando vata bho ānandarūpo vata bho,世尊答曰 大王 此比丘名阿難 是我侍者
+90,212,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,adhibrahmānaṃ mayaṃ bhante bhagavantaṃ apucchimhā adhibrahmānaṃ bhagavā byākāsi tañca panamhākaṃ ruccati ceva khamati ca,拘薩羅王波斯匿聞已 問想年少吉祥子曰 前日王共大眾會坐 誰最前說沙門瞿曇如是說 本無 當不有 今現亦無 若有餘沙門 梵志一切知 一切見 耶
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,tena kho pana samayena brahmāyu brāhmaṇo mithilāyaṃ paṭivasati,爾時 彌薩羅有梵志 名曰梵摩 極大富樂 資財無量 畜牧產業不可稱計 封戶食邑種種具足
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,assosi kho brahmāyu brāhmaṇo samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṃ carati,優多羅 我聞如是 彼沙門瞿曇釋種子捨釋宗族 剃除鬚髮 著袈裟衣 至信 捨家 無家 學道 遊鞞陀提國 與大比丘眾俱 優多羅 彼沙門瞿曇有大名稱 周聞十方 彼沙門瞿曇如來 無所著 等正覺 明行成為 善逝 世間解 無上士 道法御 天人師 號佛 眾
+91,161,TRUE_PAIR,brahma,梵天|梵,,MISSING,tena kho pana samayena brahmāyussa brāhmaṇassa uttaro nāma māṇavo antevāsī hoti,相耶
+91,161,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho brahmāyu brāhmaṇo uttaraṃ māṇavaṃ āmantesi ayaṃ tāta uttara samaṇo gotamo sakyaputto,於是 世尊即如其像作如意足 如其像作如意足已 優多羅摩納見世尊身陰馬藏及廣長舌 廣長舌者 從口出舌 盡覆其面 優多羅摩納見已 而作是念 沙門瞿曇成就三十二大人之相 若成就大人相者 必有二處真諦不虛 若在家者 必為轉輪王 聰明智慧 有四種軍 
+91,161,TRUE_PAIR,mara,魔|波旬,,MISSING,sace agāraṃ ajjhāvasati rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratana,鴈王 是謂 尊 沙門瞿曇大人大人之相
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,evaṃ bho ti kho uttaro māṇavo brahmāyussa brāhmaṇassa paṭissutvā uṭṭhāyāsanā brahmāyuṃ brāhmaṇaṃ,牙齒不踈 齒白 齒通味第一味 是謂 尊 沙門瞿曇大人大人之相 復次 尊 沙門瞿曇梵音可愛 其聲猶如
+91,161,TRUE_PAIR,brahma,梵天|梵,,MISSING,ekamantaṃ nisinnaṃ kho uttaraṃ māṇavaṃ brahmāyu brāhmaṇo etadavoca kacci tāta uttara taṃ bhavantaṃ gotamaṃ tathā santaṃy,患 有力快樂 飯食已訖 受洗手水 不高不下 不多不少 受澡鉢水 不高不下 不多不少 彼洗手淨已 其鉢亦淨 洗鉢淨已 其手亦淨 拭手已 便拭鉢 拭鉢已 便拭手 彼洗拭鉢已 安著一面 不近不遠 不數觀鉢 亦不為鉢 彼不毀呰此食 亦不稱譽彼食 但
+91,161,TRUE_PAIR,upali,優波離|優婆離,,MISSING,sukhumacchavi kho pana so bhavaṃ gotamo sukhumattā chaviyā rajojallaṃ kāye na upalimpati,於是 世尊度優多羅摩納 令學道受具足 度優多羅摩納 令學道受具足已 遊行鞞陀提國 與大比丘眾俱 展轉進前 到彌薩羅 住彌薩羅
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,susukkadāṭho kho pana so bhavaṃ gotamo pahūtajivho kho pana so bhavaṃ gotamo brahmassaro kho pana so bhavaṃ gotamo karav,爾時 世尊在無量眾前後圍繞而為說法 梵志梵摩遙見世尊在無量眾前後圍繞而為說法 見已 恐怖 於是 梵摩即避在道側 至樹下住 告一摩納 汝往詣彼沙門瞿曇 為我問訊聖體康強 安快無病 起居輕便 氣力如常耶 作如是語 瞿曇 我師梵摩問訊聖體康強 安
+91,161,TRUE_PAIR,upali,優波離|優婆離,,MISSING,na ca tassa bhoto gotamassa kāye rajojallaṃ upalimpati,喜足 可還復坐 為汝說法
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,seyyathāpi nāma suddhaṃ vatthaṃ apagatakāḷakaṃ sammadeva rajanaṃ paṭiggaṇheyya evameva brahmāyussa,座上見四聖諦 苦 習 滅 道 猶如白素 易染為色 如是梵摩即於座上見四聖諦 苦 習 滅 道
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,brāhmaṇassa tasmiṃyeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamma ,於是 梵摩見法得法 覺白淨法 斷疑度惑 更無餘尊 不復由他 無有猶豫 已住果證 於世尊法得無所畏 即從座起 稽首佛足 世尊 我今自歸於佛 法及比丘眾 唯願世尊受我為優婆塞 從今日始 終身自歸 乃至命盡
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho brahmāyu brāhmaṇo diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho,時 梵志梵摩叉手向佛 白曰 世尊 唯願明日垂顧受請 及比丘眾 世尊為梵志梵摩故 默然而受
+91,161,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho brahmāyu brāhmaṇo bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi,王為人中尊 海為江河長 月為星中明 明照無過日
+91,161,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho brahmāyu brāhmaṇo tassā rattiyā accayena sake nivesane paṇītaṃ khādanīyaṃ bhojanīyaṃ,上下維諸方 及一切世間 從人乃至天 唯佛最第一
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho brahmāyu brāhmaṇo sattāhaṃ buddhappamukhaṃ bhikkhusaṅghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi ,前進 到舍衛國 住勝林給孤獨園 於是 眾多比丘舍衛乞食時 聞彼彌薩羅梵志梵摩以偈問佛事 彼便命終 諸比丘聞已 食訖 中後收舉衣鉢 澡洗手足 以尼師
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho brahmāyu brāhmaṇo acirapakkantassa bhagavato kālamakāsi,我等眾多比丘平旦著衣 持鉢入舍衛乞食時 聞彼彌薩羅梵志梵摩以偈問佛事 彼便命終 世尊 彼至何處 為生何許 後世云何
+91,161,SOFT,brahma,梵天|梵,梵,VARIANT,ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ brahmāyu bhante brāhmaṇo kālaṅkato,世尊答曰 比丘 梵志梵摩極有大利 最後知法 為法故不煩勞我 比丘 梵志梵摩五下分結盡 生彼得般涅槃 得不退法 不還此世 爾時 世尊記說梵摩得阿那含
+91,161,SOFT,brahma,梵天|梵,梵,VARIANT,paṇḍito bhikkhave brahmāyu brāhmaṇo paccapādi dhammassānudhammaṃ na ca maṃ dhammādhikaraṇaṃ vihesesi,世尊答曰 比丘 梵志梵摩極有大利 最後知法 為法故不煩勞我 比丘 梵志梵摩五下分結盡 生彼得般涅槃 得不退法 不還此世 爾時 世尊記說梵摩得阿那含
+91,161,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,brahmāyu bhikkhave brāhmaṇo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti tattha parinibbāyī anāvattid,佛說如是 梵志梵摩及諸比丘 聞佛所說 歡喜奉行
+93,151,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,tena kho pana samayena nānāverajjakānaṃ brāhmaṇānaṃ pañcamattāni brāhmaṇasatāni sāvatthiyaṃ paṭivasanti kenacideva karaṇ,爾時 眾多梵志於拘薩羅 集在學堂 共論此事 梵志種勝 餘者不如 梵志種白 餘者皆黑 梵志得清淨 非梵志不得清淨 梵志梵天子 從彼口生 梵梵所化 而沙門瞿曇說四種姓皆悉清淨 施設顯示 彼作是念 諸賢 為誰有力能至沙門瞿曇所 則以此事如法難詰 
+93,151,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,tena kho pana samayena nānāverajjakānaṃ brāhmaṇānaṃ pañcamattāni brāhmaṇasatāni sāvatthiyaṃ paṭivasanti kenacideva karaṇ,爾時 眾多梵志於拘薩羅 集在學堂 共論此事 梵志種勝 餘者不如 梵志種白 餘者皆黑 梵志得清淨 非梵志不得清淨 梵志梵天子 從彼口生 梵梵所化 而沙門瞿曇說四種姓皆悉清淨 施設顯示 彼作是念 諸賢 為誰有力能至沙門瞿曇所 則以此事如法難詰 
+93,151,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,tena kho pana samayena assalāyano nāma māṇavo sāvatthiyaṃ paṭivasati,於是 拘薩羅眾多梵志即詣阿攝惒邏延多那摩納所 共相問訊 却坐一面 語曰 摩納 我等眾多梵志於拘薩羅 集在學堂 共論此事 梵志種勝 餘者不如 梵志種白 餘者皆黑 梵志得清淨 非梵志不得清淨 梵志
+93,151,TRUE_PAIR,mara,魔|波旬,,MISSING,samphappalāpino abhijjhālū byāpannacittā micchādiṭṭhī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapa,如法說法者 不可難詰也
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,taṃ kiṃ maññasi assalāyana brāhmaṇova nu kho pāṇātipātā paṭivirato adinnādānā paṭivirato,拘薩羅眾多梵志語曰 摩納
+93,151,TRUE_PAIR,mara,魔|波旬,,MISSING,maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya no khattiyo no vesso no suddo ti,世尊告曰 摩納 恣汝所問
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,brāhmaṇopi hi bho gotama pe vessopi hi bho gotama pe suddopi hi bho gotama pe sabbepi hi bho,世尊告曰 我今問汝 隨所解答 摩納 頗聞餘尼及劒浮國有二種姓 大家及奴 大家作奴 奴作大家耶
+93,151,TRUE_PAIR,mara,魔|波旬,,MISSING,anabhijjhālū abyāpannacittā sammādiṭṭhī kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyyu nti,阿攝惒邏延多那摩納白曰 瞿曇 甚奇 甚特 快說此喻 但諸梵志作如是說 梵志種勝 餘者不如 梵志種白 餘者皆黑 梵志得清淨 非梵志不得清淨 梵志梵天子 從彼口生 梵梵所化
+93,151,SOFT,brahma,梵天|梵,梵,VARIANT,taṃ kiṃ maññasi assalāyana brāhmaṇova nu kho pahoti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetuṃ no khattiyo no ,世尊問曰 摩納 於意云何 頗獨有梵志於此虛空不著不縛 不觸不礙 剎利 居士 工師為不然耶
+93,151,SOFT,brahma,梵天|梵,梵,VARIANT,taṃ kiṃ maññasi assalāyana brāhmaṇova nu kho pahoti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetuṃ no khattiyo no ,世尊問曰 摩納 於意云何 頗獨有梵志能行慈心 無結無怨 無恚無諍 剎利 居士 工師不然耶
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,khattiyopi hi bho gotama pahoti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetuṃ brāhmaṇopi,阿攝惒邏延多那摩納答曰 瞿曇 梵志能行慈心 無結無怨 無恚無諍 剎利 居士 工師亦然
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,sannipāteyya āyantu bhonto ye tattha khattiyakulā brāhmaṇakulā rājaññakulā uppannā sākassa vā,燥娑羅及栴檀木用作火母 以鑽鑽之 生火長養耶 為居士族 工師族者 彼當以燥猪狗槽
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,taṃ kiṃ maññasi assalāyana yo evaṃ nu kho so khattiyakulā brāhmaṇakulā rājaññakulā uppannehi sākassa vā,阿攝惒邏延多那摩納白曰 瞿曇 若彼百種人皆以若干種木用作火母 以鑽鑽之 生火長養者 彼一切火皆有㷿 有色 有熱 有光 皆能作火事 若彼火獨有㷿 有色 有熱 有光 能為火事者 終無是處 若彼火獨無㷿 無色 無熱 無光 不能為火事者 亦無是處 
+93,151,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,pātukato so eva nu khvāssa aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā,世尊告曰 摩納 若此身隨所生者 即彼之數 若生梵志族者 即梵志族數 若生剎利 居士 工師族者 即工師族數 摩納 猶若如火 隨所生者 即彼之數 若因木生者 即木火數 若因草糞薪生者 即薪火數 如是 摩納 此身隨所生者 即彼之數 若生梵志族者 
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,yopi hi so bho gotama khattiyakulā brāhmaṇakulā rājaññakulā uppannehi sākassa vā sālassa vā,如是 摩納 此身隨所生者 即彼之數 若生梵志族者 即梵志族數 若生剎利 居士 工師族者 即工師族數
+93,151,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā aggikaraṇīyaṃ kātuṃ yopi so,阿攝惒邏延多那摩納答曰 瞿曇 若有馬與驢共合會 彼因合會 後便生駒 我不說彼驢 亦不說馬 瞿曇 我但說彼騾也
+93,151,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā aggikaraṇīyaṃ kātuṃ,拄杖持繖 著白衣變 不從門入 至仙人住處靜室經行
+93,151,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sabbopi hi bho gotama aggi accimā ceva vaṇṇavā ca pabhassaro ca sabbenapi sakkā agginā aggikaraṇīyaṃ kātu nti,於是 共住無事高處有一仙人 見阿私羅仙人提鞞邏著袈裟衣 以袈裟巾裹頭 拄杖持繖 著白衣變 不從門入 至仙人住處靜室經行 見已 往詣共住無事高處眾多仙人所 便作是語 諸賢 今有一人著袈裟衣 以袈裟巾裹頭 拄杖持繖 著白衣變 不從門入 至仙人住
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,taṃ kiṃ maññasi assalāyana idha khattiyakumāro brāhmaṇakaññāya saddhiṃ saṃvāsaṃ kappeyya tesaṃ,往呪之 汝作灰汝作灰耶
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,saṃvāsamanvāya putto jāyetha yo so khattiyakumārena brāhmaṇakaññāya putto uppanno siyā so mātupi,於是 共住無事高處眾多仙人即往詣彼阿私羅仙人提鞞邏所 到已 共呪 汝作灰 汝作灰 如其呪法呪之 汝作灰汝作灰者 如是如是 光顏益好 身體悅澤 彼眾多仙人便作是念 我等本呪汝作灰汝作灰者 彼即作灰 我今呪此人汝作灰汝作灰 我等如其呪法呪此人 
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,sadiso pitupi sadiso khattiyo tipi vattabbo brāhmaṇo tipi vattabbo ti,聞有阿私羅仙人提鞞邏 復語曰 我即是也 彼眾多
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,yo so bho gotama khattiyakumārena brāhmaṇakaññāya putto uppanno siyā so mātupi sadiso pitupi sadiso khattiyo tipi vattab,仙人即共辭謝阿私羅仙人提鞞邏曰 願為忍恕 我等不知尊是阿私羅仙人提鞞邏耳
+93,151,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,taṃ kiṃ maññasi assalāyana idha brāhmaṇakumāro khattiyakaññāya saddhiṃ saṃvāsaṃ kappeyya tesaṃ,於是 阿私羅仙人提鞞邏語諸仙人曰 我已相恕 汝等實生惡見 梵志種勝 餘者不如 梵志種白 餘者皆黑 梵志得清淨 非梵志不得清淨 梵志梵天子 從彼口生 梵梵所化 彼諸仙人答曰 如是 阿私羅復問諸仙人曰 汝等為自知己父耶 彼諸仙人答曰 知也 彼梵
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,saṃvāsamanvāya putto jāyetha yo so brāhmaṇakumārena khattiyakaññāya putto uppanno siyā so mātupi,滿堪耐 香陰已至 阿私羅 此事等會 入於母胎
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,sadiso pitupi sadiso khattiyo tipi vattabbo brāhmaṇo tipi vattabbo ti,阿私羅復問諸仙人曰 頗知受生為男 為女 知所從來 為從剎利族來 梵志 居士 工師族來耶 為從東方
+93,151,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,yo so bho gotama brāhmaṇakumārena khattiyakaññāya putto uppanno siyā so mātupi sadiso pitupi sadiso khattiyo tipi vattab,方 北方來 然作是說 梵志種勝 餘者不如 梵志種白 餘者皆黑 梵志得清淨 非梵志不得清淨 梵志梵天子 從彼口生 梵梵所化 摩納 彼住無事高處眾多仙人為阿私羅仙人提鞞邏如是善教善訶 不能施設清淨梵志 況汝師徒著皮草衣
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,kamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā ti,世尊復問曰 摩納 復有一梵志作齋行施 彼有四兒 二好學問 然不精進
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,yo so bho gotama māṇavako ajjhāyako upanīto tamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune ,喜行惡法 二不學問 然好精進 喜行妙法 於摩納意云何 彼梵志為先施誰第一座 第一澡水 第一食耶
+93,151,TRUE_PAIR,brahma,梵天|梵,,MISSING,kamettha brāhmaṇā paṭhamaṃ bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā ti,爾時 世尊知彼大眾心之所念 告曰 止 止 阿攝惒邏延多那 但心喜足 可還復坐 我當為汝說法
+93,151,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,te hi nāma assalāyana satta brāhmaṇisayo asitena devalena isinā sake jātivāde samanuyuñjīyamānā,於是 阿攝惒邏延多那摩納 佛為說法 勸發渴仰 成就歡喜已 即從坐起 稽首佛足 繞三匝而去 是時 拘薩羅眾多梵志還去不遠 種種言語
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho esukārī brāhmaṇo yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavatā saddhiṃ sammodi,爾時 欝瘦歌邏梵志中後彷徉 往詣佛所 共相問訊 却坐一面 白曰 瞿曇 欲有所問 聽乃敢陳
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,ekamantaṃ nisinno kho esukārī brāhmaṇo bhagavantaṃ etadavoca brāhmaṇā bho gotama catasso pāricariyā paññapenti,欝瘦歌邏梵志即便問曰 瞿曇 梵志為四種姓施設四種奉事 為梵志施設奉事 為剎利 居士 工師施設奉事 瞿曇 梵志為梵志施設奉事 梵志應奉事梵志 剎利 居士 工師亦應奉事梵志 瞿曇 此四種姓應奉事梵志 瞿曇 梵志為剎利施設奉事 剎利應奉事剎利 居
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,taṃ kiṃ maññasi brāhmaṇa brāhmaṇova nu kho pahoti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetuṃ no khattiyo no ve,欝瘦歌邏梵志答曰 瞿曇 若我奉事 因奉事故 有如無勝者 我不應奉事彼 若我奉事 因奉事故 有勝無如者 我應奉事彼 瞿曇 若奉事梵志 因奉事故 有如無勝者 我不應奉事彼 奉事剎利 居士 工師 因奉事故 有如無勝者 我不應奉事彼 瞿曇 若奉事梵
+96,150,TRUE_PAIR,brahma,梵天|梵,,MISSING,khattiyopi hi bho gotama pahoti asmiṃ padese averaṃ abyābajjhaṃ mettacittaṃ bhāvetuṃ brāhmaṇopi,有勝無如者 我應奉事彼 奉事剎利 居士 工師 因奉事故 有勝無如者 我應奉事彼
+96,150,SOFT,brahma,梵天|梵,梵,VARIANT,brāhmaṇakulā cepi brāhmaṇa vessakulā cepi brāhmaṇa suddakulā cepi brāhmaṇa agārasmā anagāriyaṃ pabbajito hoti,工師 因奉事故 有如無勝者 為是奉事耶 梵志 若奉事梵志 因奉事故 有勝無如者 為是奉事耶 奉事剎利 居士 工師 因奉事故 有勝無如者 為是奉事耶
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,taṃ kiṃ maññasi brāhmaṇa brāhmaṇova nu kho pahoti sottisināniṃ ādāya nadiṃ gantvā rajojallaṃ pavāhetuṃ no khattiyo no ve,梵志 彼梵志非愚非癡 亦非顛倒 心無顛倒 自由自在 答我曰 瞿曇 若我奉事 因奉事故 有如無勝者 我不應奉事彼 若我奉事 因奉事故 有勝無如者 我應奉事彼 瞿曇 若奉事梵志 因奉事故 有如無勝者 我不應奉事彼 奉事剎利 居士 工師 因奉事故
+96,150,TRUE_PAIR,brahma,梵天|梵,,MISSING,evameva kho brāhmaṇa khattiyakulā cepi agārasmā anagāriyaṃ pabbajito hoti,耶
+96,150,SOFT,brahma,梵天|梵,梵,VARIANT,brāhmaṇakulā cepi brāhmaṇa vessakulā cepi brāhmaṇa suddakulā cepi brāhmaṇa agārasmā anagāriyaṃ pabbajito hoti,欝瘦歌邏梵志答曰 瞿曇 若我奉事 因奉事故 失信 戒 博聞 庶幾 智慧者 我不應奉事彼 若我奉事 因奉事故 增益信 戒 博聞 庶幾 智慧者 我應奉事彼 瞿曇 若奉事梵志 因奉事故 失信 戒 博聞 庶幾 智慧者 我不應奉事彼 奉事剎利 居士 
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,taṃ kiṃ maññasi brāhmaṇa idha rājā khattiyo muddhāvasitto nānājaccānaṃ purisānaṃ purisasataṃ,世尊告曰 梵志 若更有梵志來 非愚非癡 亦非顛倒 心
+96,150,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,pātukato so eva nu khvāssa aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā,已 則便失利 猶如放牛人不能看牛者 則便失利 如是 瞿曇 梵志為居士施設田作自有財物 若居士輕慢田作者 則便輕慢自有財物 輕慢自有財物已 則便失利
+96,150,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,pātukato svāssa aggi na ceva accimā na ca vaṇṇavā na ca pabhassaro na ca tena sakkā agginā aggikaraṇīyaṃ kātu nti,世尊問曰 梵志 於意云何 若百種人來 或有一人而語彼曰 汝等共來 若有生剎利族 梵志族者 唯彼能持澡豆至水洗浴 去垢極淨 梵志 於意云何 為剎利族 梵志族者 彼能持澡豆至水洗浴 去垢極淨耶 為居士族 工師族者 彼不能持澡豆
+96,150,TRUE_PAIR,brahma,梵天|梵,,MISSING,yopi hi so bho gotama khattiyakulā brāhmaṇakulā rājaññakulā uppannehi sākassa vā sālassa vā,至水洗浴 去垢極淨耶 為一切百種人皆能持澡豆至水洗浴 去垢極淨耶
+96,150,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,aggi accimā ceva vaṇṇavā ca pabhassaro ca tena ca sakkā agginā aggikaraṇīyaṃ kātuṃ yopi so,世尊問曰 梵志 於意云何 若百種人來 或有一人而語彼曰 汝等共來 若生剎利族 梵志族者 唯彼能以極燥娑羅及
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,brāhmaṇakulā cepi brāhmaṇa vessakulā cepi brāhmaṇa suddakulā cepi brāhmaṇa agārasmā anagāriyaṃ pabbajito hoti,欝瘦歌邏梵志答曰 瞿曇 若百種人皆以若干種木用作火母 以鑽鑽之 生火長養者 彼一切火皆有㷿 有色 有熱 有光 皆能作火事 若彼火獨有㷿 有色 有熱 有光 能為火事者 終無是處 若彼火獨無㷿 無色 無熱 無光 不能為火事者 亦無是處 但 瞿曇
+96,150,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,evaṃ vutte esukārī brāhmaṇo bhagavantaṃ etadavoca abhikkantaṃ bho gotama abhikkantaṃ bho gotama,欝瘦歌邏梵志白曰 世尊 我已知 善逝 我已解 世尊 我今自歸於佛 法及比丘眾 唯願世尊受我為優婆塞 從今日始 終身自歸 乃至命盡
+97,27,SOFT,brahma,梵天|梵,,MISSING,kaccāvuso dhanañjāni brāhmaṇo arogo ca balavā cā ti dhanañjānipi kho āvuso brāhmaṇo arogo ca balavā cā ti,復問 賢者 世尊在王舍城受夏坐 聖體康強 安快無病 起居輕便 氣力如常耶
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta mātāpitūnaṃ hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho sāriputta mātāpitūnaṃ hetu d,尊者舍梨子聞已 於舍衛國受夏坐訖 過三月已 補治衣竟 攝衣持鉢 從舍衛國往詣王舍城 住竹林
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta puttadārassa hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho,於是 尊者舍梨子過夜平旦 著衣持鉢 入王舍城 次行乞食 乞食已 竟往至梵志陀然家 是時 梵志陀然從其家出 至泉水邊苦治居民 梵志陀然遙見尊者舍梨子來 從
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,sāriputta puttadārassa hetu dhammacārī samacārī assa tadevettha seyyo,坐而起 偏袒著衣 叉手向尊者舍梨子讚曰 善來 舍梨子 舍梨子久不來此 於是 梵志陀然敬心扶抱尊者舍梨子 將入家中 為敷好床 請
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta dāsakammakaraporisassa hetu adhammacārī visamacārī assa na taṃ seyyo yo ca,尊者舍梨子曰 止 止 陀然 但心喜足
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,kho bho sāriputta dāsakammakaraporisassa hetu dhammacārī samacārī assa tadevettha seyyo,是時 梵志陀然問曰 舍梨子 何故入如是家而不肯食
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta mittāmaccānaṃ hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho,梵志陀然答曰 舍梨子 當知我今在家 以家業為事 我應自安隱 供養父母 瞻視妻子 供給奴婢 當輸王租 祠祀諸天 祭餟先祖及布施沙門 梵志 為後生天而得長壽 得樂果報故 舍梨子 是一切事不可得
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,sāriputta mittāmaccānaṃ hetu dhammacārī samacārī assa tadevettha seyyo,疑 一向從法
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,yo hi bho sāriputta ñātisālohitānaṃ hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho,復問 陀然 於意云何 若復有人為妻子故而行作惡 因行惡故 身壞命終趣至惡處生地獄中 生地獄已 獄卒執捉 極苦治時 彼向獄卒而作是語 獄卒 當知 莫苦治我 所以者何 我為妻子故而行作惡 云何 陀然 彼人可得從地獄卒脫此苦耶
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,sāriputta ñātisālohitānaṃ hetu dhammacārī samacārī assa tadevettha seyyo,復問 陀然 於意云何 若復有人為奴婢故 而行作惡 因行惡故 身壞命終趣至惡處 生地獄中 生地獄已 獄卒執捉 極苦治時 彼向獄卒而作是語 獄卒 當知 莫苦治我 所以者何 我為奴婢故而行作惡 云何 陀然 彼人可得從地獄卒脫此苦耶
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,yo hi bho sāriputta atithīnaṃ hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho sāriputta atithīnaṃ hetu dhamm,陀然 族姓子可得如法 如業 如功德得錢財 尊重奉敬孝養父母 行福德業 不作惡業 陀然 若族姓子如法 如業 如功德得錢財 尊重奉敬孝養父母 行福德業 不作惡業者 彼便為父母之所愛念 而作是言 令汝強健 壽考無窮 所以者何 我由汝故 安隱快樂 
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,yo hi bho sāriputta pubbapetānaṃ hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho,陀然 族姓子可得如法 如業 如功德得錢財 愍傷奴婢 給恤瞻視 行福德業 不作惡業 陀然 若族姓子如法 如業 如功德得錢財 愍傷奴婢 給恤瞻視 行福德業 不作惡業者 彼便為奴婢之所尊重 而作是言 願令大家強健 壽考無窮 所以者何 由大家故 我
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,sāriputta pubbapetānaṃ hetu dhammacārī samacārī assa tadevettha seyyo,陀然 族姓子可得如法 如業 如功德得錢財 尊重供養沙門 梵志 行福德業 不作惡業 陀然 若族姓子如法 如業 如功德得錢財 尊重供養沙門 梵志 行福德業 不作惡業者 彼便極為沙門 梵志之所愛念 而作是言 令施主強健 壽考無窮 所以者何 我由施
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta devatānaṃ hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho sāriputta devatānaṃ hetu dhamm,尊者舍梨子答曰 陀然 汝莫歸我 我所歸佛汝應自歸
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta rañño hetu adhammacārī visamacārī assa na taṃ seyyo yo ca kho bho sāriputta rañño hetu dhammacārī sa,於是 尊者舍梨子為梵志陀然說法 勸發渴仰 成就歡喜 無量方便為彼說法 勸發渴仰 成就歡喜已 從坐起去 遊王舍城 住經數日 攝衣持鉢 從王舍城出 往詣南山 住南山村北尸攝惒林中
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yo hi bho sāriputta kāyassa pīṇanāhetu brūhanāhetu adhammacārī visamacārī assa na taṃ seyyo yo,於是 彼一比丘往詣尊者舍梨子所 稽首禮足 却坐一面
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,ca kho bho sāriputta kāyassa pīṇanāhetu brūhanāhetu dhammacārī samacārī assa tadevettha seyyo,尊者舍梨子問曰 賢者 從何處來 何處遊行
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,atha kho dhanañjāni brāhmaṇo āyasmato sāriputtassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā pakkāmi,比丘答曰 尊者舍梨子 我從王舍城來 遊行王舍城
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho dhanañjāni brāhmaṇo āyasmato sāriputtassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā pakkāmi,比丘答曰 尊者舍梨子 我從王舍城來 遊行王舍城
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,manussehi bho sāriputta cātumahārājikā devā seyyo ti taṃ kiṃ maññasi dhanañjāni katamaṃ seyyo cātumahārājikā vā devā tāv,尊者舍梨子聞是語已 即攝衣持鉢 從南山出 至王舍城 住竹林
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,cātumahārājikehi bho sāriputta devehi tāvatiṃsā devā seyyo ti,加蘭哆園 於是 尊者舍梨子過夜平旦 著衣持鉢 往詣梵志陀然家 梵志陀然遙見尊者舍梨子來 見已便欲從床而起 尊者舍梨子見梵志陀然欲從床起 便止彼曰 梵志陀然 汝臥勿起 更有餘床 我自別坐
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,tāvatiṃsehi bho sāriputta devehi yāmā devā seyyo ti taṃ kiṃ maññasi dhanañjāni katamaṃ seyyo yāmā vā devā tusitā vā devā,陀然答曰 所患至困 飲食不進 疾苦但增而不覺損 尊者舍梨子 猶如力士以利刀刺頭 但生極苦 我今頭痛亦復如是 尊者舍梨子 猶如力士以緊索繩而纏絡頭 但生極苦 我今頭痛亦復如是 尊者舍梨子 猶屠牛兒而以利刀破於牛腹 但生極苦 我今腹痛亦復如是 
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,yāmehi bho sāriputta devehi tusitā devā seyyo ti taṃ kiṃ maññasi dhanañjāni katamaṃ seyyo tusitā vā devā nimmānaratī vā ,尊者舍梨子告曰 陀然 我今問汝 隨所解答 梵志陀然 於意云何 地獄 畜生 何者為勝
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,tusitehi bho sāriputta devehi nimmānaratī devā seyyo ti,陀然答曰 畜生勝也
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,nimmānaratīhi bho sāriputta devehi paranimmitavasavattī devā seyyo ti,復問 陀然 餓鬼比人 何者為勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,taṃ kiṃ maññasi dhanañjāni katamaṃ seyyo paranimmitavasavattī vā devā brahmaloko vā ti,復問 陀然 人 四王天 何者為勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,brahmaloko ti bhavaṃ sāriputto āha brahmaloko ti bhavaṃ sāriputto āhā ti,陀然答曰 四王天勝
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,atha kho āyasmato sāriputtassa etadahosi ime kho brāhmaṇā brahmalokādhimuttā,復問 陀然 四王天 三十三天 何者為勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,atha kho āyasmato sāriputtassa etadahosi ime kho brāhmaṇā brahmalokādhimuttā,復問 陀然 四王天 三十三天 何者為勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,yaṃnūnāhaṃ dhanañjānissa brāhmaṇassa brahmānaṃ sahabyatāya maggaṃ deseyya nti,陀然答曰 三十三天勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,brahmānaṃ te dhanañjāni sahabyatāya maggaṃ desessāmi taṃ suṇāhi sādhukaṃ manasi karohi bhāsissāmī ti,復問 陀然 三十三天 㷿摩天 何者為勝
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,evaṃ bho ti kho dhanañjāni brāhmaṇo āyasmato sāriputtassa paccassosi,復問 陀然 㷿摩天 兜率陀天 何者為勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ bho ti kho dhanañjāni brāhmaṇo āyasmato sāriputtassa paccassosi,復問 陀然 㷿摩天 兜率陀天 何者為勝
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,āyasmā sāriputto etadavoca katamo ca dhanañjāni brahmānaṃ sahabyatāya maggo,陀然答曰 兜率陀天勝
+97,27,TRUE_PAIR,brahma,梵天|梵,梵天|梵,MATCH,ayaṃ kho dhanañjāni brahmānaṃ sahabyatāya maggo,陀然答曰 梵天最勝 梵天最勝
+97,27,SOFT,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,ayaṃ kho dhanañjāni brahmānaṃ sahabyatāya maggo ti tena hi bho sāriputta mama vacanena bhagavato pāde sirasā vandāhi dha,於是 尊者舍梨子往詣佛所 稽首禮足 却坐一面 世尊告曰 舍梨子 汝何以不教梵志陀然過梵天法 若上化者 速知法如法
+97,27,SOFT,brahma,梵天|梵,梵天|梵,MATCH,ayaṃ kho dhanañjāni brahmānaṃ sahabyatāya maggo ti tena hi bho sāriputta mama vacanena bhagavato pāde sirasā vandāhi dha,於是 尊者舍梨子往詣佛所 稽首禮足 却坐一面 世尊告曰 舍梨子 汝何以不教梵志陀然過梵天法 若上化者 速知法如法
+97,27,TRUE_PAIR,sariputta,舍利弗|舍梨子,舍梨子,VARIANT,kālaṅkatoca sāriputta dhanañjāni brāhmaṇo brahmalokañca upapanno ti,佛說如是 尊者舍梨子及無量百千眾 聞佛所說 歡喜奉行
+97,27,TRUE_PAIR,brahma,梵天|梵,,MISSING,kālaṅkatoca sāriputta dhanañjāni brāhmaṇo brahmalokañca upapanno ti,佛說如是 尊者舍梨子及無量百千眾 聞佛所說 歡喜奉行
+99,152,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṃ paṭivasati aññatarassa gahapatissa nivesane kenacideva kara,三念誦 我聞如是 一時 佛遊王舍城 在竹林加蘭哆園
+99,152,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,atha kho subho māṇavo todeyyaputto yassa gahapatissa nivesane paṭivasati taṃ gahapatiṃ etadavoca sutaṃ metaṃ gahapati av,爾時 鸚鵡摩納都題子少有所為 往至王舍城 寄宿居士家 於是 鸚鵡摩納都題子問所寄宿居士曰 頗有沙門 梵志宗主眾師 統領大眾 為人所尊 令我隨時往見奉敬
+99,152,TRUE_PAIR,brahma,梵天|梵,,MISSING,kaṃ nu khvajja samaṇaṃ vā brāhmaṇaṃ vā payirupāseyyāmā ti,儻能因此敬奉之時 得歡喜耶
+99,152,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,ayaṃ bhante bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme taṃ bhante bhagavantaṃ payirupāsassū ti,居士答曰 有也 天愛 沙門瞿曇釋種子捨釋宗族 剃除鬚髮 著袈裟衣 至信 捨家 無家 學道 覺無上正盡覺 天愛 自可隨時往見 詣彼奉敬 或能因此奉敬之時 心得歡喜
+99,152,TRUE_PAIR,brahma,梵天|梵,,MISSING,ekamantaṃ nisinno kho subho māṇavo todeyyaputto bhagavantaṃ etadavoca brāhmaṇā bho gotama evamāhaṃsu,居士答曰 沙門瞿曇在此王舍城竹林加蘭哆園 便可往見
+99,152,TRUE_PAIR,brahma,梵天|梵,,MISSING,brāhmaṇā bho gotama evamāhaṃsu mahaṭṭhamidaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ gharāvāsakammaṭṭhānaṃ mahapphalaṃ,佛言 摩納 若有在家及出家學道行邪行者 我不稱彼 所以者何 若
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,brāhmaṇā bho gotama evamāhaṃsu mahaṭṭhamidaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ gharāvāsakammaṭṭhānaṃ mahapphalaṃ,佛言 摩納 若有在家及出家學道行邪行者 我不稱彼 所以者何 若
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,atthi māṇava kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,鸚鵡摩納白曰 瞿曇 如我所聞 若在家者 便有大利 有
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,atthi māṇava kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ sampajjamānaṃ mahapphalaṃ hoti,大功德 出家學道者 則不然也 我問瞿曇此事云何
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,katamañca māṇava kammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,佛言 摩納 若在家者 有大災患 有大鬪諍 有大怨憎 行邪行者 不得大果 無大功德 猶如田作 有大災患 有大鬪諍 有大怨憎 行邪行者 不得大果 無大功德 如是 摩納 若在家者亦復如是 摩納 出家學道少有災患 少有鬪諍 少有怨憎 行邪行者 不得
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,kasi kho māṇava kammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,摩納 若在家者 有大災患 有大鬪諍 有大怨憎 行正行者 得大果報 有大功德 猶如田作 有大災患 有大鬪諍 有大怨憎 行正行
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,katamañca māṇava kammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ sampajjamānaṃ mahapphalaṃ hoti,者 得大果報 有大功德 如是 摩納 若在家者亦復如是 摩納 出家學道少有災患 少有鬪諍 少有怨憎 行正行者 得大果報 有大功德 猶如治生 少有災患 少有鬪諍 少有怨憎 行正行者 得大果報 有大功德 如是 摩納 出家學道亦復如是 摩納 我如是
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,kasiyeva kho māṇava kammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ sampajjamānaṃ mahapphalaṃ hoti,鸚鵡摩納白曰 瞿曇 彼諸梵志施設五法 有大果報 有大功德 作福得善
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,katamañca māṇava kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,世尊告曰 若諸梵志施設五法 有大果報 有大功德 作福得善 汝在此眾 今可說耶
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,vaṇijjā kho māṇava kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,鸚鵡摩納白曰 瞿曇 我無不可 所以者何 瞿曇 於今現
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,katamañca māṇava kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ sampajjamānaṃ mahapphalaṃ hoti,坐此眾
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,vaṇijjāyeva kho māṇava kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ sampajjamānaṃ mahapphalaṃ hoti,世尊告曰 汝便可說
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,seyyathāpi māṇava kasi kammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,鸚鵡摩納白曰 瞿曇 善聽 瞿曇 梵志施設第一真諦法 有大果報 有大功德 作福得善 第二
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,evameva kho māṇava gharāvāsakammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ vipajjamānaṃ appaphalaṃ hot,誦習 第三熱行 第四苦行 瞿曇 梵志施設第五梵行 有大果報 有大功德作福得善
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,seyyathāpi māṇava kasiyeva kammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ sampajjamānaṃ mahapphalaṃ ho,世尊告曰 若有梵志施設五法 有大果報 有大功德 作福得善 彼梵志中頗有一梵志作如是說 我此五法 於現法中自知自覺 自作證已 施設果 耶
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,evameva kho māṇava gharāvāsakammaṭṭhānaṃ mahaṭṭhaṃ mahākiccaṃ mahādhikaraṇaṃ mahāsamārambhaṃ sampajjamānaṃ mahapphalaṃ h,鸚鵡摩納白世尊曰 無也 瞿曇
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,seyyathāpi māṇava vaṇijjā kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ vipajjamānaṃ appaphalaṃ hoti,世尊告曰 頗有師及祖師 至七世父母 作如是說 我此五法 於現法中自知自覺 自作證已 施設果 耶
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,evameva kho māṇava pabbajjā kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ vipajjamānaṃ appaphalaṃ hot,爾時 世尊問曰 摩納 若昔有梵志壽終命過 誦持經書 流布經書 誦習
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,seyyathāpi māṇava vaṇijjāyeva kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ sampajjamānaṃ mahapphalaṃ,典經 一曰夜吒 二曰婆摩 三曰婆摩提婆 四曰奢蜜哆羅 五曰
+99,152,TRUE_PAIR,mara,魔|波旬,,MISSING,evameva kho māṇava pabbajjā kammaṭṭhānaṃ appaṭṭhaṃ appakiccaṃ appādhikaraṇaṃ appasamārambhaṃ sampajjamānaṃ mahapphalaṃ h,夜婆陀揵尼 六曰應疑羅婆 七曰婆私吒 八曰迦葉 九曰
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,kiṃ pana māṇava yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ,鸚鵡摩納白世尊曰 無也 瞿曇 但諸梵志因信受持
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,bhagavantaṃ etadavoca brāhmaṇo bho gotama pokkharasāti,鸚鵡摩納白曰 瞿曇 實無根本 但諸梵志聞已受持
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,opamañño subhagavaniko evamāha evameva panidhekacce samaṇabrāhmaṇā uttarimanussadhammā alamariyañāṇadassanavisesaṃ paṭij,世尊告曰 猶眾盲兒各相扶持 彼在前者 不見於後 亦不見中 彼在中者 不見於前 亦不見後 彼在後者 不見於中 亦不見前 摩納 所說諸梵志輩亦復如是 摩納 前說信而後復說聞
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,kiṃ pana māṇava brāhmaṇo pokkharasāti opamañño subhagavaniko sabbesaṃyeva samaṇabrāhmaṇānaṃ cetasā ceto paricca pajānātī,於是 世尊便作是念 鸚鵡摩納都題子瞋恚於我 憎嫉不悅 誹謗於我 指擿於我 罵詈於我 應誹謗 瞿曇 應指 瞿曇 應墮 瞿曇 而語我曰 瞿曇 有梵志名弗袈裟裟羅 姓直清淨化 彼作是說 若有沙門 梵志 於人上法有知有見 現我得者 我聞是已 便大笑
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,sakāyapi hi bho gotama puṇṇikāya dāsiyā brāhmaṇo pokkharasāti opamañño subhagavaniko cetasā ceto paricca na pajānāti,世尊知已 告曰 摩納 梵志弗袈裟裟羅 姓直清淨化 彼知一切沙門 梵志心之所念 然後作是說 若有沙門 梵志 於人上法有知有見 現我得者 我聞是已 便大笑之 意不相可 虛妄不真 亦不如法 云何人生人中 自說得人上法 若於人上法言我知我見者 此事
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,kuto pana sabbesaṃyeva samaṇabrāhmaṇānaṃ cetasā ceto paricca pajānissatī ti,鸚鵡摩納答曰 瞿曇 梵志弗袈裟裟羅 姓直清淨化 自有一婢 名曰不尼 尚不能知心之所念 況復欲知一切沙門 梵志心之所念耶 若使知者 終無是處
+99,152,SOFT,brahma,梵天|梵,梵,VARIANT,evameva kho māṇava brāhmaṇo pokkharasāti opamañño subhagavaniko andho acakkhuko,摩納 梵志弗袈裟裟羅 姓直清淨化 彼所說者 非如生盲無目人耶
+99,152,TRUE_PAIR,brahma,梵天|梵,,MISSING,atthasaṃhitaṃ bho gotama taṃ kiṃ maññasi māṇava yadi evaṃ sante brāhmaṇena pokkharasātinā opamaññena subhagavanikena sam,復次 摩納 有五法作障礙 作覆蓋 作盲無目 能滅智慧 唐
+99,152,TRUE_PAIR,brahma,梵天|梵,,MISSING,ayampi kho māṇava brahmānaṃ sahabyatāya maggo ti,世尊問曰 摩納 於意云何 若因草木而然火 及離草木而然火 何者光㷿最上 最妙 最勝耶
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divā divassa,鸚鵡摩納白曰 瞿曇 梵志不如是心行於布施 使他生怨恨而懷憎嫉 瞿曇 當知梵志以愍傷心而行於施 以愍傷心而行施已 便得大福
+99,152,TRUE_PAIR,savatthi,舍衛|舍衛國,,MISSING,tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divā divassa,鸚鵡摩納白曰 瞿曇 梵志不如是心行於布施 使他生怨恨而懷憎嫉 瞿曇 當知梵志以愍傷心而行於施 以愍傷心而行施已 便得大福
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,addasā kho jāṇussoṇi brāhmaṇo subhaṃ māṇavaṃ todeyyaputtaṃ dūratova āgacchantaṃ,世尊告曰 摩納 梵志非為施設第六法 有大果報 有大功德 作福得善耶
+99,152,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,ye cime bho brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya cittassete samaṇo gotamo parikkhāre ,鸚鵡摩納問曰 瞿曇 知梵道跡耶
+99,152,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ vutte jāṇussoṇi brāhmaṇo sabbasetā vaḷavābhirathā orohitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena,返已 汝問道路 謂於那羅歌邏村往返出入事 彼人寧住不能答耶
+99,152,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,bhagavā tenañjaliṃ paṇāmetvā udānaṃ udānesi lābhā rañño pasenadissa kosalassa suladdhalābhā rañño,世尊告曰 摩納 彼人往返於那羅歌邏村 問道路事 乃可得住而不能答 若問如來 無所著 等正覺梵道跡者 終不暫住而不能答
+99,152,TRUE_PAIR,kosala,拘薩羅|拘薩,,MISSING,pasenadissa kosalassa yassa vijite tathāgato viharati arahaṃ sammāsambuddho ti,鸚鵡摩納白世尊曰 沙門瞿曇 無著祠 此事具足 謂問梵道跡能速答故 世尊 我已知 善逝 我已解 世尊 我今自歸於佛 法及比丘眾 唯願世尊受我為優婆塞 從今日始 終身自歸 乃至命盡
+101,19,TRUE_PAIR,nigantha,尼乾|尼乾陀,尼乾,VARIANT,evaṃvādino bhikkhave nigaṇṭhā evaṃvādāhaṃ bhikkhave nigaṇṭhe upasaṅkamitvā evaṃ vadāmi saccaṃ kira tumhe āvuso nigaṇṭhā ,尼乾 猶如有人身被毒箭 因被毒箭則生極苦 彼為親屬憐念愍傷 欲饒益安隱故 即呼拔箭金醫 箭金醫來 便以利刀而為開瘡 因開瘡時 復生極苦 既開瘡已 而求箭金 求箭金時 復生極苦 求得金已 即便拔出 因拔出時 復生極苦 拔金出已
+101,19,TRUE_PAIR,nigantha,尼乾|尼乾陀,尼乾,VARIANT,te ca me bhikkhave nigaṇṭhā evaṃ puṭṭhā āmā ti paṭijānanti,則得苦邊 我問如是 不見諸尼乾能答我言 瞿曇 如是 不如是
+101,19,TRUE_PAIR,nigantha,尼乾|尼乾陀,尼乾,VARIANT,tyāhaṃ evaṃ vadāmi kiṃ pana tumhe āvuso nigaṇṭhā jānātha ahuvamheva mayaṃ pubbe na nāhuvamhā ti,復次 我問諸尼乾曰 諸尼乾 若有樂報業 彼業寧可因斷 因苦行 轉作苦報耶 彼答我言 不也 瞿曇 諸尼乾 若有苦報業 彼業寧可因斷 因苦行 轉作樂報耶 彼答我言 不也 瞿曇 諸尼乾 若有現法報業 彼業寧可因斷 因苦行 轉作後生報耶 彼答我言 
+101,19,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,kiṃ pana tumhe āvuso nigaṇṭhā jānātha akaramheva mayaṃ pubbe pāpakammaṃ na nākaramhā ti,虛妄方便 空斷無獲
+101,19,TRUE_PAIR,nigantha,尼乾|尼乾陀,尼乾,VARIANT,kiṃ pana tumhe āvuso nigaṇṭhā jānātha evarūpaṃ vā evarūpaṃ vā pāpakammaṃ akaramhā ti,彼諸尼乾便報我言 瞿曇 我有尊師 名親子尼乾 作如是說 諸尼乾 汝等若本作惡業 彼業皆可因此苦行而得滅盡 若今護身 口 意 因此不復更作惡業也 我復問彼諸尼乾曰 汝等信尊師親子尼乾 不疑惑耶 彼答我言 瞿曇 我信尊師親子尼乾 無有疑惑 我復
+101,19,TRUE_PAIR,nigantha,尼乾|尼乾陀,尼乾,VARIANT,kiṃ pana tumhe āvuso nigaṇṭhā jānātha ettakaṃ vā dukkhaṃ nijjiṇṇaṃ ettakaṃ vā,若諸尼乾作是說者 於如法中得五詰責 為可憎惡 云何為五 今此眾生所受苦樂皆因本作 若爾者 諸尼乾等本作惡業 所以者何 因彼故 諸尼乾於今受極重苦 是謂尼乾第一可憎惡 復次 眾生所受苦樂皆因合會 若爾者 諸尼乾等本惡合會 所以者何 因彼故 諸
+101,19,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,tassa me mittāmaccā ñātisālohitā bhisakkaṃ sallakattaṃ upaṭṭhapesuṃ,比丘答曰 不也 世尊 所以者何 其人於女無復愛念 染著之情 若彼女人故與他語 共相問訊 往來止宿 若使其人因此身心復生苦惱極憂慼者 是處不然
+104,196,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā v,親子 在彼命終 終後不久 尼揵親子諸弟子等各各破壞 不
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ekamantaṃ nisinno kho cundo samaṇuddeso āyasmantaṃ ānandaṃ etadavoca nigaṇṭho bhante nāṭaputto pāvāyaṃ adhunākālaṅkato,住舍彌村北尸攝和林 沙彌周那往詣尊者阿難所 到已禮足 却坐一面 尊者阿難問曰 賢者周那 從何所來 何處夏坐
+104,196,TRUE_PAIR,nigantha,尼乾|尼乾陀,,MISSING,tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā pe bhinnathūpe appaṭisaraṇe ti,沙彌周那答曰 尊者阿難 我從波和來 於波和中而受夏坐 尊者阿難 彼波和中有一尼揵 名曰親子 在彼命終 終後不久 尼揵親子諸弟子等各各破壞 不共和合 各說破壞 不和合事 鬪訟相縛 相憎共諍 我知此法 汝不知也 汝知何法 如我所知 我齊整 汝不
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,kathañcānanda tassapāpiyasikā hoti idhānanda bhikkhu bhikkhuṃ evarūpāya garukāya āpattiyā codeti pārājikena vā pārājikas,世尊 我聞此已 恐怖驚懼 舉身毛竪 莫令有比丘於世尊去後而在眾中起如是鬪諍 謂此鬪諍不益多人 多人有苦 非義非饒益 非安隱快樂 乃至天人生極苦患 世尊 我見一比丘坐世尊前 至心敬重世尊 善護善逝 世尊 我見此已 便作是念 若令此比丘於世尊去
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evaṃ kho ānanda tassapāpiyasikā hoti evañca panidhekaccānaṃ adhikaraṇānaṃ vūpasamo hoti yadidaṃ tassapāpiyasikāya,阿難 云何應與憶止諍律 云何斷此諍 謂因憶止諍律也 阿難 若有一人犯戒而不憶 諸比丘見已 便語彼曰 汝
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,kathañcānanda tiṇavatthārako hoti idhānanda bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ viharataṃ bahuṃ assā,曹犯戒而不自憶 汝應從眾求於憶律 眾當共與賢者憶律 阿難 若處有眾和集會者 彼比丘應詣 偏袒著衣 脫屣入眾 稽首禮長老上尊比丘足 長跪叉手 白長老上尊比丘曰 諸尊 聽我曾犯戒而不憶 我今從眾求於憶律 願眾和合與我憶律 阿難 為彼比丘故 眾共
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,tehānanda bhikkhūhi sabbeheva samaggehi sannipatitabbaṃ,阿難 云何應與不癡止諍律 云何斷此諍 謂因不癡止諍律也 阿難 若有一人狂發而心顛倒 彼狂發心顛倒已 多不淨行 非沙門法 不順法行而說違犯 彼於後時還得本心 諸比丘見已 便語彼曰 汝曹狂發而心顛倒 狂發心顛倒已 多不淨行 非沙門法 不順法行而
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,thullavajjaṃ ṭhapetvā gihipaṭisaṃyutta nti evaṃ kho ānanda tiṇavatthārako hoti evañca panidhekaccānaṃ adhikaraṇānaṃ vūpa,阿難 若此部中無一比丘應者 阿難 此比丘應往至彼第二部 到已稽首 禮長老上尊比丘足 長跪叉手 白長老上尊比丘曰 諸尊 聽 我等無道無理 我等惡不善 所以者何 我等於此善說法 律 至信 捨家 無家 學道 鬪訟憎嫉 相憎共諍 諸賢 因此諍 我等
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,chayime ānanda dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti,阿難 我今令汝說六慰勞法 諦聽 諦聽 善思念之
+104,196,SOFT,brahma,梵天|梵,梵,VARIANT,viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva,黑 如地不隨他 聖所稱譽 具足善受持如是戒分 布施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令敬 令修令攝 得沙門 得一心 得精進 得涅槃 若有聖見出要 明見深達 能正盡苦 如是見分布 施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令
+104,196,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,puna caparaṃ ānanda bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti,黑 如地不隨他 聖所稱譽 具足善受持如是戒分 布施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令敬 令修令攝 得沙門 得一心 得精進 得涅槃 若有聖見出要 明見深達 能正盡苦 如是見分布 施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令
+104,196,SOFT,brahma,梵天|梵,梵,VARIANT,takkarassa sammā dukkhakkhayā tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca,黑 如地不隨他 聖所稱譽 具足善受持如是戒分 布施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令敬 令修令攝 得沙門 得一心 得精進 得涅槃 若有聖見出要 明見深達 能正盡苦 如是見分布 施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令
+104,196,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,ime kho ānanda cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti,黑 如地不隨他 聖所稱譽 具足善受持如是戒分 布施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令敬 令修令攝 得沙門 得一心 得精進 得涅槃 若有聖見出要 明見深達 能正盡苦 如是見分布 施諸梵行 是法慰勞法 愛法 樂法 令愛令重 令奉令
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ime ce tumhe ānanda cha sāraṇīye dhamme samādāya vatteyyātha passatha no tumhe ānanda taṃ vacanapathaṃ aṇuṃ vā thūlaṃ vā,阿難 若汝等此六諍本止絕斷者 及此七止諍 眾中起鬪諍 以如棄糞掃止諍律止者 復行此六慰勞法 阿難 如是汝於我去後共同和合 歡
+104,196,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,tasmātihānanda ime cha sāraṇīye dhamme samādāya vattatha taṃ vo bhavissati dīgharattaṃ hitāya sukhāyā ti,喜不諍 同一一心 同一一教 合一水乳 快樂遊行 如我在時
+106,75,TRUE_PAIR,mara,魔|波旬,,MISSING,kāmasaññā ubhayametaṃ māradheyyaṃ mārassesa visayo mārassesa nivāpo mārassesa gocaro,是謂第一說淨不動道
+106,75,TRUE_PAIR,mara,魔|波旬,,MISSING,yā ca diṭṭhadhammikā kāmasaññā yā ca samparāyikā kāmasaññā ubhayametaṃ māradheyyaṃ mārassesa,彼於爾時必得不動想 彼如是行 如是學 如是修習而廣布 便於處得心淨 於處得心淨已 比丘者或於此得入不動 或以慧為解 彼於後時 身壞命終 因本意故 必至不動 是謂第三說淨不動道
+106,75,TRUE_PAIR,mara,魔|波旬,,MISSING,visayo mārassesa nivāpo mārassesa gocaro etthete pāpakā akusalā mānasā abhijjhāpi byāpādāpi sārambhāpi saṃvattanti teva ,復次 多聞聖弟子作如是觀 若現世欲想 後世欲想 若現世色想 後世色想及不動想 彼一切想是無常法 是苦 是滅 彼於爾時得無所有處想 彼如是行 如是學 如是修習而廣布 便於處得心淨 於處得心淨已 比丘者或於此得入不動 或以慧為解 彼於後時 身壞
+106,75,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,apetthekacco ānanda bhikkhu parinibbāyeyya apetthekacco bhikkhu na parinibbāyeyyā ti,尊者阿難白曰 世尊 比丘云何行不得般涅槃
+106,75,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,idhānanda bhikkhu evaṃ paṭipanno hoti no cassa no ca me siyā na bhavissati na me bhavissati yadatthi yaṃ bhūtaṃ taṃ paja,尊者阿難白曰 世尊 比丘云何行不得般涅槃
+106,75,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,saupādāno ānanda bhikkhu na parinibbāyatī ti kahaṃ pana so bhante bhikkhu upādiyamāno upādiyatī ti,尊者阿難白曰 世尊 比丘若有所受 不得般涅槃耶
+106,75,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,nevasaññānāsaññāyatanaṃ ānandā ti upādānaseṭṭhaṃ kira so bhante bhikkhu upādiyamāno upādiyatī ti,世尊告曰 阿難 若比丘有所受者 彼必不得般涅槃也
+106,75,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,upādānaseṭṭhañhi so ānanda bhikkhu upādiyamāno upādiyati,尊者阿難白曰 世尊 彼比丘為何所受
+106,75,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,upādānaseṭṭhañhetaṃ ānanda yadidaṃ nevasaññānāsaññāyatanaṃ,尊者阿難白曰 世尊 彼比丘為何所受
+106,75,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,idhānanda bhikkhu evaṃ paṭipanno hoti no cassa no ca me siyā na bhavissati na me bhavissati yadatthi yaṃ bhūtaṃ taṃ paja,世尊告曰 阿難 行中有餘 謂有想 無想處 於有中第一 彼比丘受
+106,75,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,anupādāno ānanda bhikkhu parinibbāyatī ti acchariyaṃ bhante abbhutaṃ bhante,世尊告曰 阿難 如是比丘受餘行也
+106,75,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,idhānanda bhikkhu ariyasāvako iti paṭisañcikkhati ye ca diṭṭhadhammikā kāmā ye ca samparāyikā,爾時 尊者阿難叉手向佛 白曰 世尊已說淨不動道 已說淨無所有處道 已說淨無想道 已說無餘涅槃 世尊 云何聖解脫耶
+106,75,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,iti kho ānanda desitā mayā āneñjasappāyā paṭipadā desitā ākiñcaññāyatanasappāyā paṭipadā desitā,阿難 我今為汝已說淨不動道 已說淨無所有處道 已說淨無想道 已說無餘涅槃 已說聖解脫 如尊師所為弟子起大慈哀
+106,75,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,yaṃ kho ānanda satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya kataṃ vo taṃ mayā,憐念愍傷 求義及饒益 求安隱快樂者 我今已作 汝等當復自作 至無事處 至林樹下 空安靜處 燕坐思惟 勿得放逸 勤加精進 莫令後悔 此是我之教勅 是我訓誨
+106,75,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,etāni ānanda rukkhamūlāni etāni suññāgārāni jhāyathānanda mā pamādattha mā pacchā vippaṭisārino ahuvattha,佛說如是 尊者阿難及諸比丘 聞佛所說 歡喜奉行
+107,144,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,atha kho gaṇakamoggallāno brāhmaṇo yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavatā saddhiṃ sammodi,爾時 算數梵志目揵連中後彷徉 往詣佛所 共相問訊 却坐一面 白曰
+107,144,TRUE_PAIR,brahma,梵天|梵,,MISSING,ekamantaṃ nisinno kho gaṇakamoggallāno brāhmaṇo bhagavantaṃ etadavoca,瞿曇 我欲有所問 聽乃敢陳
+107,144,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,satampi mayaṃ bho gotama gaṇāpema bhiyyopi gaṇāpema sakkā nu kho bho gotama imasmimpi dhammavinaye evameva anupubbasikkh,世尊告曰 目揵連 若有正說漸次第作 乃至成訖 目揵連 我法 律中謂正說 所以者何 目揵連 我於此法 律漸次第作至成就訖 目揵連 若年少比丘初來學道 始入法 律者 如來先教 比丘 汝來身護命清淨 口 意護命清淨 目揵連 若比丘身護命清淨 口 
+107,144,SOFT,brahma,梵天|梵,,MISSING,sakkā brāhmaṇa imasmimpi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetuṃ,念非法相應念
+107,144,SOFT,sakka,帝釋|天帝釋,,MISSING,sakkā brāhmaṇa imasmimpi dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā paññapetuṃ,念非法相應念
+107,144,SOFT,brahma,梵天|梵,,MISSING,yato kho brāhmaṇa bhikkhu sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno,目揵連 若比丘觀內身如身 不念欲相應念 至觀覺 心 法如法 不念非法相應念者 如來復上教 比丘 汝來守護諸根
+107,144,SOFT,brahma,梵天|梵,,MISSING,yato kho brāhmaṇa bhikkhu indriyesu guttadvāro hoti tamenaṃ tathāgato uttariṃ vineti ehi tvaṃ bhikkhu bhojane mattaññū h,忿諍故 守護意根 心中不生貪伺 憂慼 惡不善法 趣向彼故 守護意根者 如來復上教 比丘 汝來正知出入 善觀分別 屈
+107,144,TRUE_PAIR,brahma,梵天|梵,,MISSING,imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya iti,寤語默 皆正知之
+107,144,TRUE_PAIR,brahma,梵天|梵,,MISSING,jāgarite bhāsite tuṇhībhāve sampajānakārī ti yato kho brāhmaṇa bhikkhu satisampajaññena samannāgato hoti tamenaṃ tathāga,眠寤語默 皆正知者 如來復上教 比丘 汝來獨住遠離 在無事處 或至樹下空安
+107,144,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,evaṃ bho kusalo ahaṃ rājagahagāmissa maggassā ti taṃ kiṃ maññasi brāhmaṇa idha puriso āgaccheyya rājagahaṃ gantukāmo,調悔 斷疑 度惑 於諸善法無有猶豫 汝於疑惑淨除其心 汝斷此五蓋 心穢 慧羸 離欲 離惡不善之法 至得第四禪成就遊 目揵連 若比丘離欲 離惡不善之法 至得第四禪成就遊者 目揵連 如來為諸年少比丘多有所益 謂訓誨教訶 目揵連 若有比丘 長老 
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,,MISSING,evaṃ bho kusalo ahaṃ rājagahagāmissa maggassā ti taṃ kiṃ maññasi brāhmaṇa idha puriso āgaccheyya rājagahaṃ gantukāmo,調悔 斷疑 度惑 於諸善法無有猶豫 汝於疑惑淨除其心 汝斷此五蓋 心穢 慧羸 離欲 離惡不善之法 至得第四禪成就遊 目揵連 若比丘離欲 離惡不善之法 至得第四禪成就遊者 目揵連 如來為諸年少比丘多有所益 謂訓誨教訶 目揵連 若有比丘 長老 
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,,MISSING,so taṃ upasaṅkamitvā evaṃ vadeyya icchāmahaṃ bhante rājagahaṃ gantuṃ tassa me rājagahassa maggaṃ upadisā ti,算數目揵連即復問曰 沙門瞿曇 一切弟子如是訓誨 如是教訶 盡得究竟智必涅槃耶
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,,MISSING,tamenaṃ tvaṃ evaṃ vadeyyāsi ehambho purisa ayaṃ maggo rājagahaṃ gacchati,世尊答曰 目揵連 不一向得 或有得者 或不得者
+107,144,TRUE_PAIR,mara,魔|波旬,,MISSING,dakkhissasi rājagahassa ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyaka nti,世尊告曰 目揵連 我還問汝 隨所解答 目揵連 於意云何 汝知王舍城處
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,dakkhissasi rājagahassa ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyaka nti,世尊告曰 目揵連 我還問汝 隨所解答 目揵連 於意云何 汝知王舍城處
+107,144,SOFT,rajagaha,王舍城|羅閱城,,MISSING,tamenaṃ tvaṃ evaṃ vadeyyāsi ehambho purisa ayaṃ maggo rājagahaṃ gacchati,諳彼道耶
+107,144,TRUE_PAIR,mara,魔|波旬,,MISSING,dakkhissasi rājagahassa ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyaka nti,俠長流河 又有清泉 盡見盡知 彼人聞汝語 受汝教已 從此東行 須臾不久
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,,MISSING,dakkhissasi rājagahassa ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyaka nti,俠長流河 又有清泉 盡見盡知 彼人聞汝語 受汝教已 從此東行 須臾不久
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,so tayā evaṃ ovadīyamāno evaṃ anusāsīyamāno sotthinā rājagahaṃ gaccheyya,便捨正道 從惡道還 若王舍城外有好園林 其地平正 樓觀浴池 若干華樹 俠長流河 又有清泉 彼盡不見 亦不知也
+107,144,TRUE_PAIR,brahma,梵天|梵,,MISSING,ko nu kho brāhmaṇa hetu ko paccayo yaṃ tiṭṭhateva rājagahaṃ tiṭṭhati,復有人來欲見彼王 至王舍城 其人問汝 我欲見王 至王舍城 算數目揵連知王舍城處 諳彼道徑 可示語我耶 汝告彼人曰 從此東行至
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,ko nu kho brāhmaṇa hetu ko paccayo yaṃ tiṭṭhateva rājagahaṃ tiṭṭhati,復有人來欲見彼王 至王舍城 其人問汝 我欲見王 至王舍城 算數目揵連知王舍城處 諳彼道徑 可示語我耶 汝告彼人曰 從此東行至
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,rājagahagāmī maggo tiṭṭhasi tvaṃ samādapetā atha ca pana tayā evaṃ ovadīyamāno evaṃ anusāsīyamāno,目揵連 此中何因何緣 有彼王舍城 有王舍城道 汝現在導師 彼第一人隨受汝教 於後不久 捨平正道 從惡道還 若王舍城外有好園林 其地平正 樓觀浴池 若干華樹 俠長流河 又有清泉 彼盡不見 亦不知耶 彼第二人隨受汝教 從平正道展轉得至於王舍城 
+107,144,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,eko puriso ummaggaṃ gahetvā pacchāmukho gaccheyya eko sotthinā rājagahaṃ gaccheyyā ti,算數目揵連答曰 瞿曇 我都無事 有彼王舍城 有王舍城道 我現在導師 彼第一人不隨我教 捨平正道 從惡道還 若王舍城外有好園林 其地平正 樓觀浴池 若干華樹 俠長流河 又有清泉 彼盡不見 亦不知
+107,144,SOFT,brahma,梵天|梵,,MISSING,evameva kho brāhmaṇa tiṭṭhateva nibbānaṃ tiṭṭhati nibbānagāmī maggo tiṭṭhāmahaṃ samādapetā atha,世尊告曰 如是 目揵連 我亦無事 有彼涅槃 有涅槃道 我為導師 為諸比丘如是訓誨 如是教訶 得究竟涅槃 或有不得 目揵連 但各自隨比丘所行 爾時世尊便記彼行 謂究竟漏盡耳
+107,144,TRUE_PAIR,brahma,梵天|梵,,MISSING,ettha kyāhaṃ brāhmaṇa karomi maggakkhāyīhaṃ brāhmaṇa tathāgato ti,算數目揵連白曰 瞿曇 我已知 瞿曇 我已解 瞿曇 猶如良地有娑羅林 彼中有守娑羅林人 明
+107,144,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃ vutte gaṇakamoggallāno brāhmaṇo bhagavantaṃ etadavoca yeme bho gotama puggalā assaddhā,健不懈 諸娑羅根以時鋤掘 平高填下 糞沃溉灌 不失其時 若其邊有穢惡草
+108,145,TRUE_PAIR,rajagaha,王舍城|羅閱城,王舍城,VARIANT,tena kho pana samayena rājā māgadho ajātasattu vedehiputto rājagahaṃ paṭisaṅkhārāpeti rañño pajjotassa āsaṅkamāno,爾時 摩竭陀大臣雨勢治王舍城 為防跋耆故 於是 摩竭陀大臣雨勢遣
+108,145,TRUE_PAIR,rajagaha,王舍城|羅閱城,,MISSING,atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi,瞿默目揵連田作人 往至竹林加蘭哆園
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,atha kho āyasmato ānandassa etadahosi atippago kho tāva rājagahe piṇḍāya carituṃ,爾時 尊者阿難過夜平旦 著衣持鉢 為乞食故 入王舍城 於是 尊者阿難作是念 且置王舍城乞食 我寧可往詣瞿默目揵連田作人所 於是 尊者阿難往詣瞿默目揵連田作人所
+108,145,SOFT,moggallana,目犍連|目乾連,,MISSING,atha kho āyasmā ānando yena gopakamoggallānassa brāhmaṇassa kammanto yena gopakamoggallāno brāhmaṇo tenupasaṅkami,梵志瞿默目揵連遙見尊者阿難來 即從坐起 偏袒著衣 叉手向尊者阿難 白曰 善來 阿難 久不來此 可坐此座 尊者阿難即坐彼座
+108,145,SOFT,brahma,梵天|梵,梵,VARIANT,atha kho āyasmā ānando yena gopakamoggallānassa brāhmaṇassa kammanto yena gopakamoggallāno brāhmaṇo tenupasaṅkami,梵志瞿默目揵連遙見尊者阿難來 即從坐起 偏袒著衣 叉手向尊者阿難 白曰 善來 阿難 久不來此 可坐此座 尊者阿難即坐彼座
+108,145,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,disvāna āyasmantaṃ ānandaṃ etadavoca etu kho bhavaṃ ānando svāgataṃ bhoto ānandassa,梵志瞿默目揵連遙見尊者阿難來 即從坐起 偏袒著衣 叉手向尊者阿難 白曰 善來 阿難 久不來此 可坐此座 尊者阿難即坐彼座
+108,145,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,ānanda ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato,則便問曰 阿難 頗有一比丘與沙門瞿曇等耶
+108,145,SOFT,brahma,梵天|梵,梵,VARIANT,so bhavaṃ gotamo ahosi arahaṃ sammāsambuddho ti natthi kho brāhmaṇa ekabhikkhupi tehi dhammehi sabbenasabbaṃ sabbathāsab,尊者阿難與梵志瞿默目揵連共論此事時 爾時 摩竭陀大臣雨勢慰勞田作人 往詣梵志瞿默目揵連田作人所
+108,145,SOFT,brahma,梵天|梵,梵,VARIANT,so hi brāhmaṇa bhagavā anuppannassa maggassa uppādetā asañjātassa maggassa sañjanetā anakkhātassa,尊者阿難與梵志瞿默目揵連共論此事時 爾時 摩竭陀大臣雨勢慰勞田作人 往詣梵志瞿默目揵連田作人所
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,ayaṃ kho no brāhmaṇa gopakamoggallānena brāhmaṇena saddhiṃ antarākathā vippakatā atha tvaṃ anuppatto ti,尊者阿難答曰 雨勢 都無一比丘與世尊等等
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,atthi nu kho bho ānanda ekabhikkhupi tena bhotā gotamena ṭhapito ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatī ti yaṃ tumhe,摩竭陀大臣雨勢復問曰 唯然 阿難 無一比丘與世尊等等 頗有一比丘為沙門瞿曇在時所立 此比丘我般涅槃後 為諸比丘所依 謂令汝等今所依耶
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,natthi kho brāhmaṇa ekabhikkhupi tena bhagavatā jānatā passatā arahatā sammāsambuddhena ṭhapito,尊者阿難答曰 雨勢 都無一比丘為世尊所知 見 如來 無所著 等正覺在時所立 此比丘我般涅槃後 為諸比丘所依 謂令我等今所依者
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,atthi pana bho ānanda ekabhikkhupi saṅghena sammato sambahulehi therehi bhikkhūhi ṭhapito ayaṃ,尊者阿難答曰 雨勢 亦無一比丘與眾共和集拜 此比丘世尊般涅槃後 為諸比丘所依 謂令我等今所依者
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,natthi kho brāhmaṇa ekabhikkhupi saṅghena sammato sambahulehi therehi bhikkhūhi ṭhapito ayaṃ no,尊者阿難告曰 雨勢 汝莫作是說 言我等無所依 所以者何 我等有所依耳
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evaṃ appaṭisaraṇe ca pana bho ānanda ko hetu sāmaggiyā ti,尊者阿難答曰 雨勢 我等不依於人而依於法 雨勢 我等若依村邑遊行 十五日說
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,na kho mayaṃ brāhmaṇa appaṭisaraṇā sappaṭisaraṇā mayaṃ brāhmaṇa dhammappaṭisaraṇā ti,從解脫時 集坐一處 若有比丘知法者 我等請彼比丘為我等說法 若彼眾清淨者 我等一切歡喜奉行彼比丘所說 若彼眾不清淨者 隨法所說 我等教作是
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,yaṃ mayaṃ etarahi paṭipādeyyāmā ti vadesi atthi pana bho ānanda ekabhikkhupi saṅghena sammato,尊者阿難答曰 雨勢 有可尊敬
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,yaṃ tumhe etarahi paṭipādeyyāthā ti iti puṭṭho samāno natthi kho brāhmaṇa ekabhikkhupi saṅghena,共等等 亦無一比丘為世尊在時所立 此比丘我般涅槃後 為諸比丘所依 謂令我等今所依者 亦無一比丘與眾共和集拜 此比丘世尊般涅槃後 為諸比丘所依 謂令我等今所依者 阿難 汝何因何緣 今說有可尊敬耶
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,yaṃ mayaṃ etarahi paṭipādeyyāmā ti vadesi evaṃ appaṭisaraṇe ca pana bho ānanda ko hetu sāmaggiyā ti,復次 雨勢 比丘廣學多聞 守持不忘 積聚博聞 所謂法者 初妙 中妙 竟亦妙 有義有文 具足清淨 顯現梵行 如是諸法廣學 多聞誦習至
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,iti puṭṭho samāno na kho mayaṃ brāhmaṇa appaṭisaraṇā sappaṭisaraṇā mayaṃ brāhmaṇa dhammappaṭisaraṇā ti vadesi,千 意所推觀 明見深遠 雨勢 我等若見比丘極多聞者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,imassa pana bho ānanda bhāsitassa kathaṃ attho daṭṭhabbo ti,復次 雨勢 比丘作善知識 作善朋友 作善伴黨 雨勢 我等若見比丘極善知識者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,atthi kho brāhmaṇa tena bhagavatā jānatā passatā arahatā sammāsambuddhena bhikkhūnaṃ sikkhāpadaṃ paññattaṃ pātimokkhaṃ u,復次 雨勢 比丘樂住遠離 成就二遠離 身及心也 雨勢 我等若見比丘極樂住遠離者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,na kira no bhavanto kārenti dhammo no kāreti atthi nu kho bho ānanda ekabhikkhupi yaṃ tumhe etarahi sakkarotha garuṃ kar,與兩翅俱 飛翔空中 如是比丘知足 衣取覆形 食取充軀 隨所遊至 與衣鉢俱 行無顧戀 雨勢 我等若見比丘極知足者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,na kira no bhavanto kārenti dhammo no kāreti atthi nu kho bho ānanda ekabhikkhupi yaṃ tumhe etarahi sakkarotha garuṃ kar,與兩翅俱 飛翔空中 如是比丘知足 衣取覆形 食取充軀 隨所遊至 與衣鉢俱 行無顧戀 雨勢 我等若見比丘極知足者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,natthi kho brāhmaṇa ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema sakkatvā garuṃ katvā upanissāya ,復次 雨勢 比丘常行於念 成就正念 久所曾習 久所曾聞 恒憶不忘 雨勢 我等若見比丘極有正念者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,natthi kho brāhmaṇa ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema sakkatvā garuṃ katvā upanissāya ,復次 雨勢 比丘常行於念 成就正念 久所曾習 久所曾聞 恒憶不忘 雨勢 我等若見比丘極有正念者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,atthi nu kho bho ānanda ekabhikkhupi tena bhotā gotamena ṭhapito ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti,復次 雨勢 比丘常行精進 斷惡不善 修諸善法 恒自起意 專一堅固 為諸善本 不捨方便 雨勢 我等若見比丘極精懃者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,yaṃ tumhe etarahi paṭipādeyyāthā ti iti puṭṭho samāno natthi kho brāhmaṇa ekabhikkhupi tena,復次 雨勢 比丘修行智慧 觀興衰法 得如此智 聖慧明達 分別曉了 以正盡苦 雨勢 我等若見比丘極行慧者 則共愛敬 尊重 供養 宗奉 禮事於彼比丘
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,yaṃ mayaṃ etarahi paṭipādeyyāmā ti vadesi atthi pana bho ānanda ekabhikkhupi saṅghena sammato,於是 摩竭陀大臣雨勢及其眷屬問曰 阿難 今遊何處
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,yaṃ tumhe etarahi paṭipādeyyāthā ti iti puṭṭho samāno natthi kho brāhmaṇa ekabhikkhupi saṅghena,阿難 竹林加蘭哆園至可愛樂 政頓可喜 晝不喧閙 夜則
+108,145,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,yaṃ mayaṃ etarahi paṭipādeyyāmā ti vadesi atthi nu kho bho ānanda ekabhikkhupi yaṃ tumhe etarahi,尊者阿難答曰 如是 雨勢 如是 雨勢 竹林加蘭哆園至可愛樂 政頓可喜 晝不喧閙 夜則靜寂 無有蚊虻 亦無蠅蚤 不寒不熱 雨勢 我樂住竹林加蘭哆園中 所以者何 以世尊擁護故
+108,145,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkarotha garuṃ karotha mānetha pūjetha sakkatvā garuṃ katvā upanissāya viharathā ti iti,是時 婆難大將在彼眾中 婆難大將白曰 如是 雨勢 如是 雨勢 竹林加蘭哆園至可愛樂 政頓可喜 晝不喧閙 夜則靜寂 無有蚊虻 亦無蠅蚤 不寒不熱 彼尊者樂住竹林加蘭哆園 所以者何 此尊者行伺 樂伺故
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,puṭṭho samāno natthi kho brāhmaṇa ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema,摩竭陀大臣雨勢聞已 語曰 婆難大將 沙門瞿曇昔時遊行金鞞羅樂園中 婆難大將 爾時我數往詣彼 見沙門瞿曇 所以者何 沙門瞿曇行伺 樂伺 稱歎一切伺
+108,145,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,puṭṭho samāno natthi kho brāhmaṇa ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema,摩竭陀大臣雨勢聞已 語曰 婆難大將 沙門瞿曇昔時遊行金鞞羅樂園中 婆難大將 爾時我數往詣彼 見沙門瞿曇 所以者何 沙門瞿曇行伺 樂伺 稱歎一切伺
+108,145,SOFT,brahma,梵天|梵,,MISSING,atthi kho brāhmaṇa tena bhagavatā jānatā passatā arahatā sammāsambuddhena dasa pasādanīyā dhammā akkhātā,尊者阿難聞已 告曰 雨勢 莫作是說 沙門瞿曇稱說一切伺 所以者何 世尊或稱說伺 或不稱說
+108,145,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,yasmiṃ no ime dhammā saṃvijjanti taṃ mayaṃ etarahi sakkaroma garuṃ karoma mānema pūjema sakkatvā garuṃ katvā upanissāya ,摩竭陀大臣雨勢復問曰 阿難 沙門瞿曇不稱說伺 不稱說何等伺
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,katame dasa idha brāhmaṇa bhikkhu sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu b,尊者阿難答曰 雨勢 或有一貪欲所纏而起貪欲 不知出要如真 彼為貪欲所障礙故 伺 增伺而重伺 雨勢 是謂第一伺 世尊不稱說 復次 雨勢 或有一瞋恚所纏而起瞋恚 不知出要如真 彼為瞋恚所障礙故 伺 增伺而重伺 雨勢 是謂第二伺 世尊不稱說 復次
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,evaṃmahiddhike evaṃmahānubhāve pāṇinā parimasati parimajjati yāva brahmalokāpi kāyena vasaṃ vatteti,尊者阿難告曰 欲還隨意
+108,145,TRUE_PAIR,brahma,梵天|梵,,MISSING,evarūpaṃ kho brāhmaṇa so bhagavā jhānaṃ na vaṇṇesi kathaṃ rūpañca brāhmaṇa so bhagavā jhānaṃ vaṇṇesi,尊者阿難答曰 目揵連 若如來 無所著 等正覺解脫 及慧解脫 阿羅訶解脫 此三解脫無有差別 亦無勝如
+108,145,SOFT,brahma,梵天|梵,梵,VARIANT,idha brāhmaṇa bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhā,梵志瞿默目揵連白曰 阿難 可在此食 尊者阿難默然而受
+108,145,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,evarūpaṃ kho brāhmaṇa so bhagavā jhānaṃ vaṇṇesī ti gārayhaṃ kira bho ānanda so bhavaṃ gotamo jhānaṃ garahi pāsaṃsaṃ pasa,梵志瞿默目揵連白曰 阿難 可在此食 尊者阿難默然而受
+108,145,SOFT,brahma,梵天|梵,梵,VARIANT,evarūpaṃ kho brāhmaṇa so bhagavā jhānaṃ vaṇṇesī ti gārayhaṃ kira bho ānanda so bhavaṃ gotamo jhānaṃ garahi pāsaṃsaṃ pasa,梵志瞿默目揵連白曰 阿難 可在此食 尊者阿難默然而受
+108,145,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,handa ca dāni mayaṃ bho ānanda gacchāma bahukiccā mayaṃ bahukaraṇīyā ti,梵志瞿默目揵連白曰 阿難 可在此食 尊者阿難默然而受
+108,145,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,yassadāni tvaṃ brāhmaṇa kālaṃ maññasī ti,梵志瞿默目揵連知默然受已 即從坐起 自行澡水 極美淨妙 種種豐饒食噉含消 自手斟酌 極令飽滿 食訖舉器 行澡水竟 取一小床 別坐聽法
+112,187,TRUE_PAIR,brahma,梵天|梵,,MISSING,idha bhikkhave bhikkhu aññaṃ byākaroti khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyāti pajānāmī ti,耶
+112,187,TRUE_PAIR,brahma,梵天|梵,,MISSING,sādhū ti bhāsitaṃ abhinanditvā anumoditvā evamassa vacanīyo lābhā no āvuso suladdhaṃ no āvuso ye mayaṃ āyasmantaṃ tādisa,汝等聞之 當善然可 歡喜奉行 善然可彼 歡喜奉行已 當復如是語彼比丘 賢者 初說我等已可意歡喜 然我等欲從賢者上復上 求智慧應答
+115,181,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,chayimā ānanda dhātuyo pathavīdhātu āpodhātu tejodhātu vāyodhātu ākāsadhātu viññāṇadhātu,世尊答曰 阿難 若有比丘見十八界知如真 眼界 色界 眼識界 耳界 聲界 耳識界 鼻界 香界 鼻識界 舌界 味界 舌識界 身界 觸界 身識界 意界 法界 意識界 阿難 見此十八界知如真 復次 阿難 見六界知如真 地界 水界 火界 風界 空界 
+115,181,TRUE_PAIR,mara,魔|波旬,,MISSING,jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassūpāyāsā sambhavanti evametassa kevalassa dukkhakkhandhassa samudayo ho,見諦人故害父母 殺阿羅訶 破壞聖眾 惡心向佛 出如來血者 終無是處 若凡夫人故害父母 殺阿羅訶 破壞聖眾 惡心向佛 出如來血者 必有是處 阿難 若見諦人故犯戒 捨戒罷道者 終無是處 若凡夫人故犯戒 捨戒罷道者 必有是處 若見諦人捨離此內 從
+115,181,TRUE_PAIR,mara,魔|波旬,,MISSING,kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya netaṃ ṭhānaṃ vijjatī ti,樂報者 必有是處
+115,181,TRUE_PAIR,mara,魔|波旬,,MISSING,tappaccayā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya ṭhānametaṃ vijjatī ti pajānāti,不得無上正盡覺 盡苦邊者 終無是處 若斷五蓋 心穢 慧羸 心正立四念處 修七覺意 得無上正盡覺 盡苦邊者 必有是處 阿難 如是比丘知是處 非處
+115,181,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ettāvatā kho ānanda ṭhānāṭhānakusalo bhikkhū ti alaṃ vacanāyā ti,尊者阿難白曰 世尊 如是比丘知是處 非處
+115,181,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,tasmātiha tvaṃ ānanda imaṃ dhammapariyāyaṃ bahudhātuko tipi naṃ dhārehi catuparivaṭṭo tipi naṃ,於是 尊者阿難叉手向佛 白曰 世尊 此經名何 云何奉持
+119,98,SOFT,mara,魔|波旬,,MISSING,kāyagatāya bhikkhave satiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhā,若有比丘 比丘尼七年立心正住四念處者 彼必得二果 或現法得究竟智 或
+121,190,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,puna caparaṃ ānanda bhikkhu amanasikaritvā manussasaññaṃ amanasikaritvā araññasaññaṃ pathavīsaññaṃ paṭicca manasi karoti,復次 阿難 比丘若欲多行空者 彼比丘莫念人想 莫念無事想 當數念一地想 彼比丘若見此地有高下 有蛇聚 有
+121,190,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,seyyathāpi ānanda āsabhacammaṃ saṅkusatena suvihataṃ vigatavalikaṃ evameva kho ānanda bhikkhu,復次 阿難 比丘若欲多行空者 彼比丘莫念無事想 莫念地想 當數念一
+121,190,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,tasmātiha ānanda parisuddhaṃ paramānuttaraṃ suññataṃ upasampajja viharissāmā ti evañhi vo ānanda sikkhitabba nti,佛說如是 尊者阿難及諸比丘聞佛所說 歡喜奉行
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,kapilavatthusmiṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena kāḷakhemakassa sakkassa vihāro tenupasaṅkami div,爾時 世尊過夜平旦 著衣持鉢 入迦維羅衛而行乞食 食訖中後 往詣
+122,191,TRUE_PAIR,kapilavatthu,迦維羅衛|迦毗羅衛,迦維羅衛,VARIANT,kapilavatthusmiṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena kāḷakhemakassa sakkassa vihāro tenupasaṅkami div,爾時 世尊過夜平旦 著衣持鉢 入迦維羅衛而行乞食 食訖中後 往詣
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,tena kho pana samayena kāḷakhemakassa sakkassa vihāre sambahulāni senāsanāni paññattāni honti,加羅差摩釋精舍 爾時 加羅差摩釋精舍敷眾多床座 眾多比丘於中住止
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,addasā kho bhagavā kāḷakhemakassa sakkassa vihāre sambahulāni senāsanāni paññattāni,彼時 世尊從加羅差摩釋精舍出 往詣加羅釋精舍 爾時 尊者阿難與眾多比丘在加羅釋精舍中集作衣業 尊者阿難遙見佛來 見已出迎 取佛衣鉢 還敷床座 汲水洗足 佛洗足已 於
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,disvāna bhagavato etadahosi sambahulāni kho kāḷakhemakassa sakkassa vihāre senāsanāni paññattāni,加羅釋精舍坐尊者阿難所敷之座 告曰 阿難 加羅差摩釋精舍敷眾多床座 眾多比丘於中住止
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sambahulā nu kho idha bhikkhū viharantī ti tena kho pana samayena āyasmā ānando sambahulehi bhikkhūhi saddhiṃ ghaṭāya sa,尊者阿難白曰 唯然 世尊 加羅差摩釋精舍敷眾多床座 眾多比丘於中住止 所以者何 我今作衣業
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena ghaṭāya sakkassa vihāro tenupasaṅkami upasaṅkamitvā paññatte ā,時 世尊復告阿難曰 比丘不可欲嘩說 樂於嘩說 合會嘩說 欲眾 樂眾 合會於眾 不欲離眾 不樂獨住遠離之處 若有比丘欲嘩說 樂於嘩說 合會嘩說 欲眾 樂眾 合會於眾 不欲離眾 不樂獨住遠離處者 謂有樂 聖樂 無欲之樂 離樂 息樂 正覺之樂 無
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,nisajja kho bhagavā āyasmantaṃ ānandaṃ āmantesi sambahulāni kho ānanda kāḷakhemakassa sakkassa vihāre senāsanāni paññatt,者 必有是處
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,nisajja kho bhagavā āyasmantaṃ ānandaṃ āmantesi sambahulāni kho ānanda kāḷakhemakassa sakkassa vihāre senāsanāni paññatt,者 必有是處
+122,191,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sambahulā nu kho ettha bhikkhū viharantī ti sambahulāni bhante kāḷakhemakassa sakkassa vihāre senāsanāni paññattāni,阿難 比丘不可欲嘩說 樂於嘩說 合會嘩說 欲眾 樂眾 合會於眾 不欲離眾 不樂獨住遠離之處 若有比丘欲嘩說 樂於嘩說 合會嘩說 欲眾 樂眾 合會於眾 不欲離眾 不樂獨住遠離處者 得時愛樂心解脫 及不時不移動心解脫者 終無是處 阿難 若有比丘
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,na kho ānanda bhikkhu sobhati saṅgaṇikārāmo saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto gaṇārāmo gaṇarato gaṇasammudito,阿難 我行此住處已 生歡悅 我此歡悅 一切身覺正念正智 生喜 生
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,so vatānanda bhikkhu saṅgaṇikārāmo saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto gaṇārāmo gaṇarato,優婆私共來詣我 我便為彼行如是如是心 遠離 樂無欲 我亦復為彼說法 勸助於彼 阿難 若比丘欲多行空者 彼比丘當持內心住止令一定 彼持內心住止令一定已 當念內空 阿難 若比丘作如是說我不持內心住止 不令一定 念內空者 當知彼比丘大自疲勞
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,akicchalābhī akasiralābhīti netaṃ ṭhānaṃ vijjati yo ca kho so ānanda bhikkhu eko gaṇasmā vūpakaṭṭho viharati,阿難 若比丘觀時 則知念外空 其心移動 不趣向近 不得清澄 不住不解於外空者 彼比丘當念內外空 彼念內外空已 其心移動 不趣向近 不得清澄 不住不解於內外空也 阿難 若比丘觀時 則知念內外空 其心移動 不趣向近 不得清澄 不住不解於內外空者
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,so vatānanda bhikkhu saṅgaṇikārāmo saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto gaṇārāmo gaṇarato gaṇasammudito sāmāyikaṃ vā,阿難 比丘當以外空成就遊 彼外空成就遊已 心不移動 趣向於近 得清澄住 解於外空 阿難 如是比丘觀時 則知外空成就遊 心不移動 趣向於近 得清澄住 解於外空者 是謂正知 阿難 比丘當以內外空成就遊 彼內外空成就遊已 心不移動 趣向於近 得清
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,kāmūpasaṃhitā rajanīyā ime kho ānanda pañca kāmaguṇā yattha bhikkhunā abhikkhaṇaṃ sakaṃ cittaṃ,者 彼即滅也 阿難 若有比丘如是觀時 則知五陰中我慢已滅 是謂正知 阿難 是法一向可 一向樂 一向意念 無漏無
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,sace ānanda bhikkhu paccavekkhamāno evaṃ pajānāti atthi kho me imesu pañcasu kāmaguṇesu aññatarasmiṃ vā,尊者阿難白世尊曰 世尊為法本 世尊為法主 法由世尊 唯願說之 我今聞已 得廣知義
+122,191,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,aññatarasmiṃ vā āyatane uppajjati cetaso samudācāro ti evaṃ santametaṃ ānanda bhikkhu evaṃ pajānāti,佛便告曰 阿難 諦聽 善思念之 我當為汝具分別說 尊者阿難受教而聽
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,sace panānanda bhikkhu paccavekkhamāno evaṃ pajānāti natthi kho me imesu pañcasu kāmaguṇesu aññatarasmiṃ vā,佛言 阿難
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,aññatarasmiṃ vā āyatane uppajjati cetaso samudācāro ti evaṃ santametaṃ ānanda bhikkhu evaṃ pajānāti,不其正經 歌詠 記說故 信弟子隨世尊行奉事至命盡也 但 阿難 或彼長夜數聞此法 誦習至
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,pañca kho ime ānanda upādānakkhandhā yattha bhikkhunā udayabbayānupassinā vihātabbaṃ iti rūpaṃ iti,雜 凡人有辯才 彼住無事處山林樹下 或居高巖 寂無音聲 遠離 無惡 無有人民 隨順
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evaṃ kho ānanda satthāraṃ sāvakā sapattavatāya samudācaranti no mittavatāya,私 彼隨梵行還比丘 比丘尼 優婆塞 優婆私已 便不功高而不還家 阿難 若彼不移動心解脫作證 我不說彼有障礙也 若彼得四增上心現法樂居 本為精勤 無放逸遊行故 此或可有
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,kathañcānanda satthāraṃ sāvakā mittavatāya samudācaranti no sapattavatāya,失以弟子多集會故
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,idhānanda satthā sāvakānaṃ dhammaṃ deseti anukampako hitesī anukampaṃ upādāya idaṃ vo hitāya idaṃ vo sukhāyā ti,復次 阿難 彼師弟子效住無事處山林樹下 或居高巖 寂無音聲 遠離 無惡 無有人民 隨順燕坐 或住彼處 學遠離精勤 得增上心 現法樂居 彼學遠離 精勤安隱 快樂遊行已 隨梵行還比丘 比丘尼 優婆塞 優婆私 彼隨梵行還比丘 比丘尼 優婆塞 優婆
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,evaṃ kho ānanda satthāraṃ sāvakā mittavatāya samudācaranti no sapattavatāya,亦不順行 不立於智 其心不趣向法次法 不受正法 違犯師教 不能得定者 如是弟子於師行怨事 不行慈事
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,tasmātiha maṃ ānanda mittavatāya samudācaratha mā sapattavatāya taṃ vo bhavissati dīgharattaṃ hitāya sukhāya,阿難 云何弟子於師行慈事 不行怨事 若尊師為弟子說法 憐念愍傷 求義及饒益 求安隱快樂 發慈悲心 是為饒益 是為快樂 是為饒益樂 若彼弟子恭敬順行而立於智 其心歸趣向法次法 受持正法 不違師教 能得定者 如是弟子於師行慈事 不行怨事 阿難 
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,na vo ahaṃ ānanda tathā parakkamissāmi yathā kumbhakāro āmake āmakamatte,嚴急至苦 若有真實者 必能往也
+122,191,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,niggayha niggayhāhaṃ ānanda vakkhāmi pavayha pavayha ānanda vakkhāmi,佛說如是 尊者阿難及諸比丘 聞佛所說 歡喜奉行
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,seyyathāpi ānanda maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato,我聞世尊知住母胎 依倚右脇 若世尊知住母胎依倚右脇者 我受持是世尊未曾有法 我聞世尊舒體住母胎 若世尊舒體住母胎者 我受持是世尊未曾有法 我聞世尊覆藏住母胎 不為血所污 亦不為精及諸不淨所污 若世尊覆藏
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,evameva kho ānanda yadā bodhisatto mātukucchiṃ okkanto hoti na bodhisattamātu kocideva ābādho uppajjati,我聞世尊初生之時 即行七步 不恐不怖 亦不畏懼 觀察諸方 若世尊初生之時 即行七步 不恐不怖 亦不畏懼 觀察諸方者 我受持是世尊未曾有法
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,seyyathāpi ānanda maṇiratanaṃ kāsike vatthe nikkhittaṃ neva maṇiratanaṃ kāsikaṃ vatthaṃ makkheti nāpi kāsikaṃ vatthaṃ ma,我聞世尊一時遊鞞舍離大林之中 於是 世尊過夜平旦 著衣持鉢 入鞞舍離城而行乞食 乞食已竟 收舉衣鉢 澡洗手足 以尼師
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,ubhinnaṃ suddhattā evameva kho ānanda yadā bodhisatto mātukucchimhā nikkhamati visadova nikkhamati,檀著於肩上 往入林中 至一哆羅樹下 敷尼師檀 結加趺坐 是時中後 一切餘樹影皆轉移 唯哆羅樹其影不移 蔭世尊身 於是釋摩訶男中後
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,tasmātiha tvaṃ ānanda idampi tathāgatassa acchariyaṃ abbhutadhammaṃ dhārehi,我聞世尊一時遊跋耆中 在溫泉林娑羅樹王下坐 爾時中後 一切餘樹影皆轉移 唯娑羅樹王其影不移 蔭世尊身 於是羅摩園主行視園時 日中後 見一切餘樹影皆轉移 唯娑羅樹王其影不移 蔭世尊身 便作是念 沙門瞿曇甚奇 甚特 有大如意足 有大威德 有大福
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,idhānanda tathāgatassa viditā vedanā uppajjanti viditā upaṭṭhahanti viditā abbhatthaṃ gacchanti,我聞世尊一時在阿浮神室中 爾時 世尊過夜平旦 著衣持鉢 入阿浮村而行乞食 乞食已竟 收舉衣鉢 澡洗手足 以尼師檀著於肩上 入神室燕坐 爾時 天大雷雨雹 殺四牛 耕者二人 彼送葬時 大眾喧閙 其聲高大 音響震動 於是 世尊則於晡時燕坐而起 從
+123,32,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,viditā upaṭṭhahanti viditā abbhatthaṃ gacchanti idampi kho tvaṃ ānanda tathāgatassa acchariyaṃ abbhutadhammaṃ dhārehī ti,我聞世尊一時在鬱鞞羅尼連然河邊 阿闍惒羅尼拘類樹下初得佛道 爾時大雨 至于七日 高下悉滿 潢澇橫流 世尊於中露地經行 其處塵起 若世尊潢澇橫流 世尊於中露地經行 其處塵起者 我受持是世尊未曾有法
+124,34,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,na kho maṃ āvuso kassapa evaṃ pucchitabbaṃ imehi pana te āvuso bākula asītiyā vassehi katikkhattuṃ methuno dhammo paṭise,尊者薄拘羅答曰 異學 隨汝所問 聞已當思
+124,34,TRUE_PAIR,kassapa,迦葉|大迦葉,,MISSING,evañca kho maṃ āvuso kassapa pucchitabbaṃ imehi pana te āvuso bākula asītiyā vassehi katikkhattuṃ kāmasaññā uppannapubbā,異學問曰 賢者薄拘羅 於此正法 律中學道幾時
+124,34,TRUE_PAIR,brahma,梵天|梵,,MISSING,nhāyitā nābhijānāmi cuṇṇena nhāyitā nābhijānāmi sabrahmacārīgattaparikamme vicāritā nābhijānāmi,復次 尊者薄拘羅作是說 諸賢 我持糞掃衣來八十年 未曾憶受居士衣 未曾割截作衣 未曾倩他比丘作衣 未曾用針縫衣 未曾持針
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyaka nti,王童子語沙彌曰 賢者阿奇舍那 汝未為他所伏 以何意故而自退耶 賢者阿奇舍那 如隨所聞法 隨所誦習 可向我說 如比丘此法 律中不放逸 行精勤 得一心 若我知者為善 若我不知者 我便不復更問諸法
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,so evaṃ vadeyya passāmi kho ahaṃ samma uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇ,坐起 不辭而去
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,yaṃ tvaṃ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyaka nti,却坐一面 與王童子耆婆先那所共論者 盡向佛說
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,hatthidamako ca dīghatomarayaṭṭhiṃ gahetvā purato ṭhito hoti,調御受御事者 終無是處 若此二調御可調御 善調 阿奇舍那 猶去村不遠 有大石山 無缺無穿 實而不虛 堅固不動 都合為一 或有二人
+125,198,TRUE_PAIR,moggallana,目犍連|目乾連,,MISSING,gaṇakamoggallānasuttante evaṃ vitthāretabbāni,若聖弟子護身及命清淨 護口 意及命清淨者 如來復調御比丘 汝當觀內身如身 乃至觀覺 心 法如法 若聖弟子觀內身如身 乃至觀覺 心 法如法者 此四念處 謂在賢聖弟子心中 繫縛其心 制樂家意 除家欲念 止家疲勞 令樂正法 修習聖戒 阿奇舍那 猶
+125,198,SOFT,mara,魔|波旬,,MISSING,navo cepi aggivessana bhikkhu akhīṇāsavo kālaṅkaroti adantamaraṇaṃ navo bhikkhu kālaṅkato tveva saṅkhaṃ gacchati,頭額 耳 牙及鼻皆不動搖 如是野象隨調象師住不移動 如是 阿奇舍那 若聖弟子離欲 離惡不善之法 至得第四禪成就遊者 如是聖弟子則隨如來住不移動
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,dantamaraṇaṃ daharo rañño nāgo kālaṅkato tveva saṅkhaṃ gacchati,可重 實可供養 為一切天人良福田也
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,dantamaraṇaṃ thero bhikkhu kālaṅkato tveva saṅkhaṃ gacchati majjhimo cepi aggivessana bhikkhu,調死者 說善調御死 阿奇舍那 少聖弟子善調御命終者 說善調御命終 中 老聖弟子善調御命終者 說善調御命終
+125,198,TRUE_PAIR,mara,魔|波旬,,MISSING,navo cepi aggivessana bhikkhu khīṇāsavo kālaṅkaroti dantamaraṇaṃ navo bhikkhu kālaṅkato tveva saṅkhaṃ gacchatī ti,佛說如是 沙彌阿夷那和提及諸比丘 聞佛所說 歡喜奉行
+127,79,TRUE_PAIR,mara,魔|波旬,,MISSING,so kāyassa bhedā paraṃ maraṇā parisuddhābhānaṃ devānaṃ sahabyataṃ upapajjati,賢者迦旃延 因是緣是 彼淨光天生在一處 知有勝如 妙與不妙 所以者何 因人心勝如故 修便有精麤 因修有精麤故 得人則有勝如 賢者迦旃延 世尊亦如是說 人有勝如
+128,72,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,idha mayhaṃ bhante evaṃ hoti lābhā vata me suladdhaṃ vata me yohaṃ evarūpehi sabrahmacārīhi saddhiṃ viharāmī ti,言 我今殺汝 我今殺汝 長生博士聞已 白曰 天王勿怖 天王勿怖 所以者何 彼拘娑羅國王長壽兒長生童子者 即我身是 天王 我作是念 加赦國王梵摩達哆酷暴無道 彼取我父無過之人 奪取其國倉庫財物 怨酷枉殺 斬作七段 而于今日已在我手 但當報怨 
+128,72,TRUE_PAIR,brahma,梵天|梵,,MISSING,lābhā vata me suladdhaṃ vata me yohaṃ evarūpehi sabrahmacārīhi saddhiṃ viharāmī ti,於是 諸比丘聞佛所說 有作是言 世尊法主今且住也 彼
+129,199,TRUE_PAIR,mara,魔|波旬,,MISSING,caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati,比方 但地獄中極苦甚苦
+129,199,TRUE_PAIR,mara,魔|波旬,,MISSING,so kāyena duccaritaṃ caritvā vācāya duccaritaṃ caritvā manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ dugga,提提鼻伽羅 愚癡人者 以本時貪著食味 行身惡行 行口 意惡行 彼行身惡行 行口 意惡行已 因此緣此 身壞命終 生畜生中 謂水中生 水中長 水中死 是謂畜生苦
+129,199,SOFT,mara,魔|波旬,,MISSING,caritvā manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati,迦 愚癡人者 以本時貪著食味 行身惡行 行口 意惡行 彼行身惡行 行口 意惡行已 因此緣此 身壞命終 生畜生中 謂食屎不淨 是謂畜生苦
+129,199,TRUE_PAIR,mara,魔|波旬,,MISSING,sucaritaṃ caritvā manasā sucaritaṃ caritvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati,世尊告曰 是謂愚癡人法 智慧人法 汝等應當知愚癡人法 智慧人法 知愚癡人法 智慧人法已 捨愚癡人法 取智慧人法 當如是學
+130,64,TRUE_PAIR,mara,魔|波旬,,MISSING,sammādiṭṭhikammasamādānā te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā,猶如兩屋共一門 多人出入 若有目人住一處 觀出時入時 我亦如是 以淨天眼出過於人 見此眾生死時 生時 好色 惡色 或妙 不妙 往來善處及不善處 隨此眾生之所作業 見其如真 若此眾生成就身惡行 口 意惡行 誹謗聖人 邪見成就邪見業 彼因緣此 
+130,64,SOFT,mara,魔|波旬,,MISSING,samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā te kāyassa bhedā paraṃ maraṇā manussesu upapannā,若有目人住高樓上 觀於下人往來周旋 坐臥走踊 我亦如是 以淨天眼出過於人 見此眾生死時 生時 好色 惡色 或妙 不妙 往來善處及不善處 隨此眾生之所作業 見其如真 若此眾生成就身惡行 口 意惡行 誹謗聖人 邪見成就邪見業 彼因緣此 身壞命終
+130,64,TRUE_PAIR,mara,魔|波旬,,MISSING,samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā te kāyassa bhedā paraṃ maraṇā tiracchānayoniṃ up,於是 閻王以初天使善問 善撿 善教 善訶 汝頗曾見初天使來耶 彼人答曰 不見也 天王 閻王復問 汝本不見一村邑中 或男或女 幼小嬰孩 身弱柔軟 仰向自臥大小便中 不能語父母 父母抱移離不淨處 澡浴其身 令得淨潔 彼人答曰 見也 天王 閻王復
+130,64,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā ti tamenaṃ bhikkhave nirayapālā nānābāhāsu gahetvā yamassa rañño dasse,軁步 拄杖而行 身體戰動耶 彼人答曰 見也 天王 閻王復問 汝於其後有識知時 何不作是念 我自有老法 不離於老 我應行妙身 口 意業 彼人白曰 天王 我了敗壞 長衰永失耶 閻王告曰 汝了敗壞 長衰永失 今當考汝 如治放逸行 放逸人 汝此惡業
+130,64,TRUE_PAIR,mara,魔|波旬,,MISSING,maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā ti tamenaṃ bhikkhave nirayapālā nānābāhāsu gahetvā yamassa rañño dasse,軁步 拄杖而行 身體戰動耶 彼人答曰 見也 天王 閻王復問 汝於其後有識知時 何不作是念 我自有老法 不離於老 我應行妙身 口 意業 彼人白曰 天王 我了敗壞 長衰永失耶 閻王告曰 汝了敗壞 長衰永失 今當考汝 如治放逸行 放逸人 汝此惡業
+130,64,TRUE_PAIR,brahma,梵天|梵,,MISSING,kataṃ na mittāmaccehi kataṃ na ñātisālohitehi kataṃ na samaṇabrāhmaṇehi kataṃ na devatāhi kataṃ,四天使來耶 彼人答曰 不見也 天王 閻王復問 汝本不見一村邑中 或男或女 若死亡時 或一 二日 至六 七日 烏鵄所
+130,64,TRUE_PAIR,brahma,梵天|梵,,MISSING,taṃ kho panāhaṃ bhikkhave nāññassa samaṇassa vā brāhmaṇassa vā sutvā vadāmi api ca yadeva sāmaṃ ñātaṃ sāmaṃ diṭṭhaṃ sāma,見受使恐怖 求願生老盡 無受滅無餘 便為生老訖
+132,167,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi yathā kathaṃ pana tvaṃ ānanda bhikkhūnaṃ dhammiyā,尊者阿難即往佛所 稽首作禮 却住一面 世尊問曰 阿難 汝實為諸比丘夜集講堂 說跋地羅帝偈及其義耶
+132,167,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,kathañca ānanda atītaṃ anvāgameti pe evaṃ kho ānanda atītaṃ anvāgameti,世尊即復問曰 阿難 云何比丘願未來耶
+132,167,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,kathañca ānanda atītaṃ nānvāgameti pe evaṃ kho ānanda atītaṃ nānvāgameti,世尊即復問曰 阿難 云何比丘不願未來
+132,167,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,kathañca ānanda anāgataṃ paṭikaṅkhati pe evaṃ kho ānanda anāgataṃ paṭikaṅkhati,世尊即復問曰 阿難 云何比丘受現在法
+132,167,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,kathañca ānanda anāgataṃ nappaṭikaṅkhati pe evaṃ kho ānanda anāgataṃ nappaṭikaṅkhati,世尊即復問曰 阿難 云何比丘受現在法
+132,167,SOFT,ananda,阿難|阿難陀,阿難,VARIANT,kathañca ānanda paccuppannesu dhammesu saṃhīrati pe evaṃ kho ānanda paccuppannesu dhammesu saṃhīrati,世尊即復問曰 阿難 云何比丘受現在法
+132,167,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,kathañca ānanda paccuppannesu dhammesu na saṃhīrati pe evaṃ kho ānanda paccuppannesu dhammesu na saṃhīrati,地羅帝偈及其義也
+133,165,TRUE_PAIR,brahma,梵天|梵,,MISSING,atthasaṃhito bhikkhu bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako ti,彼天答曰 世尊遊此王舍城 在竹林迦蘭於是 尊者三彌提 天沒不久往詣佛所 稽首作禮 却坐一面 白曰 世尊 我於今日夜將向旦出房往詣彼溫泉所 脫衣岸上 入溫泉浴 浴已便出 住岸拭身 爾時 有一天形體極妙 色像巍巍 夜將向旦 來詣我所 稽首作禮 
+133,165,TRUE_PAIR,brahma,梵天|梵,,MISSING,tesaṃ no bhante amhākaṃ etadahosi ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārī,若學聖人行 孰知愁於死 要不會彼 大苦災患終
+134,166,TRUE_PAIR,kapilavatthu,迦維羅衛|迦毗羅衛,,MISSING,tena kho pana samayena āyasmā lomasakaṅgiyo sakkesu viharati kapilavatthusmiṃ nigrodhārāme,爾時 尊者盧夷強耆遊於釋中 在無事禪室 於是 尊者盧夷強耆夜將向旦 從彼禪室出 在露地禪室蔭中 於繩床上敷尼師
+134,166,SOFT,brahma,梵天|梵,,MISSING,atthasaṃhito bhikkhu bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako ti,比丘 我如是受持跋地羅帝偈 不受持義
+134,166,TRUE_PAIR,kapilavatthu,迦維羅衛|迦毗羅衛,,MISSING,ekamidāhaṃ bhante samayaṃ sakkesu viharāmi kapilavatthusmiṃ nigrodhārāme,彼天答曰 佛遊舍衛國 在勝林給孤獨園 彼受持跋天沒不久 於是 尊者盧夷強耆在釋中受夏坐訖 過三月已 補治衣竟 攝衣持鉢 往詣舍衛國 展轉進前 至舍衛國 住勝林給孤獨園
+134,166,TRUE_PAIR,brahma,梵天|梵,,MISSING,atthasaṃhito bhikkhu bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako ti,地羅帝偈及其義善受持誦 彼天說如是 稽首我足 繞三匝已 即彼處沒
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,idha māṇava ekacco itthī vā puriso vā issāmanako hoti paralābhasakkāragarukāramānanavandanapūjanāsu issati upadussati is,鸚鵡摩納 若汝不信我所說者 汝可還歸語白狗曰 若前世時是我父者 白狗當還在大床上 摩納 白狗必還上床也 若前世時是我父者 白狗還於金槃中食 摩納 白狗必當還於金槃中食也 若前世時是我父者 示我所舉金 銀 水精 珍寶藏處 謂我所不知 摩納 白
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,appesakkhasaṃvattanikā esā māṇava paṭipadā yadidaṃ issāmanako hoti paralābhasakkāragarukāramānanavandanapūjanāsu issati ,於是 鸚鵡摩納聞佛所說 善受持誦 繞世尊已 而還其家 語白狗曰 若前世時是我父者 白狗當還在大床上 白狗即還在大床上 若前世時是我父者 白狗還於金槃中食 白狗即還金槃中食 若前世時是我父者 當示於我父本所舉金 銀 水精 珍寶藏處 謂我所不知
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,idha pana māṇava ekacco itthī vā puriso vā anissāmanako hoti paralābhasakkāragarukāramānanavandanapūjanāsu na issati na ,掊床四脚下 鸚鵡摩納便從彼處大得寶物
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,mahesakkhasaṃvattanikā esā māṇava paṭipadā yadidaṃ anissāmanako hoti paralābhasakkāragarukāramānanavandanapūjanāsu na is,於是 鸚鵡摩納都提子得寶物已 極大歡喜 以右膝著地 叉手向勝林給孤獨園 再三舉聲 稱譽世尊 沙門瞿曇所說不虛 沙門瞿曇所說真諦 沙門瞿曇所說如
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,idha māṇava ekacco itthī vā puriso vā na dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilep,實 再三稱譽已 從舍衛出 往詣勝林給孤獨園
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,appabhogasaṃvattanikā esā māṇava paṭipadā yadidaṃ na dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ māl,世尊告曰 鸚鵡摩納今命終者 如屈伸臂頃 必至善處 所以者何 彼於我極有善心 若有眾生因善心故 身壞命終 必至善處 生於天中
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,idha pana māṇava ekacco itthī vā puriso vā dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavil,爾時 鸚鵡摩納往詣佛所 共相問訊 却坐一面 世尊告曰 云
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,mahābhogasaṃvattanikā esā māṇava paṭipadā yadidaṃ dātā hoti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāga,何 摩納 如我所說白狗者為如是耶 不如是耶
+135,170,SOFT,sakka,帝釋|天帝釋,,MISSING,sakkātabbaṃ na sakkaroti garukātabbaṃ na garukaroti mānetabbaṃ na māneti pūjetabbaṃ na pūjeti,瞿曇 何因何緣 彼眾生者 俱受人身而有高下 有妙不妙 所以者何 瞿曇 我見有短壽 有長壽者
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,sakkātabbaṃ na sakkaroti garukātabbaṃ na garukaroti mānetabbaṃ na māneti pūjetabbaṃ na pūjeti,見有多病 有少病者 見不端正 有端正者 見無威德 有威德者 見有卑
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,paccuṭṭhātabbaṃ paccuṭṭheti āsanārahassa āsanaṃ deti maggārahassa maggaṃ deti sakkātabbaṃ sakkaroti,世尊答曰 彼眾生者 因自行業 因業得報 緣業 依業 業處 眾生隨其高下處妙不妙
+135,170,TRUE_PAIR,sakka,帝釋|天帝釋,,MISSING,paccuṭṭhātabbaṃ paccuṭṭheti āsanārahassa āsanaṃ deti maggārahassa maggaṃ deti sakkātabbaṃ sakkaroti,世尊告曰 摩納 諦聽 善思念之 我當為汝廣分別說
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,idha māṇava ekacco itthī vā puriso vā samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā na paripucchitā hoti,佛言 摩納 何因 何緣男子女人壽命極短 若有男子女人殺生凶弊 極惡飲血 害意著惡 無有慈心於諸眾生乃至蜫蟲 彼受此業 作具足已 身壞命終 必至惡處 生地獄中 來生人間 壽命極短 所以者何 此道受短壽 謂男子女人殺生凶弊 極惡飲血 摩納 當
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,duppaññasaṃvattanikā esā māṇava paṭipadā yadidaṃ samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā na paripucchitā hoti,摩納 何因 何緣男子女人多有疾病 若有男子女人觸嬈眾生 彼或以手拳 或以木石 或以刀杖觸嬈眾生 彼受此業 作具足已 身壞命終 必至惡處 生地獄中 來生人間 多有疾病 所以者何 此道受多疾病 謂男子女人觸嬈眾生 摩納 當知此業有如是報也 摩納
+135,170,TRUE_PAIR,brahma,梵天|梵,,MISSING,idha pana māṇava ekacco itthī vā puriso vā samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā paripucchitā hoti,強言 不大瞋恚 不憎嫉生憂 不廣生諍怒 彼受此業 作具足已 身壞命終 必昇善處 生於天中 來生人間 形體端正 所以者何 此道受形體端正 謂男子女人不急性多惱 摩納 當知此業有如是報也
+135,170,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,mahāpaññasaṃvattanikā esā māṇava paṭipadā yadidaṃ samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā paripucchitā hoti,摩納 何因 何緣男子女人無有財物 若有男子女人不作施主 不行布施 彼不施與沙門 梵志 貧窮 孤獨 遠來乞者飲食 衣被 華鬘 塗香 屋舍 床榻 明燈 給使 彼受此業 作具足已 身壞命終 必至惡處 生地獄中 來生人間 無有財物 所以者何 此道受
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,ekamantaṃ nisinno kho āyasmā samiddhi yāvatako ahosi potaliputtena paribbājakena saddhiṃ kathāsallāpo taṃ sabbaṃ āyasmat,座起 奮頭而去
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi passasi no tvaṃ ānanda imassa udāyissa moghapurisassa ummaṅgaṃ,於是 尊者阿難 尊者大周那共往詣佛 尊者大周那稽首佛足 却
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,aññāsiṃ kho ahaṃ ānanda idānevāyaṃ udāyī moghapuriso ummujjamāno ayoniso ummujjissatī ti,坐一面 尊者阿難稽首佛足 却住一面
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,ādiṃyeva ānanda potaliputtena paribbājakena tisso vedanā pucchitā,彼時 尊者阿難語曰 賢者大周那 可說 可說
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,sacāyaṃ ānanda samiddhi moghapuriso potaliputtassa paribbājakassa evaṃ puṭṭho evaṃ byākareyya,於是 世尊問曰 阿難 周那比丘欲說何事
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evaṃ byākaramāno kho ānanda samiddhi moghapuriso potaliputtassa paribbājakassa sammā byākaramāno byākareyya,尊者阿難白曰 世尊 若三彌提比丘因此事說 所有覺者是苦 當何咎耶
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,api ca ānanda ke ca aññatitthiyā paribbājakā bālā abyattā ke ca tathāgatassa mahākammavibhaṅgaṃ jānissanti,世尊呵尊者阿難曰 看 阿難比丘亦復無道 阿難 此三彌提癡人 彼異學哺羅陀子盡問三覺 樂覺 苦覺 不苦不樂覺 阿難 若三彌提癡人為異學哺羅陀子所問 如是答者 賢哺羅陀子 若故作樂業 作已成者 當受樂報 若故作苦業 作已成者 當受苦報 若故作不
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,sace tumhe ānanda suṇeyyātha tathāgatassa mahākammavibhaṅgaṃ vibhajantassā ti,分別大業經者 於如來倍復增上心靖得喜
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,tena hānanda suṇāhi sādhukaṃ manasi karohi bhāsissāmī ti,世尊告曰 阿難 諦聽 善思念之 我當為汝具分別說
+136,171,TRUE_PAIR,mara,魔|波旬,,MISSING,sammādiṭṭhi samattā samādinnā tena so kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati,阿難 若有一不離殺 不與取 邪婬 妄言乃至耶 若所見所知極力捫摸 一向著說 此是真諦 餘皆虛妄
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,tatrānanda yvāyaṃ puggalo idha pāṇātipātā paṭivirato adinnādānā paṭivirato pe sammādiṭṭhi kāyassa,邪見 此不離 不護已 身壞命終 生善處天中 我聽彼也 若作是說 若更有如是比不離殺 不與取 邪婬 妄言 乃至邪見 此不離 不護者 彼一切身壞命終 亦生善處天中 者 我不聽彼 若作是說 如是見者 則為正見 異是見者 則彼智趣邪 者 我不聽彼 
+136,171,TRUE_PAIR,mara,魔|波旬,,MISSING,bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati pubbe vāssa taṃ kataṃ hoti,阿難 於中若有一沙門 梵志得天眼 成就天眼 作如是說 無身妙行 亦無身妙行報 無口 意妙行 亦無口 意妙行報 我不聽彼 若作是說 我見彼離殺 不與取 邪婬 妄言乃至邪見 此離 護已 身壞命終 生惡處地獄中 我聽彼也 若作是說 若更有如是比離
+136,171,TRUE_PAIR,mara,魔|波旬,,MISSING,pāpakammaṃ dukkhavedanīyaṃ pacchā vāssa taṃ kataṃ hoti pāpakammaṃ dukkhavedanīyaṃ maraṇakāle vāssa hoti,阿難 於中若有一沙門 梵志得天眼 成就天眼 作如是說 有身惡行 亦有身惡行報 有口 意惡行 亦有口 意惡行報 我聽彼也 若作是說 我見彼不離殺 不與取 邪婬 妄言乃至邪見 此不離 不護已 身壞命終 生惡處地獄中 者 我聽彼也 若作是說 若更
+136,171,TRUE_PAIR,mara,魔|波旬,,MISSING,micchādiṭṭhi samattā samādinnā tena so kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati,離 不護者 彼一切身壞命終 亦生惡處地獄中 者 我不聽彼 若作是說 如是見者 則為正見 異是見者 則彼智趣邪 者 我不聽彼 若所見所知極力捫摸 一向著說 此是真諦 餘皆虛妄者 我不聽彼 所以者何 阿難 如來知彼人異
+136,171,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,iti kho ānanda atthi kammaṃ abhabbaṃ abhabbābhāsaṃ atthi kammaṃ abhabbaṃ bhabbābhāsaṃ atthi kammaṃ,阿難 若有一離殺 不與取 邪婬 妄言乃至邪見 此離 護已 身壞命終 生善處天中者 彼即因此緣此 身壞命終 生善處天中 或復本作善業 作已成者 因離 護故 未盡應受報 彼因此緣此 身壞命終 生善處天中 或復死時生善心 心所有法正見相應 彼因此
+137,163,TRUE_PAIR,mara,魔|波旬,,MISSING,tayo satipaṭṭhānā yadariyo sevati yadariyo sevamāno satthā gaṇamanusāsitumarahatī ti iti yaṃ taṃ vuttaṃ idametaṃ paṭicca,復次 如來為弟子說法 憐念愍傷 求義及饒益 求安隱快樂 發慈悲心 是為饒益 是為快樂 是為饒益樂 或有弟子而不恭敬 亦不順行 不立於智 其心不趣向法 次法 不受正法 違世尊教 不能得定者 或有弟子恭敬順行而立於智 其心歸趣向法 次法 受持正
+138,164,TRUE_PAIR,brahma,梵天|梵,,MISSING,tesaṃ no āvuso kaccāna amhākaṃ etadahosi ayaṃ kho āyasmā mahākaccāno satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabra,坐起 入室燕坐
+138,164,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,so hāvuso bhagavā jānaṃ jānāti passaṃ passati cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninne,於是 諸比丘往詣尊者大迦旃延所 共相問訊 却坐一面 白曰 尊者大迦旃延 當知世尊略說此義 不廣分別 即從坐起 入室燕坐 比丘 如是如是觀 如汝觀已 比丘 心出外灑散 心不住內 不受而恐怖 比丘 如是如是觀 如汝觀已 比丘 心不出外不灑散 心
+138,164,TRUE_PAIR,brahma,梵天|梵,,MISSING,addhāvuso kaccāna bhagavā jānaṃ jānāti passaṃ passati cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto,尊者大迦旃延告諸比丘 諸賢等 共聽我所說 諸賢 云何比丘心出外灑散 諸賢 比丘眼見色 識食色相 識著色樂相 識縛色樂相 彼色相味結縛心出外灑散 如是耳 鼻 舌 身 意知法 識食法相 識著法樂相 識縛法樂相 彼法相味結縛心出外灑散 諸賢 如是
+141,31,TRUE_PAIR,brahma,梵天|梵,梵,VARIANT,pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā,乾連比丘能令立於最上真際 謂究竟漏盡 舍梨子比丘生諸梵行 猶如生母 目連比丘長養諸梵行 猶如養母 是以諸梵行者 應奉事供養恭敬禮拜舍梨子 目乾連比丘 所以者何 舍梨子 目乾連比丘為諸梵行者求義及饒益 求安隱快樂 爾時 世尊說如是已 即從
+141,31,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,sevatha bhikkhave sāriputtamoggallāne bhajatha bhikkhave sāriputtamoggallāne paṇḍitā bhikkhū anuggāhakā sabrahmacārīnaṃ,諸賢 說所求不得苦者 此說何因 諸賢 謂眾生生法 不離生法 欲得令我而不生者 此實不可以欲而得 老法 死法 愁憂慼法 不離憂慼法 欲得令我不憂慼者 此亦不可以欲而得 諸賢 眾生實生苦而不可樂 不可愛念 彼作是念 若我生苦而不可樂 不可愛念者
+141,31,TRUE_PAIR,brahma,梵天|梵,,MISSING,sevatha bhikkhave sāriputtamoggallāne bhajatha bhikkhave sāriputtamoggallāne paṇḍitā bhikkhū anuggāhakā sabrahmacārīnaṃ,諸賢 說所求不得苦者 此說何因 諸賢 謂眾生生法 不離生法 欲得令我而不生者 此實不可以欲而得 老法 死法 愁憂慼法 不離憂慼法 欲得令我不憂慼者 此亦不可以欲而得 諸賢 眾生實生苦而不可樂 不可愛念 彼作是念 若我生苦而不可樂 不可愛念者
+141,31,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ āyasmā sāriputto etadavoca,諸賢 云何愛習苦習聖諦 謂眾生實有愛內六處 眼處 耳 鼻 舌 身 意處 於中若有愛 有膩 有染 有著者 是名為習 諸賢 多聞聖弟子知我如是知此法 如是見 如是了 如是視 如是覺 是謂愛習苦習聖諦 如是知之 云何知耶 若有愛妻 子 奴婢 給使
+141,31,TRUE_PAIR,brahma,梵天|梵,,MISSING,pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā,伺 可念則念 可望則望 是名正志
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,阿難,VARIANT,evametaṃ ānanda yaṃ hānanda puggalo puggalaṃ āgamma buddhaṃ saraṇaṃ gato hoti dhammaṃ saraṇaṃ gato hoti,阿難 云何有十四私施 得大福 得大果 得大功德 得大廣報 有信族姓男 族姓女布施如來 施
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,kathañcānanda dakkhiṇā paṭiggāhakato visujjhati no dāyakato,有施果 受者亦精進行妙法 見來見果 如是見 如是說 有施有施果 是謂布施
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,idhānanda dāyako hoti dussīlo pāpadhammo paṭiggāhakā honti sīlavanto kalyāṇadhammā evaṃ kho ānanda dakkhiṇā paṭiggāhakat,因施主淨 受者亦然 於是 世尊說此頌曰 精進施不精進 如法得歡喜心
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,kathañcānanda dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato,信有業及果報 此施因施主淨
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,idhānanda dāyako ca hoti dussīlo pāpadhammo paṭiggāhakā ca honti dussīlā pāpadhammā evaṃ kho ānanda dakkhiṇā neva dāyaka,不精進施精進 不如法非喜心 不信業及果報 此施因
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,kathañcānanda dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca,受者淨
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,idhānanda dāyako ca hoti sīlavā kalyāṇadhammo paṭiggāhakā ca honti sīlavanto kalyāṇadhammā evaṃ kho ānanda dakkhiṇā dāya,懈怠施不精進 不如法非喜心 不信業及果報 如是施無廣報
+142,180,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,imā kho ānanda catasso dakkhiṇā visuddhiyo ti,精進施於精進 如法得歡喜心 信有業及果報 如是施有廣報
+143,28,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,nāhaṃ bhante ānanda olīyāmi napi saṃsīdāmi api ca me dīgharattaṃ satthā payirupāsito manobhāvanīyā ca bhikkhū na ca me e,尊者舍梨子 我因此光明往至竹林加蘭哆園 爾時 世尊夜其向旦 從禪室出 露地經行而待於我 尊者舍梨子 我遙見佛端正姝好 猶星中月 光
+143,28,TRUE_PAIR,sariputta,舍利弗|舍梨子,,MISSING,tena hi bhante sāriputta gihīnampi odātavasanānaṃ evarūpī dhammī kathā paṭibhātu,世尊寐安隱 至竟眠快耶
+143,28,TRUE_PAIR,jetavana,祇樹|祇陀林,,MISSING,abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami,尊者舍梨子 我於爾時入舍衛國 竟不還家 便先往詣童子勝所 白曰 童子 可賣此園持與我耶 爾時 童子便語我曰 長者當知 吾不賣園 如是 再三白曰 童子 可賣此園持與我耶 爾時 童子亦復再三而語我曰 吾不賣園 至億億布滿 我即白曰 童子今已決斷
+143,28,TRUE_PAIR,ananda,阿難|阿難陀,,MISSING,sādhu sādhu ānanda yāvatakaṃ kho ānanda takkāya pattabbaṃ anuppattaṃ taṃ tayā anāthapiṇḍiko so ānanda devaputto ti,坐起去

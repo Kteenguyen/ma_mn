@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>MN–MA Sutta Divergence Dashboard · Phase 4</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.39.0/build/stlite.css" />
+    <style>
+      #root:empty::before {
+        content: "☸️ Đang tải dữ liệu Majjhima Nikāya & Madhyama Āgama...";
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: sans-serif;
+        color: #94a3b8;
+        background: #0f172a;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.39.0/build/stlite.js"></script>
+    <script>
+      stlite.mount(
+        {
+          requirements: ["plotly", "pandas", "numpy"],
+          entrypoint: "dashboard.py",
+          files: {
+            "dashboard.py": { url: "/Dashboard/src/dashboard.py" },
+            "final/Phase3_Sutta_Summary.csv": { url: "/Dashboard/src/final/Phase3_Sutta_Summary.csv" },
+            "final/Phase3_Pair_Divergence.csv": { url: "/Dashboard/src/final/Phase3_Pair_Divergence.csv" },
+            "final/Phase3_Key_Findings.csv": { url: "/Dashboard/src/final/Phase3_Key_Findings.csv" },
+            "final/Phase3_CaseStudies.csv": { url: "/Dashboard/src/final/Phase3_CaseStudies.csv" },
+            "final/Phase3_SemanticShift.csv": { url: "/Dashboard/src/final/Phase3_SemanticShift.csv" },
+            "final/Phase3_ProperNoun.csv": { url: "/Dashboard/src/final/Phase3_ProperNoun.csv" },
+            "final/Phase3_Numeric.csv": { url: "/Dashboard/src/final/Phase3_Numeric.csv" },
+            "final/Phase3_Formulaic_Omission.csv": { url: "/Dashboard/src/final/Phase3_Formulaic_Omission.csv" },
+            "Phase2_Dictionary_v19_v2.csv": { url: "/Phase2_Dictionary_v19_v2.csv" },
+          },
+        },
+        document.getElementById("root")
+      );
+    </script>
+  </body>
+</html>

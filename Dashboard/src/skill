@@ -1,0 +1,101 @@
+Tôi không hướng đến việc xây dựng từ điển mà sẽ cho các bạn một đề tài gần với đề xuất trên:
+
+So sánh Trung Bộ Kinh (Majjhima Nikāya - MN) và Trung A-hàm (Madhyama Āgama - MA)
+
+Mục tiêu của đề tài này này phát hiện ra những lớp văn bản bị thêm thắt, lược bỏ hoặc thay đổi ý nghĩa qua hàng ngàn năm truyền miệng và dịch thuật.
+
+
+
+Đây là đề tài mà HT. Thích Minh Châu và Bhikkhu Analayo đã làm bằng tay xong, ta sẽ có kết quả để đối chiếu giữa các xử lý bằng máy và bằng tay. Ngoài ra, các thư viện cũng được hỗ trợ khá nhiều, nhưng có nhiều khái niệm mới mà các bạn phải tìm hiểu thêm.
+
+
+
+1. Nguồn Dữ liệu (The Corpus)
+
+Để máy tính có thể xử lý, chúng ta cần dữ liệu ở định dạng "sạch" (Plain text, JSON hoặc XML).
+
+-Dữ liệu Pali (MN): Khai thác từ SuttaCentral (dạng JSON) hoặc VRI (Vipassana Research Institute).
+
+-Dữ liệu Hán tạng (MA): Sử dụng kho dữ liệu của CBETA (Chinese Buddhist Electronic Text Association) - đây là nguồn chuẩn nhất hiện nay với định dạng XML/TEI. Chú ý so sánh cả phần Trung A-hàm chính và các bản biệt dịch.
+
+
+
+Dữ liệu đối chiếu (Mapping): Sử dụng cơ sở dữ liệu "Parallels" từ SuttaCentral API. Đây là bảng mã cho biết bài kinh nào trong hệ Pali tương ứng với bài kinh nào trong hệ Hán tạng (ví dụ: MN 1 tương ứng với MA 106).
+
+
+
+2. Các Kỹ thuật và Công cụ triển khai
+
+Vì hai văn bản nằm ở hai ngôn ngữ khác nhau (Pali và Hán cổ), chúng ta không thể dùng hàm so sánh ký tự đơn giản mà phải dùng các kỹ thuật NLP nâng cao:
+
+-Xử lý ngôn ngữ tự nhiên (NLP):
+
+  +Pali: Sử dụng thư viện để tách từ (Tokenization) và đưa về dạng gốc (Lemmatization) - ví dụ: dukkhasmā, dukkhaṃ đều về dukkha. Các thư viện, dự án, framework: CLTK (Classical Language Toolkit), Digital Pāḷi Dictionary (DPD),  Pali-NLP (của Dr. Sebastian Nehrdich), Simsapa.
+
+  +Hán cổ: Sử dụng các thư viện như Jieba, HanLP hoặc Stanza (mô hình toán học cho chữ Hán cổ) để tách từ (vì chữ Hán viết liền nhau). Các pretrained models cho Hán cổ:  SikuBERT / SikuRoBERTa, GuwenBERT. Ngoài ra, có thể dùng OpenCC (Open Chinese Convert) để chuyển phổ thể - giản thể; và CBETA API để lấy dữ liệu đã hiệu đính.
+
+-Nhúng từ đa ngữ (Cross-lingual Word Embeddings): * Sử dụng các mô hình như mBERT hoặc LASER đã được tinh chỉnh (fine-tuned) trên văn bản Phật giáo để máy tính hiểu được rằng từ "苦" (Khổ) trong tiếng Hán tương đương với "Dukkha" trong tiếng Pali về mặt ngữ nghĩa.
+
+-Thuật toán so sánh chuỗi (Sequence Alignment): * Áp dụng thuật toán Needleman-Wunsch (thường dùng trong sinh học để so sánh gen) để tìm ra các đoạn văn bản tương đồng (segments) giữa hai bản kinh dù cấu trúc câu có thể khác nhau.
+
+-Phân tích định lượng: * Tính toán độ tương đồng (như độ tương đồng Cosine - Cosine Similarity) để đo lường mức độ giống nhau giữa hai bài kinh tương ứng.
+
+
+
+3. Kế hoạch (Roadmap)
+
+Giai đoạn 1: Tiền xử lý (Data Cleaning)
+
+-Tải dữ liệu từ SuttaCentral/CBETA.
+
+-Loại bỏ các thành phần nhiễu (số trang, chú thích, ký hiệu biên tập).
+
+-Cấu trúc hóa dữ liệu thành các cặp bài kinh tương ứng (Parallel Pairs).
+
+
+
+Giai đoạn 2: Xây dựng Từ điển Đối chiếu (Semantic Mapping)
+
+-Xây dựng một bộ từ điển đối chiếu các thuật ngữ thuật ngữ Phật giáo Pali - Hán dựa trên các từ điển hiện có (như của Soothill hoặc Digital Dictionary of Buddhism).
+
+-Sử dụng AI để huấn luyện một mô hình "nhúng từ" (Word2Vec) trên cả hai ngữ liệu để tìm các từ có ngữ cảnh sử dụng giống nhau.
+
+
+
+Giai đoạn 3: Phân tích sự sai khác (Difference Detection)
+
+Chạy thuật toán so sánh để phát hiện:
+
+-Đoạn thừa/thiếu: Bài kinh Pali có đoạn này nhưng bản Hán không có và ngược lại.
+
+-Sự thay đổi về số lượng: (Ví dụ: Pali nói 5 uẩn, nhưng bản Hán liệt kê khác đi).
+
+-Sự khác biệt về danh từ riêng: Tên địa danh, tên nhân vật.
+
+
+
+Giai đoạn 4: Trực quan hóa và Công bố (Visualization)
+
+-Xây dựng một Dashboard (bằng Python Streamlit hoặc JavaScript D3.js).
+
+-Hiển thị hai văn bản song song, các đoạn giống nhau tô màu xanh, đoạn khác nhau tô màu đỏ.
+
+-Hệ thống tra cứu song ngữ tự động: Một công cụ cho phép người dùng nhập một đoạn kinh Pali và máy tính tự động tìm đoạn tương ứng trong bản Hán với độ chính xác cao nhất (không chỉ dựa trên mã bài kinh mà dựa trên nội dung thực tế).
+
+4. Kết quả hướng đến (Deliverables)
+
+Đây là các kết quả/ kết luận xa hơn, mang tính ngữ nghĩa có thể hướng đến.
+
+-Bản đồ tương đồng (Similarity Heatmap): Một biểu đồ cho thấy toàn bộ Trung Bộ Kinh và Trung A-hàm giống nhau bao nhiêu %. Bài kinh nào có biến động lớn nhất?
+
+-Danh mục các biến thể thuật ngữ: Một bảng thống kê các thuật ngữ bị dịch khác đi hoặc thay đổi ý nghĩa (Semantic shift) giữa hai truyền thống.
+
+-Hệ thống tra cứu song ngữ tự động: Một công cụ cho phép người dùng nhập một đoạn kinh Pali và máy tính tự động tìm đoạn tương ứng trong bản Hán với độ chính xác cao nhất (không chỉ dựa trên mã bài kinh mà dựa trên nội dung thực tế).
+
+-Phát hiện các "lớp" văn bản: Đưa ra bằng chứng số học về việc bản kinh nào có vẻ cổ hơn, hoặc bản kinh nào đã được biên tập lại nhiều hơn thông qua độ phức tạp của từ vựng.
+
+
+npx getdesign@latest add cohere
+
+Dựa trên tiêu chuẩn thiết kế này, build giao diện dashboard.py cho tôi
+21  

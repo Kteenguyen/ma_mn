@@ -1,0 +1,36 @@
+Phase3_Sutta_Summary.csv — 90 rows
+Dùng cho: Sidebar danh sách + Heatmap
+Mỗi row = 1 cặp kinh. Có divergence score, loại dị biệt, số OMISSION/DRIFT/ADDITION. Đây là file trung tâm — load lên là có ngay toàn bộ danh sách 90 suttas để hiển thị.
+
+Phase3_Pair_Divergence.csv — 2,082 rows
+Dùng cho: Parallel Viewer (xem song song từng đoạn)
+Mỗi row = 1 cặp đoạn văn Pali↔Hán. Có text thực tế, Div_Type, Missing_Terms. Khi user click vào 1 cặp kinh → load các rows tương ứng để hiển thị song song.
+
+Phase3_Key_Findings.csv — 100 rows
+Dùng cho: Tab "Phát hiện nổi bật"
+Top 100 đoạn dị biệt nhất toàn corpus, có Div_Confidence = HIGH/MEDIUM. Dùng làm trang khám phá nhanh mà không cần chọn cặp kinh cụ thể.
+
+Phase3_CaseStudies.csv — 5 rows
+Dùng cho: Tab "Case Studies"
+Phân tích sâu 5 cặp kinh tiêu biểu. Có tên tiếng Anh, tiếng Việt, đoạn dị biệt nhất kèm text, summary giải thích bằng tiếng Việt. Đây là phần học thuật nhất, dùng để thuyết trình hoặc giải thích cho người không chuyên.
+
+Phase3_Numeric.csv — 24 rows
+Dùng cho: Bảng "Dị biệt số đếm"
+Các trường hợp số trong Pali không khớp với Hán. Ví dụ MN10: Pali nói 6 (cha) nhưng MA ghi 7 (七). Nhỏ nhưng cụ thể — bằng chứng rõ nhất về thay đổi nội dung giáo lý.
+
+Phase3_ProperNoun_clean.csv — 442 rows
+Dùng cho: Bảng "Danh từ riêng"
+Tên nhân vật và địa danh: MISSING = không có trong MA, VARIANT = dùng tên khác. Māra missing 85×, Brahma 63×. Dùng để hiển thị bảng thống kê hoặc filter theo tên nhân vật.
+
+Phase3_SemanticShift_clean.csv — 14 rows
+Dùng cho: Bảng "Biến thể thuật ngữ"
+14 thuật ngữ giáo lý có nhiều cách dịch khác nhau trong MA. Ví dụ vinnana dịch thành 識|內|諸賢|復|比丘 — 5 variants. Dùng để hiển thị bảng tra cứu thuật ngữ.
+
+Heatmap          ← Sutta_Summary
+Sidebar list     ← Sutta_Summary
+Parallel Viewer  ← Pair_Divergence
+Key Findings     ← Key_Findings
+Case Studies     ← CaseStudies
+Số đếm           ← Numeric
+Danh từ riêng    ← ProperNoun_clean
+Thuật ngữ        ← SemanticShift_clean

@@ -1,0 +1,21 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/Dashboard/src/final/:path*",
+      "destination": "/Dashboard/src/final/:path*"
+    },
+    {
+      "source": "/Phase2_Dictionary_v19_v2.csv",
+      "destination": "/Phase2_Dictionary_v19_v2.csv"
+    },
+    {
+      "source": "/Dashboard/src/dashboard.py",
+      "destination": "/Dashboard/src/dashboard.py"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

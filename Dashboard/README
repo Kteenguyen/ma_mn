@@ -1,0 +1,4 @@
+ động Dashboard:**
+
+python -m pip install matplotlib
+python -m streamlit run dashboard.py

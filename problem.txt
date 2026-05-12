@@ -1,0 +1,7 @@
+1. Các kĩ thuật (Needleman-Wunsch, LaBSE, Keyword Injection, Han Dedup...) nên được trình bày chi tiết trong 1 chương. Cần làm rõ cách xử lý từng cặp câu và từng khối là 2 phương pháp hay 2 bước? Cách ngắt câu hay cách ngắt khối như thế nào (dựa vào bản CBETA, tipitaka.org hay phương pháp nào?)
+
+2. [MASK] Proper Noun Risk: Ẩn tên nhân vật thành mã [MASK] giúp AI không bị đánh lừa bởi danh từ riêng, ép nó tập trung vào diễn biến hành động. Tuy nhiên, trong nghiên cứu văn bản cổ, người thực hiện hành động đôi khi lại là điểm dị bản cốt lõi (ví dụ: bản Pali ghi A-nan hỏi, nhưng bản Hán ghi La-hầu-la hỏi). Nếu che đi, hệ thống sẽ chấm điểm cao cho 2 câu này vì động từ giống nhau, dẫn đến việc chúng ta bỏ lỡ một sự sai lệch lịch sử quan trọng. Rủi ro mất mát dữ liệu này cần được giải quyết.
+
+3. Ablation Study: Hiện đang thiết lập mức phạt 35-70% cho việc ghép chéo thể loại và ngưỡng điểm < 0.25 để kết luận OMISSION/ADDITION. Các con số này được rút ra từ đâu? Đề tài cần có một phần thực nghiệm (Ablation Study) để chứng minh đây là các ngưỡng tối ưu thay vì những con số chọn theo cảm tính.
+
+4. LaBSE Limitation: LaBSE là mô hình đa ngữ xuất sắc nhưng chủ yếu được huấn luyện trên ngôn ngữ hiện đại. Mô hình này có thực sự nắm bắt được các sắc thái từ vựng cổ của Hán văn và Pali không? Cần có phương án Fine-tuning (tinh chỉnh) mô hình này bằng một bộ từ điển thuật ngữ Phật học.

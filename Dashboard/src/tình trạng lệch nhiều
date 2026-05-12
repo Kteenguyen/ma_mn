@@ -1,0 +1,26 @@
+
+Đây là một câu hỏi rất hay và cũng chính là trái tim của dự án mà bạn đang làm. Việc lý giải được sự sai lệch này sẽ giúp phần "Kết luận" hoặc "Báo cáo" của bạn mang giá trị học thuật rất cao.
+
+Mặc dù đúng là cả hai đều xuất phát từ những lời dạy của Đức Phật (bản gốc ban đầu - ur-text), nhưng có 4 nguyên nhân chính dẫn đến sự lệch pha nghiêm trọng sau hàng ngàn năm, khiến cho việc "so sánh từng câu chữ" là một thách thức lớn:
+
+1. Khác biệt về Bộ phái (Sectarian Differences)
+Sau khi Phật nhập diệt, Tăng đoàn phân liệt thành nhiều bộ phái khác nhau:
+
+Trung Bộ Kinh (MN - Pali): Thuộc về Thượng Tọa Bộ (Theravāda), truyền xuống phía Nam (Tích Lan, Myanmar, Thái Lan).
+Trung A-hàm (MA - Hán Cổ): Được dịch từ bản gốc tiếng Phạn/Prakrit của Thuyết Nhất Thiết Hữu Bộ (Sarvāstivāda), truyền lên phía Bắc (Trung Á, Trung Quốc). Mỗi bộ phái có một hệ thống triết lý riêng. Trong quá trình lưu truyền, các nhà biên tập của mỗi bộ phái đã âm thầm thêm thắt, sắp xếp lại hoặc lược bỏ các đoạn văn để làm nổi bật hoặc bảo vệ quan điểm triết học của trường phái mình.
+2. Sự "rơi rụng" qua quá trình Truyền khẩu (Oral Transmission)
+Kinh điển Phật giáo không được viết ra giấy ngay lập tức. Chúng được truyền miệng (học thuộc lòng) trong suốt 400-500 năm đầu tiên trước khi được chép thành văn bản.
+
+Khi truyền miệng ở hai khu vực địa lý cách xa nhau (Nam Ấn và Bắc Ấn), trí nhớ của các vị sư, thói quen đọc tụng của từng vùng miền đã tạo ra những dị bản.
+Một số đoạn bị mất đi do các vị sư thuộc lòng đoạn đó qua đời, hoặc được các vị sư sáng tác thêm vào để giải thích cho rõ nghĩa.
+3. Tổn thất khi Phiên dịch (Translation Loss)
+Kinh Pali (MN): Giữ được cấu trúc ngôn ngữ gốc của Ấn Độ giáo cổ đại.
+Kinh Hán (MA): Được dịch viên Tăng-già-đề-bà (Saṅghadeva) dịch sang chữ Hán vào cuối thế kỷ thứ 4 (khoảng năm 398 TL). Việc chuyển từ hệ ngôn ngữ biến hình (Sanskrit/Prakrit) sang hệ ngôn ngữ tượng hình (chữ Hán) khiến cấu trúc câu bị thay đổi hoàn toàn. Nhiều thành ngữ Ấn Độ không có từ tương đương trong tiếng Hán nên dịch giả phải bóp méo, tóm tắt hoặc diễn xuôi lại ý nghĩa.
+4. Lược bỏ điệp ngữ (Repetition & Abbreviation)
+Đây là nguyên nhân kỹ thuật lớn nhất khiến máy tính bị "khớp" số dòng:
+
+Đặc trưng của kinh Pali là tính lặp lại rất cao (Peyyāla). Để dễ nhớ, một công thức tu tập có thể được lặp đi lặp lại nguyên văn tới chục lần, chỉ thay đổi mỗi tên gọi (ví dụ: lặp lại cho Mắt, rồi lặp nguyên văn y hệt cho Tai, Mũi, Lưỡi...).
+Tuy nhiên, người Trung Quốc khi dịch kinh lại có thói quen tóm tắt. Họ thường lược bỏ các đoạn lặp lại và chỉ ghi "như trên", "cho đến...". 👉 Hậu quả: Một bài kinh Pali có thể dài 200 đoạn (segments), nhưng bản Hán dịch chỉ còn 80 đoạn. Lệch số lượng segment là điều tất yếu.
+Tóm lại: Bài kinh gốc thời Phật giống như hạt giống. Hạt giống rớt xuống Tích Lan mọc thành cây MN (Pali), rớt xuống Trung Quốc mọc thành cây MA (Hán). Dù cùng DNA nhưng cành lá sẽ mọc khác nhau do thổ nhưỡng và thời gian.
+
+👉 Công cụ bạn đang viết bằng thuật toán Needleman-Wunsch chính là chiếc "máy quét X-Ray" để so sánh 2 cái cây này, giúp các học giả Phật giáo chỉ ra chính xác: "À, cái cành này (đoạn văn này) người Trung Quốc tự ghép thêm vào này, bên Pali không hề có!". Đây là một dự án mang giá trị số hóa và nghiên cứu lịch sử cực kỳ lớn!

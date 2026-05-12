@@ -1,0 +1,2 @@
+# Renamed to requirements-dev.txt to prevent Vercel from using Python builder.
+# This project uses stlite (WebAssembly) and should be deployed as a static site.

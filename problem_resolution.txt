@@ -1,0 +1,80 @@
+================================================================================
+BÁO CÁO GIẢI QUYẾT VẤN ĐỀ — dashboard.py (Dashboard Phân Tích Dị Biệt MN–MA)
+Ngày: 12/05/2026
+================================================================================
+
+1. NGUYÊN NHÂN GỐC
+────────────────────
+Các vấn đề KHÔNG phải lỗi code — mà là phản hồi từ hội đồng/giảng viên yêu cầu
+dashboard phải giải thích và bảo vệ phương pháp luận. File dashboard.py ban đầu
+không có tab tài liệu phương pháp, để lại 4 mối lo ngại chưa được giải đáp:
+
+  (a) Quy trình alignment 2 bước (phân đoạn → căn chỉnh DP) chưa được giải thích;
+      không rõ đây là 2 phương pháp độc lập hay 2 bước tuần tự.
+  (b) Chiến lược thay thế danh từ riêng bằng [MASK] có điểm mù đã biết:
+      các dị biệt ở cấp độ nhân vật (ví dụ: A-nan vs La-hầu-la) có thể bị
+      chấm điểm PARALLEL vì câu sau khi mask có cấu trúc giống nhau.
+  (c) Các ngưỡng (PARALLEL_EMB=0.35, GAP_PENALTY=0.10, WINDOW_RATIO=15%) không
+      có cơ sở thực nghiệm hiển thị cho người dùng — trông có vẻ tùy ý.
+  (d) Hạn chế của LaBSE với Pali cổ/Hán cổ chưa được đề cập; không có tài liệu
+      về các biện pháp khắc phục (Keyword Injection + Lex Overlap).
+
+2. CÁC HÀNH ĐỘNG ĐÃ THỰC HIỆN
+────────────────────────────────
+• [dashboard.py dòng 311-325] Thêm tab mới "📋 Methodology" (tab thứ 10) vào
+  danh sách tab và gán biến tương ứng.
+
+• [dashboard.py dòng 795-845] Nâng cấp tab "🏷️ Proper Nouns & Numbers" (Tab 7)
+  với phần "[MASK] Risk Mitigation" mới:
+  - Thêm 4 metric: Tổng số kiểm tra Danh từ riêng, MATCH, MISSING, VARIANT
+  - Thêm cảnh báo hiển thị số lượng dị biệt cấp nhân vật được phát hiện
+    bởi phân tích ProperNoun riêng (vô hình với embedding similarity)
+
+• [dashboard.py dòng 1054-1305] Tạo tab Methodology & Validation hoàn chỉnh
+  với 4 phần dựa trên dữ liệu thực:
+
+  Phần 1 — Kiến trúc Pipeline:
+    - Bảng giải thích quy trình 2 bước (Phân đoạn → Căn chỉnh DP)
+    - Nguồn phân đoạn: tipitaka.org/SuttaCentral (Pali), CBETA XML (Hán)
+    - Metric trực tiếp: độ dài chunk trung bình, số lượng TRUE_PAIR/SOFT
+
+  Phần 2 — Rủi ro [MASK] với Danh từ riêng:
+    - Tài liệu hóa chiến lược giảm thiểu 3 lớp (Phân tích Danh từ riêng
+      chuyên biệt, Lex Overlap, Phát hiện Thuật ngữ Thiếu)
+    - Biểu đồ tròn trực tiếp về phân bố MATCH/MISSING/VARIANT
+    - Danh sách các danh từ riêng bị MISSING nhiều nhất
+
+  Phần 3 — Cơ sở Ngưỡng & Phân tích Độ nhạy:
+    - Bảng tất cả ngưỡng pipeline kèm phương pháp xác định
+    - Phân tích độ nhạy trực tiếp: quét ngưỡng PARALLEL từ 0.20–0.50
+    - Biểu đồ cột xếp chồng + histogram cho thấy điểm uốn tại 0.35
+    - Làm rõ "phạt 35-70%" = Dynamic Merge Penalty (chống overcollapse)
+
+  Phần 4 — Hạn chế LaBSE:
+    - Tài liệu hóa 3 lớp giảm thiểu (Keyword Injection, Lex Overlap, Hybrid Score)
+    - Lộ trình Fine-tuning (cải tiến trong tương lai)
+    - Biểu đồ phân tán trực tiếp: Emb_Sim vs Lex_Overlap cho thấy tín hiệu bổ trợ
+    - Metric: Emb Sim TB, Lex Overlap TB, Hybrid Score TB
+
+• [problem.txt] Lưu lại phản hồi từ hội đồng dưới dạng các vấn đề có cấu trúc
+  để theo dõi.
+
+3. CÁC BƯỚC TIẾP THEO
+───────────────────────
+• Chạy dashboard để kiểm tra:
+    cd Dashboard\src
+    streamlit run dashboard.py
+
+• Không cần cài thêm thư viện mới — tất cả thay đổi sử dụng các import
+  hiện có (streamlit, plotly, pandas, numpy).
+
+• Cho chương luận văn: xuất nội dung tab Methodology làm cơ sở cho
+  Chương 3 (Phương pháp luận) hoặc Chương 4 (Triển khai).
+
+• Tương lai: triển khai fine-tuning LaBSE trên kho ngữ liệu song song
+  Phật giáo (cần GPU + dữ liệu câu Pali–Hán được gán nhãn để huấn luyện).
+
+• Tương lai: chạy ablation study chính thức, thay đổi ngưỡng một cách hệ thống
+  và đo precision/recall so với ground truth được chú giải thủ công
+  (các nghiên cứu so sánh của Bhikkhu Anālayo).
+================================================================================
