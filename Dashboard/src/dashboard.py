@@ -24,6 +24,23 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # ─────────────────────────────────────────────────────────────
+# HELPERS FOR STLITE/WASM
+# ─────────────────────────────────────────────────────────────
+def _prepare_df(df, numeric_cols=None):
+    """Robust dataframe preparation for stlite/wasm Plotly calls."""
+    if df.empty: return df
+    tdf = df.copy()
+    if numeric_cols:
+        for c in numeric_cols:
+            if c in tdf.columns:
+                tdf[c] = pd.to_numeric(tdf[c], errors='coerce').fillna(0)
+    # Convert all columns to standard types to avoid Wasm serialization issues
+    for c in tdf.columns:
+        if not pd.api.types.is_numeric_dtype(tdf[c]):
+            tdf[c] = tdf[c].astype(str)
+    return tdf
+
+# ─────────────────────────────────────────────────────────────
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -380,10 +397,13 @@ with tab_overview:
     with col_l:
         st.markdown("##### Hybrid Similarity spectrum by segment")
         if not sutta_df.empty:
+            pdf = _prepare_df(sutta_df, numeric_cols=["Hyb_Similarity"])
+            pdf["Segment_No"] = pdf.index
+
             fig_area = px.area(
-                sutta_df.reset_index(), x="index", y="Hyb_Similarity",
+                pdf, x="Segment_No", y="Hyb_Similarity",
                 color_discrete_sequence=["#3b82f6"],
-                labels={"index":"Segment #","Hyb_Similarity":"Hybrid Similarity"},
+                labels={"Segment_No":"Segment #","Hyb_Similarity":"Hybrid Similarity"},
             )
             fig_area.add_hline(y=0.40, line_dash="dot", line_color="#10b981",
                                annotation_text="0.40", annotation_position="right")
@@ -439,9 +459,9 @@ with tab_overview:
     # ── Emb sim distribution ──────────────────────────────────
     if not sutta_df.empty:
         st.markdown("##### Embedding Similarity distribution (by divergence type)")
+        box_df = _prepare_df(sutta_df[sutta_df["Div_Type"].isin(list(TYPE_COLOR.keys()))], numeric_cols=["Emb_Sim_Combined"])
         fig_box = px.box(
-            sutta_df[sutta_df["Div_Type"].isin(list(TYPE_COLOR.keys()))],
-            x="Div_Type", y="Emb_Sim_Combined",
+            box_df, x="Div_Type", y="Emb_Sim_Combined",
             color="Div_Type", color_discrete_map=TYPE_COLOR,
             labels={"Div_Type":"Type","Emb_Sim_Combined":"Emb Similarity"},
             points="outliers",
@@ -530,9 +550,9 @@ with tab_corpus:
 
     # ── Heatmap-style bar chart ───────────────────────────────
     st.markdown("##### Divergence Index per sutta pair")
+    bar_df = _prepare_df(disp.sort_values("Divergence_Index", ascending=False), numeric_cols=["Divergence_Index"])
     fig_bar = px.bar(
-        disp.sort_values("Divergence_Index", ascending=False),
-        x="Pair", y="Divergence_Index",
+        bar_df, x="Pair", y="Divergence_Index",
         color="Dominant_Type", color_discrete_map=TYPE_COLOR,
         hover_data=["N_OMISSION","N_SEMANTIC_DRIFT","Mean_Emb_Sim","Pct_High_Div"],
         labels={"Pair":"Sutta Pair","Divergence_Index":"Divergence Index","Dominant_Type":"Type"},
@@ -550,8 +570,9 @@ with tab_corpus:
     col_a, col_b = st.columns(2)
     with col_a:
         st.markdown("##### True Pairs vs. Divergence Index")
+        sc_df = _prepare_df(disp, numeric_cols=["N_True_Pairs","Divergence_Index","N_OMISSION"])
         fig_sc = px.scatter(
-            disp, x="N_True_Pairs", y="Divergence_Index",
+            sc_df, x="N_True_Pairs", y="Divergence_Index",
             size="N_OMISSION", color="Dominant_Type",
             color_discrete_map=TYPE_COLOR,
             text="Pair", hover_data=["N_OMISSION","N_SEMANTIC_DRIFT","Pct_High_Div"],
@@ -567,9 +588,9 @@ with tab_corpus:
 
     with col_b:
         st.markdown("##### Mean Embedding Similarity (lower = most divergent)")
+        emb_df = _prepare_df(disp.sort_values("Mean_Emb_Sim"), numeric_cols=["Mean_Emb_Sim"])
         fig_emb = px.bar(
-            disp.sort_values("Mean_Emb_Sim"),
-            x="Pair", y="Mean_Emb_Sim",
+            emb_df, x="Pair", y="Mean_Emb_Sim",
             color="Mean_Emb_Sim", color_continuous_scale="RdYlGn",
             labels={"Mean_Emb_Sim":"Mean Emb Sim"},
         )
@@ -889,9 +910,10 @@ with tab_form:
             df_form_disp = df_form.copy()
             df_form_disp["Pair"] = df_form_disp.apply(
                 lambda r: f"MN{int(r['MN_No'])}·MA{int(r['MA_No'])}", axis=1)
+            
+            cr_df = _prepare_df(df_form_disp.sort_values("Compression_Ratio", ascending=False), numeric_cols=["Compression_Ratio"])
             fig_cr = px.bar(
-                df_form_disp.sort_values("Compression_Ratio", ascending=False),
-                x="Pair", y="Compression_Ratio",
+                cr_df, x="Pair", y="Compression_Ratio",
                 color="Omission_Severity",
                 color_discrete_map={
                     "EXTREME":"#f43f5e","HEAVY":"#f97316",
