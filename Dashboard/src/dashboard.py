@@ -763,10 +763,13 @@ with tab_terms:
 
     show_cols_sem = ["Pali_Word","N_Han_Variants","Translation_Entropy",
                      "Primary_Han","Primary_Score","All_Han_Variants","Interpretation"]
-    st.dataframe(
-        vsem[show_cols_sem].style.format({"Translation_Entropy":"{:.3f}","Primary_Score":"{:.1f}"}),
-        use_container_width=True, height=380,
-    )
+    try:
+        st.dataframe(
+            vsem[show_cols_sem].style.format({"Translation_Entropy":"{:.3f}","Primary_Score":"{:.1f}"}),
+            use_container_width=True, height=380,
+        )
+    except Exception:
+        st.dataframe(vsem[show_cols_sem], use_container_width=True, height=380)
 
     # Detail expanders
     st.markdown("##### Variant detail (Top 20)")
@@ -791,8 +794,11 @@ with tab_terms:
         fd = df_dict[df_dict["F_Score"] >= min_f].copy()
         dc = [c for c in ["Pali_Word","Han_Word","Co_Occur","PMI","F_Score","Precision","Recall"] if c in fd.columns]
         fmtd = {c:"{:.3f}" for c in ["PMI","F_Score","Precision","Recall"] if c in dc}
-        st.dataframe(fd[dc].reset_index(drop=True).style.format(fmtd),
-                     use_container_width=True, height=360)
+        try:
+            st.dataframe(fd[dc].reset_index(drop=True).style.format(fmtd),
+                         use_container_width=True, height=360)
+        except Exception:
+            st.dataframe(fd[dc].reset_index(drop=True), use_container_width=True, height=360)
         st.caption(f"{len(fd)}/{len(df_dict)} pairs (F-Score ≥ {min_f})")
 
 # ══════════════════════════════════════════════════════════════
@@ -955,12 +961,15 @@ with tab_form:
                            "Total_Pali_Chars","Mean_Han_Chars","Compression_Ratio",
                            "Omission_Severity","Mean_Emb_Sim"] if c in df_form_disp.columns]
         fmt_fr = {"Compression_Ratio":"{:.2f}","Mean_Han_Chars":"{:.0f}","Mean_Emb_Sim":"{:.3f}"}
-        st.dataframe(
-            df_form_disp[fc].reset_index(drop=True)
-            .style.format(fmt_fr)
-            .background_gradient(subset=["Compression_Ratio"], cmap="Reds", vmin=0, vmax=60),
-            use_container_width=True, height=380,
-        )
+        try:
+            st.dataframe(
+                df_form_disp[fc].reset_index(drop=True)
+                .style.format(fmt_fr)
+                .background_gradient(subset=["Compression_Ratio"], cmap="Reds", vmin=0, vmax=60),
+                use_container_width=True, height=380,
+            )
+        except Exception:
+            st.dataframe(df_form_disp[fc].reset_index(drop=True), use_container_width=True, height=380)
 
         # Detail expanders
         st.markdown("##### Sample text detail (Top 10 by compression)")
