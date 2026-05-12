@@ -24,8 +24,12 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # ─────────────────────────────────────────────────────────────
-# HELPERS FOR STLITE/WASM
+# STLITE/WASM COMPATIBILITY HACKS
 # ─────────────────────────────────────────────────────────────
+import sys
+# Force-disable pyarrow to prevent Streamlit from using broken Wasm builds
+sys.modules['pyarrow'] = None
+
 def _prepare_df(df, numeric_cols=None):
     """Robust dataframe preparation for stlite/wasm Plotly calls."""
     if df.empty: return df
@@ -653,9 +657,10 @@ with tab_corpus:
                   .background_gradient(subset=["Divergence_Index"], cmap="RdYlGn_r", vmin=0.5, vmax=0.9)
                   .background_gradient(subset=["Mean_Emb_Sim"],     cmap="RdYlGn",   vmin=0.15, vmax=0.40)
                   .format(fmt))
-    except Exception:
-        styled = disp[show_cols].reset_index(drop=True)
-    st.dataframe(styled, use_container_width=True, height=420)
+        st.dataframe(styled, use_container_width=True, height=420)
+    except Exception as e:
+        # Fallback to plain dataframe if styling fails (common in Wasm/Jinja2 issues)
+        st.dataframe(disp[show_cols].reset_index(drop=True), use_container_width=True, height=420)
 
 # ══════════════════════════════════════════════════════════════
 # TAB 4 · KEY FINDINGS
