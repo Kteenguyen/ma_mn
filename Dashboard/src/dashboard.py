@@ -44,6 +44,25 @@ def _prepare_df(df, numeric_cols=None):
             tdf[c] = tdf[c].astype(str)
     return tdf
 
+def _color_scale(val, vmin, vmax, cmap="RdYlGn", alpha=0.2):
+    """Lightweight color interpolator to avoid matplotlib dependency."""
+    try:
+        v = float(val)
+        f = (v - vmin) / (vmax - vmin) if vmax != vmin else 0
+        f = max(0, min(1, f))
+        if cmap == "RdYlGn_r": f = 1 - f
+        
+        # Red to Yellow to Green
+        if f < 0.5:
+            # Red (255,0,0) to Yellow (255,255,0)
+            r, g, b = 255, int(255 * f * 2), 0
+        else:
+            # Yellow (255,255,0) to Green (0,255,0)
+            r, g, b = int(255 * (1 - (f - 0.5) * 2)), 255, 0
+        return f'background-color: rgba({r},{g},{b},{alpha})'
+    except:
+        return ''
+
 # ─────────────────────────────────────────────────────────────
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────────
@@ -111,13 +130,25 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
 
 /* ── metric cards ── */
 [data-testid="metric-container"] {
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 10px;
-    padding: 14px 16px !important;
+    background: #1e293b; /* Nền tối premium */
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 16px 20px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
-[data-testid="stMetricLabel"] { font-size: 0.75rem !important; color: #64748b; }
-[data-testid="stMetricValue"] { font-size: 1.4rem !important; font-family: 'IBM Plex Mono', monospace; }
+[data-testid="stMetricLabel"] { 
+    font-size: 0.85rem !important; 
+    color: #94a3b8 !important; /* Chữ xám nhạt */
+    font-weight: 600 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+[data-testid="stMetricValue"], [data-testid="stMetricValue"] > div { 
+    font-size: 1.6rem !important; 
+    font-family: 'IBM Plex Mono', monospace; 
+    color: #ffffff !important; /* Chữ trắng rõ nét */
+    font-weight: 700 !important;
+}
 
 /* ── parallel view ── */
 .seg-block {
@@ -132,13 +163,13 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
 }
 .seg-block:hover { box-shadow: 0 4px 20px rgba(0,0,0,.08); }
 
-.seg-left  { padding: 14px 18px; border-right: 1px solid #e2e8f0; background: #fafbff; }
-.seg-right { padding: 14px 18px; background: #fffdf8; }
+.seg-left  { padding: 16px 20px; border-right: 1px solid #e2e8f0; background: #fafbff; }
+.seg-right { padding: 16px 20px; background: #fffdf8; }
 
-.seg-pali { font-family: 'Noto Serif', Georgia, serif; font-size: 0.97rem; line-height: 1.85; color: #1e293b; }
-.seg-han  { font-family: 'Noto Serif', 'Kaiti TC', serif; font-size: 1.1rem;  line-height: 1.85; color: #1e293b; letter-spacing: .02em; }
+.seg-pali { font-family: 'Noto Serif', Georgia, serif; font-size: 1.0rem; line-height: 1.8; color: #1e293b; }
+.seg-han  { font-family: 'Noto Serif', 'Kaiti TC', serif; font-size: 1.15rem;  line-height: 1.8; color: #0f172a; letter-spacing: .01em; }
 
-.seg-meta { font-size: 0.72rem; color: #94a3b8; margin-bottom: 8px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.seg-meta { font-size: 0.75rem; color: #64748b; margin-bottom: 10px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; font-family: 'IBM Plex Mono', monospace; }
 
 .badge {
     display: inline-block;
@@ -390,8 +421,10 @@ with tab_overview:
                 f"MA condensed the Pali by approximately {cr:.0f}×."
             )
         miss = str(r.get("Top_Missing_Terms",""))
-        if miss:
-            st.markdown(f"**Most frequently absent terms:** `{miss.replace('|', '` · `')}`")
+        if miss and miss != "nan":
+            terms = [t.strip() for t in miss.split("|") if t.strip()]
+            badges = "".join([f'<span style="background:#fee2e2; color:#991b1b; padding:2px 8px; border-radius:12px; font-size:0.75rem; margin-right:5px; font-weight:600; border:1px solid #fecdd3;">{t}</span>' for t in terms])
+            st.markdown(f"**Most frequently absent terms:** &nbsp; {badges}", unsafe_allow_html=True)
 
     st.divider()
 
@@ -509,18 +542,31 @@ with tab_parallel:
 
         blocks = []
         for i, row in vdf.iterrows():
-            pali  = _html.escape(str(row["Pali_Text"]))
-            han   = _html.escape(str(row["Han_Text"]))
+            pali  = str(row["Pali_Text"])
+            han   = str(row["Han_Text"])
+            
+            # Highlight present terms if available
+            present = str(row.get('Present_Terms', '')).split('|') if pd.notna(row.get('Present_Terms')) else []
+            present = [p.strip() for p in present if p.strip()]
+            
+            for pterm in present:
+                if len(pterm) > 2:
+                    # Case-insensitive wrap with mark tag for Pali
+                    pali = re.sub(f"({re.escape(pterm)})", r"<mark>\1</mark>", pali, flags=re.IGNORECASE)
+            
+            pali = _html.escape(pali).replace("&lt;mark&gt;", "<mark>").replace("&lt;/mark&gt;", "</mark>")
+            han  = _html.escape(han)
+            
             dt    = str(row.get("Div_Type","UNCERTAIN"))
             miss  = str(row.get("Missing_Terms",""))
             pchk  = str(row.get("Pali_Chunk_ID",""))
             hseg  = str(row.get("Han_Seg_ID",""))
 
             badge  = f'<span class="badge badge-{dt}">{TYPE_EN.get(dt,dt)}</span>'
-            miss_s = f'<div class="miss-tag">⚠️ Missing: {_html.escape(miss)}</div>' if miss not in ("","nan") else ""
+            miss_s = f'<div class="miss-tag">⚠️ Missing: {round(row.get("Missing_Term_Score",0),2)} | {_html.escape(miss).replace("|", " · ")}</div>' if miss not in ("","nan") else ""
 
-            meta_l = f'<div class="seg-meta"><code style="font-size:.7rem">{pchk}</code> {badge}</div>'
-            meta_r = f'<div class="seg-meta"><code style="font-size:.7rem">{hseg}</code></div>'
+            meta_l = f'<div class="seg-meta"><span>{pchk}</span> {badge}</div>'
+            meta_r = f'<div class="seg-meta"><span>{hseg}</span> <span style="margin-left:auto">Score: {row["Div_Score"]:.3f}</span></div>'
 
             blocks.append(
                 f'<div class="seg-block border-{dt}">'
@@ -654,8 +700,8 @@ with tab_corpus:
     try:
         styled = (disp[show_cols].reset_index(drop=True)
                   .style
-                  .background_gradient(subset=["Divergence_Index"], cmap="RdYlGn_r", vmin=0.5, vmax=0.9)
-                  .background_gradient(subset=["Mean_Emb_Sim"],     cmap="RdYlGn",   vmin=0.15, vmax=0.40)
+                  .applymap(lambda v: _color_scale(v, 0.5, 0.9, "RdYlGn_r"), subset=["Divergence_Index"])
+                  .applymap(lambda v: _color_scale(v, 0.15, 0.40, "RdYlGn"), subset=["Mean_Emb_Sim"])
                   .format(fmt))
         st.dataframe(styled, use_container_width=True, height=420)
     except Exception as e:
@@ -965,7 +1011,7 @@ with tab_form:
             st.dataframe(
                 df_form_disp[fc].reset_index(drop=True)
                 .style.format(fmt_fr)
-                .background_gradient(subset=["Compression_Ratio"], cmap="Reds", vmin=0, vmax=60),
+                .applymap(lambda v: _color_scale(v, 0, 60, "RdYlGn_r"), subset=["Compression_Ratio"]),
                 use_container_width=True, height=380,
             )
         except Exception:
@@ -1048,40 +1094,60 @@ with tab_search:
         ]
         if not text_hits.empty:
             st.success(f"Found {len(text_hits)} segments.")
-            for i, row in text_hits.head(20).iterrows():
-                dt    = str(row.get("Div_Type",""))
-                label = TYPE_EN.get(dt, dt)
-                sim   = float(row.get("Hyb_Similarity",0))
-                with st.expander(f"Segment {i+1} — {label}  (sim={sim:.3f})"):
-                    tc1, tc2 = st.columns(2)
-                    with tc1:
-                        st.markdown("**Pali:**")
-                        hl = re.sub(f"(?i)({re.escape(ql)})", r"**\1**", str(row["Pali_Text"]))
-                        st.markdown(hl)
-                    with tc2:
-                        st.markdown("**Chinese:**")
-                        st.markdown(str(row["Han_Text"]))
-                    mt = str(row.get("Missing_Terms",""))
-                    if mt not in ("","nan"):
-                        st.caption(f"⚠️ Missing: {mt}")
+            search_blocks = []
+            for i, row in text_hits.head(30).iterrows():
+                pali = str(row["Pali_Text"])
+                han  = str(row["Han_Text"])
+                
+                # Bilingual highlight
+                pali = re.sub(f"({re.escape(q)})", r"<mark>\1</mark>", pali, flags=re.IGNORECASE)
+                han  = re.sub(f"({re.escape(q)})", r"<mark>\1</mark>", han, flags=re.IGNORECASE)
+                
+                # Sanitize and restore marks
+                pali = _html.escape(pali).replace("&lt;mark&gt;", "<mark>").replace("&lt;/mark&gt;", "</mark>")
+                han  = _html.escape(han).replace("&lt;mark&gt;", "<mark>").replace("&lt;/mark&gt;", "</mark>")
+                
+                dt    = str(row.get("Div_Type","UNCERTAIN"))
+                miss  = str(row.get("Missing_Terms",""))
+                pchk  = str(row.get("Pali_Chunk_ID",""))
+                hseg  = str(row.get("Han_Seg_ID",""))
+
+                badge  = f'<span class="badge badge-{dt}">{TYPE_EN.get(dt,dt)}</span>'
+                miss_s = f'<div class="miss-tag">⚠️ Missing: {_html.escape(miss)}</div>' if miss not in ("","nan") else ""
+
+                meta_l = f'<div class="seg-meta"><span>{pchk}</span> {badge}</div>'
+                meta_r = f'<div class="seg-meta"><span>{hseg}</span> <span style="margin-left:auto">Sim: {row.get("Hyb_Similarity",0):.3f}</span></div>'
+
+                search_blocks.append(
+                    f'<div class="seg-block border-{dt}">'
+                    f'  <div class="seg-left">'
+                    f'    {meta_l}'
+                    f'    <div class="seg-pali">{pali}</div>'
+                    f'    {miss_s}'
+                    f'  </div>'
+                    f'  <div class="seg-right">'
+                    f'    {meta_r}'
+                    f'    <div class="seg-han">{han}</div>'
+                    f'  </div>'
+                    f'</div>'
+                )
+            st.markdown("\n".join(search_blocks), unsafe_allow_html=True)
         else:
             st.info(f"No segments containing `{q}` found in this sutta pair.")
 
         # Full corpus text search
-        with st.expander("🔍 Search full corpus (slower — all 4450+ segments)"):
+        with st.expander("🔍 Search full corpus (all 4450+ segments)"):
             all_hits = df_pair[
                 df_pair["Pali_Text"].astype(str).str.lower().str.contains(ql, na=False) |
                 df_pair["Han_Text"].astype(str).str.lower().str.contains(ql, na=False)
             ]
             if not all_hits.empty:
                 st.success(f"Full corpus: {len(all_hits)} segments containing `{q}`")
-                sc_all = [c for c in ["MN_No","MA_No","Pali_Chunk_ID","Div_Type",
-                                       "Div_Score","Hyb_Similarity","Pali_Text","Han_Text"] if c in all_hits.columns]
-                fmt_all = {c:"{:.3f}" for c in ["Div_Score","Hyb_Similarity"] if c in sc_all}
-                st.dataframe(all_hits[sc_all].head(50).reset_index(drop=True).style.format(fmt_all),
-                             use_container_width=True, height=400)
+                sc_all = [c for c in ["MN_No","MA_No","Div_Type","Pali_Text","Han_Text"] if c in all_hits.columns]
+                st.dataframe(all_hits[sc_all].head(100).reset_index(drop=True),
+                             use_container_width=True, height=450)
             else:
-                st.info(f"Not found in full corpus.")
+                st.info("No results found in full corpus.")
     else:
         st.markdown(
             "💡 **Try searching:** `dukkha`, `nibbana`, `brahma`, `sariputta`, `anatta`…"
